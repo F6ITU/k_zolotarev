@@ -1,0 +1,108 @@
+
+***  EXCELLON DRILL FILE GENERATION  ***
+
+Drill file for drawing: Zlotarev_ 600W _LPF.ipf
+
+
+***  Drill file settings
+
+Coord format   : NN.DDDDD
+Units          : INCHES
+                 (Absolute)
+Leading zero's : OFF
+Expanded mode  : OFF
+Start string   : %
+End string     : M00
+Output format  : ISO (ASCII)
+
+
+***  Drill files / layer pairs
+
+     File            Layers          Via's
+     .d0  :        TOP .. BOTTOM     (281)
+
+
+***  Drill diameter table. File: Zlotarev_ 600W _LPF.ipf.d0
+
+     Tool       Diam      Holes
+       1     23.33 Mil     281
+       2     33.33 Mil       1
+       3     35.00 Mil       8
+       4     43.33 Mil      70
+       5     51.67 Mil      12
+       6     71.67 Mil      42
+       7    118.33 Mil       2
+       8    138.33 Mil       6
+
+
+***  EXCELLON DRILL FILE GENERATION  ***
+
+Drill file for drawing: Zlotarev_ 600W _LPF.ipf
+
+
+***  Drill file settings
+
+Coord format   : NN.DDDDD
+Units          : INCHES
+                 (Absolute)
+Leading zero's : OFF
+Expanded mode  : OFF
+Start string   : %
+End string     : M00
+Output format  : ISO (ASCII)
+
+
+***  Drill files / layer pairs
+
+     File            Layers          Via's
+     .d0  :        TOP .. BOTTOM     (281)
+
+
+***  Drill diameter table. File: Zlotarev_ 600W _LPF.ipf.d0
+
+     Tool       Diam      Holes
+       1     23.33 Mil     281
+       2     33.33 Mil       1
+       3     35.00 Mil       8
+       4     43.33 Mil      70
+       5     51.67 Mil      12
+       6     71.67 Mil      42
+       7    118.33 Mil       2
+       8    138.33 Mil       6
+
+
+***  EXCELLON DRILL FILE GENERATION  ***
+
+Drill file for drawing: Zlotarev_ 600W _LPF.ipf
+
+
+***  Drill file settings
+
+Coord format   : NN.DDDDD
+Units          : INCHES
+                 (Absolute)
+Leading zero's : OFF
+Expanded mode  : OFF
+Start string   : %
+End string     : M00
+Output format  : ISO (ASCII)
+
+
+***  Drill files / layer pairs
+
+     File            Layers          Via's
+     .d0  :        TOP .. BOTTOM     (973)
+
+
+***  Drill diameter table. File: Zlotarev_ 600W _LPF.ipf.d0
+
+     Tool       Diam      Holes
+       1     23.33 Mil     973
+       2     33.33 Mil       1
+       3     35.00 Mil       8
+       4     43.33 Mil      70
+       5     51.67 Mil      12
+       6     71.67 Mil      42
+       7    118.33 Mil       2
+       8    138.33 Mil       6
+
