@@ -1,0 +1,201 @@
+(footprint "ATC_500_HandSoldering"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Capacitor ATC B, hand soldering")
+	(tags "capacitor ATC")
+	(property "Reference" "C1"
+		(at 0 -4.064 0)
+		(layer "F.SilkS")
+		(uuid "ef925557-dae3-48f0-8039-54a76f90f49c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "2.2n"
+		(at 0 3.556 0)
+		(layer "F.Fab")
+		(uuid "334df04e-da57-425b-b846-395ff2b02ebb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "ATC_B:ATC_500_HandSoldering"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f42f1fa0-2e23-473e-bffc-7b14fc68f2de")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2a58f75f-143a-4cc1-b3b6-75d1e5a60cf7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Unpolarized capacitor, small symbol"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1d4f3edb-4182-47b8-87ed-9e9f54cc70ce")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1 1.988)
+		(end 1 1.988)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b1f5f46e-6024-4e82-a276-1f812643726f")
+	)
+	(fp_line
+		(start 1 -1.988)
+		(end -1 -1.988)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1e20f201-f480-4ce7-9382-a32fa960df9e")
+	)
+	(fp_line
+		(start -3.302 1.905)
+		(end -3.302 -1.905)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a7e0fa3a-b48d-47d7-87ec-4667a8e3507e")
+	)
+	(fp_line
+		(start 3.302 -1.905)
+		(end -3.302 -1.905)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "362006af-f8c4-427a-9c00-b129916b0282")
+	)
+	(fp_line
+		(start 3.302 -1.905)
+		(end 3.302 1.905)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f70ffadd-b341-4ee3-be6a-195473ebc8c2")
+	)
+	(fp_line
+		(start 3.302 1.905)
+		(end -3.302 1.905)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "141f522a-bec6-4890-b7a3-f2564e1a2c04")
+	)
+	(fp_line
+		(start -1.651 -1.651)
+		(end 1.651 -1.651)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ace29954-d68a-4ecc-9c77-faa32004d352")
+	)
+	(fp_line
+		(start -1.651 1.651)
+		(end -1.651 -1.651)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f7f31420-afc1-4e41-b2d1-21134cbb0cb2")
+	)
+	(fp_line
+		(start 1.651 -1.651)
+		(end 1.651 1.651)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "93bc0fab-b260-4ce1-b273-8640349a90dc")
+	)
+	(fp_line
+		(start 1.651 1.651)
+		(end -1.651 1.651)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2075dceb-789f-4954-908d-e66315951cfa")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -4.064 0)
+		(layer "F.Fab")
+		(uuid "1aa87b19-51f0-42da-9c5c-bf94d5fd2ec4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2 0)
+		(size 2 3.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "21c9dfae-a7bb-43af-a360-ee1f99ae31c4")
+	)
+	(pad "2" smd rect
+		(at 2 0)
+		(size 2 3.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "8b534565-5369-4053-9a61-b821ab0e20e2")
+	)
+	(model "${KIPRJMOD}/Lib/ATC-B/3D/C_1812_4532Metric.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

@@ -2359,12 +2359,6 @@
 		(uuid "882c107b-541b-4c71-a966-919c3cce0414")
 	)
 	(junction
-		(at 74.422 219.964)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8ace5017-c6fa-4dfa-953d-d00b3bc628a3")
-	)
-	(junction
 		(at 136.144 95.504)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2609,12 +2603,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ba23e7ea-de73-4d1c-bd32-d4390fa5e184")
-	)
-	(junction
-		(at 79.502 219.964)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "baa724bb-adae-47c1-88b6-d39170efa923")
 	)
 	(junction
 		(at 73.914 50.546)
@@ -3166,16 +3154,6 @@
 	)
 	(wire
 		(pts
-			(xy 74.422 219.964) (xy 74.422 221.996)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "14c80011-7e23-4592-b89c-3592ae2f5bd0")
-	)
-	(wire
-		(pts
 			(xy 133.604 22.352) (xy 129.54 22.352)
 		)
 		(stroke
@@ -3613,16 +3591,6 @@
 			(type default)
 		)
 		(uuid "29839841-f785-4137-a1cc-af547b0051af")
-	)
-	(wire
-		(pts
-			(xy 79.502 219.964) (xy 79.502 221.996)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2a422e1a-86c5-4716-af30-17455f90d2e9")
 	)
 	(wire
 		(pts
@@ -7136,7 +7104,7 @@
 	)
 	(text "OK"
 		(exclude_from_sim no)
-		(at 185.928 62.23 0)
+		(at 184.658 61.722 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -7212,6 +7180,19 @@
 		)
 		(uuid "46c945ca-64f9-4544-ac5c-8debe374f37a")
 	)
+	(text "Manque ferrites filtrage DC\n"
+		(exclude_from_sim no)
+		(at 51.054 252.984 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 22 81 1)
+			)
+		)
+		(uuid "47e57562-25df-410b-a737-0897a507eaad")
+	)
 	(text "OK"
 		(exclude_from_sim no)
 		(at 185.674 165.354 0)
@@ -7227,7 +7208,7 @@
 	)
 	(text "OK"
 		(exclude_from_sim no)
-		(at 185.674 197.104 0)
+		(at 185.42 195.072 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -7785,7 +7766,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "T80_60_V:T60_80_V"
 			(at 124.46 157.48 0)
 			(effects
 				(font
@@ -8057,7 +8038,7 @@
 		(dnp no)
 		(uuid "0af41a65-5d56-41e7-a912-d72d28d55b23")
 		(property "Reference" "C39"
-			(at 74.676 84.328 0)
+			(at 72.898 84.582 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8066,7 +8047,7 @@
 			)
 		)
 		(property "Value" "11p"
-			(at 78.486 85.09 0)
+			(at 78.232 83.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8192,7 +8173,7 @@
 		(dnp no)
 		(uuid "0da84f7d-23e8-455f-aa5b-84bbd841354b")
 		(property "Reference" "C5"
-			(at 70.358 22.86 0)
+			(at 68.834 23.368 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8201,7 +8182,7 @@
 			)
 		)
 		(property "Value" "33p"
-			(at 69.596 26.67 0)
+			(at 71.628 26.416 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8397,7 +8378,7 @@
 		(dnp no)
 		(uuid "10a51f42-b1d1-4835-b3ab-ceef16fba003")
 		(property "Reference" "C21"
-			(at 66.294 58.42 0)
+			(at 64.008 58.928 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8406,7 +8387,7 @@
 			)
 		)
 		(property "Value" "200p"
-			(at 65.532 62.23 0)
+			(at 65.278 64.516 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8818,7 +8799,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 56.642 140.208 0)
 			(effects
 				(font
@@ -8953,7 +8934,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 56.642 104.648 0)
 			(effects
 				(font
@@ -9138,7 +9119,7 @@
 		(dnp no)
 		(uuid "1fc8eccc-a668-4090-a941-31375158832f")
 		(property "Reference" "C2"
-			(at 85.344 22.86 0)
+			(at 86.614 23.368 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9147,7 +9128,7 @@
 			)
 		)
 		(property "Value" "1n"
-			(at 84.582 26.67 0)
+			(at 85.344 28.702 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9493,7 +9474,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 145.034 207.264 0)
 			(effects
 				(font
@@ -9813,7 +9794,7 @@
 		(dnp no)
 		(uuid "2b69e392-2399-4896-9c7a-dfde2810a9ff")
 		(property "Reference" "C26"
-			(at 105.41 58.42 0)
+			(at 102.616 59.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9822,7 +9803,7 @@
 			)
 		)
 		(property "Value" "2.7n"
-			(at 104.648 62.23 0)
+			(at 102.362 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9985,7 +9966,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "T80_60_V:T60_80_V"
 			(at 76.962 57.912 0)
 			(effects
 				(font
@@ -10113,7 +10094,7 @@
 			)
 		)
 		(property "Value" "200p"
-			(at 104.902 197.358 0)
+			(at 102.108 197.358 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10510,7 +10491,7 @@
 		(dnp no)
 		(uuid "3522fd23-383b-4d17-b911-4987c0b4f9d5")
 		(property "Reference" "C17"
-			(at 138.938 22.86 0)
+			(at 137.414 23.368 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10519,7 +10500,7 @@
 			)
 		)
 		(property "Value" "20p"
-			(at 139.7 26.67 0)
+			(at 141.478 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10579,7 +10560,7 @@
 		(dnp no)
 		(uuid "377c1d7a-18fc-407d-9355-2a8ed2e95c4a")
 		(property "Reference" "C20"
-			(at 62.23 58.42 0)
+			(at 59.69 59.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10588,7 +10569,7 @@
 			)
 		)
 		(property "Value" "1n"
-			(at 61.468 62.23 0)
+			(at 60.96 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10931,7 +10912,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "T80_60_V:T60_80_V"
 			(at 100.33 90.424 0)
 			(effects
 				(font
@@ -11135,7 +11116,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "T80_60_V:T60_80_V"
 			(at 100.076 57.912 0)
 			(effects
 				(font
@@ -11473,7 +11454,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 145.034 171.704 0)
 			(effects
 				(font
@@ -11728,7 +11709,7 @@
 		(dnp no)
 		(uuid "4a551627-9137-4150-923e-d35bfeeef333")
 		(property "Reference" "C11"
-			(at 109.474 22.86 0)
+			(at 107.188 23.368 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11737,7 +11718,7 @@
 			)
 		)
 		(property "Value" "2.7n"
-			(at 108.712 26.67 0)
+			(at 108.204 28.956 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11797,7 +11778,7 @@
 		(dnp no)
 		(uuid "4a7766c1-cd1a-449b-888d-c31a078c5ee2")
 		(property "Reference" "C41"
-			(at 62.484 90.932 0)
+			(at 64.008 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11806,7 +11787,7 @@
 			)
 		)
 		(property "Value" "13p"
-			(at 61.722 94.742 0)
+			(at 64.262 94.488 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11866,7 +11847,7 @@
 		(dnp no)
 		(uuid "4c9225b5-a89f-4058-a3f9-e5f2553db702")
 		(property "Reference" "C25"
-			(at 93.472 58.42 0)
+			(at 94.996 58.928 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11875,7 +11856,7 @@
 			)
 		)
 		(property "Value" "68p"
-			(at 92.71 62.23 0)
+			(at 94.996 61.976 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12140,7 +12121,7 @@
 		(dnp no)
 		(uuid "510427da-90b5-43f6-930e-4b180437531f")
 		(property "Reference" "C15"
-			(at 130.81 22.86 0)
+			(at 129.032 23.368 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12149,7 +12130,7 @@
 			)
 		)
 		(property "Value" "2.7n"
-			(at 131.572 26.67 0)
+			(at 129.54 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12293,7 +12274,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "T80_60_V:T60_80_V"
 			(at 77.216 125.984 0)
 			(effects
 				(font
@@ -13045,7 +13026,7 @@
 		(dnp no)
 		(uuid "59f4d771-9abc-460c-9aff-4c8fe7c8ac4e")
 		(property "Reference" "C18"
-			(at 74.93 20.828 0)
+			(at 72.898 20.828 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13054,7 +13035,7 @@
 			)
 		)
 		(property "Value" "180p"
-			(at 78.232 20.828 0)
+			(at 82.042 19.812 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13113,8 +13094,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5b5cf43a-1cb5-4169-b3a7-a79464aa4477")
-		(property "Reference" "C3"
-			(at 74.422 48.26 0)
+		(property "Reference" "C37"
+			(at 72.644 47.752 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13123,7 +13104,7 @@
 			)
 		)
 		(property "Value" "12p"
-			(at 78.232 49.022 0)
+			(at 81.28 45.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13167,7 +13148,7 @@
 		(instances
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "C3")
+					(reference "C37")
 					(unit 1)
 				)
 			)
@@ -13200,7 +13181,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 41.656 239.776 0)
 			(effects
 				(font
@@ -13340,7 +13321,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 160.274 104.648 0)
 			(effects
 				(font
@@ -13459,7 +13440,7 @@
 		(dnp no)
 		(uuid "5f855225-abed-48e4-a71e-45ab2401b4f1")
 		(property "Reference" "C28"
-			(at 113.538 58.42 0)
+			(at 110.998 59.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13468,7 +13449,7 @@
 			)
 		)
 		(property "Value" "620p"
-			(at 112.776 62.23 0)
+			(at 113.284 64.262 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13676,7 +13657,7 @@
 		(dnp no)
 		(uuid "60d916e1-5b13-4646-b839-ce9388fba25b")
 		(property "Reference" "C10"
-			(at 105.41 22.86 0)
+			(at 102.362 23.368 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13685,7 +13666,7 @@
 			)
 		)
 		(property "Value" "5.6n"
-			(at 104.648 26.67 0)
+			(at 102.108 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13745,7 +13726,7 @@
 		(dnp no)
 		(uuid "61b30a79-ca42-44f4-9860-36c7dfb12754")
 		(property "Reference" "C27"
-			(at 109.474 58.42 0)
+			(at 106.934 59.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13754,7 +13735,7 @@
 			)
 		)
 		(property "Value" "1n"
-			(at 108.712 62.23 0)
+			(at 109.22 64.262 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14037,7 +14018,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "T80_60_V:T60_80_V"
 			(at 124.46 125.984 0)
 			(effects
 				(font
@@ -14172,7 +14153,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 56.642 171.704 0)
 			(effects
 				(font
@@ -14240,7 +14221,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "T80_60_V:T60_80_V"
 			(at 100.076 22.352 0)
 			(effects
 				(font
@@ -14307,7 +14288,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "T80_60_V:T60_80_V"
 			(at 77.216 157.48 0)
 			(effects
 				(font
@@ -14376,7 +14357,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 56.388 36.576 0)
 			(effects
 				(font
@@ -14509,7 +14490,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "T80_60_V:T60_80_V"
 			(at 76.962 22.352 0)
 			(effects
 				(font
@@ -14645,7 +14626,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 41.402 140.208 0)
 			(effects
 				(font
@@ -14765,7 +14746,7 @@
 		(dnp no)
 		(uuid "6b2e77fd-a846-4f77-9f03-ddefc2490d87")
 		(property "Reference" "D11"
-			(at 142.494 33.274 90)
+			(at 140.208 34.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14774,7 +14755,7 @@
 			)
 		)
 		(property "Value" "SS36"
-			(at 142.494 36.576 90)
+			(at 141.224 37.084 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15008,7 +14989,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 145.288 239.776 0)
 			(effects
 				(font
@@ -15275,7 +15256,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 41.402 207.264 0)
 			(effects
 				(font
@@ -15633,7 +15614,7 @@
 		(dnp no)
 		(uuid "75c1bb4b-9336-4098-86e6-a7e19939dc05")
 		(property "Reference" "C1"
-			(at 62.23 22.86 0)
+			(at 60.706 23.114 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15642,7 +15623,7 @@
 			)
 		)
 		(property "Value" "2.2n"
-			(at 61.468 26.67 0)
+			(at 59.436 26.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15650,7 +15631,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 63.5 24.892 0)
 			(effects
 				(font
@@ -15978,8 +15959,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33p"
-			(at 113.03 197.358 0)
+		(property "Value" "130p"
+			(at 113.538 200.152 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16478,7 +16459,7 @@
 		(dnp no)
 		(uuid "842c3742-9457-45d9-bc34-d68afc51bc47")
 		(property "Reference" "C38"
-			(at 74.676 88.138 0)
+			(at 72.898 88.646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16487,7 +16468,7 @@
 			)
 		)
 		(property "Value" "200p"
-			(at 78.486 88.9 0)
+			(at 80.264 89.408 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16900,7 +16881,7 @@
 		(dnp no)
 		(uuid "8d586fa1-4cc2-46ba-aeac-a4d93414a79a")
 		(property "Reference" "C40"
-			(at 58.42 90.932 0)
+			(at 56.134 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16909,7 +16890,7 @@
 			)
 		)
 		(property "Value" "620p"
-			(at 57.658 94.742 0)
+			(at 54.864 94.742 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16968,8 +16949,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8dbadb5b-f8b7-4859-ae29-55594f465410")
-		(property "Reference" "C34"
-			(at 74.422 51.816 0)
+		(property "Reference" "C36"
+			(at 72.136 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16978,7 +16959,7 @@
 			)
 		)
 		(property "Value" "200p"
-			(at 78.232 52.578 0)
+			(at 84.328 50.546 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17022,7 +17003,7 @@
 		(instances
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "C34")
+					(reference "C36")
 					(unit 1)
 				)
 			)
@@ -17055,7 +17036,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "T80_60_V:T60_80_V"
 			(at 124.46 90.424 0)
 			(effects
 				(font
@@ -17195,7 +17176,7 @@
 		(dnp no)
 		(uuid "8f0374f7-ecce-40cf-879d-b1958fbda481")
 		(property "Reference" "C29"
-			(at 117.602 58.42 0)
+			(at 115.316 59.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17204,7 +17185,7 @@
 			)
 		)
 		(property "Value" "20p"
-			(at 116.84 62.23 0)
+			(at 119.38 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17348,7 +17329,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 144.78 72.136 0)
 			(effects
 				(font
@@ -17763,7 +17744,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 56.388 72.136 0)
 			(effects
 				(font
@@ -17833,7 +17814,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 145.034 140.208 0)
 			(effects
 				(font
@@ -18034,7 +18015,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "T80_60_V:Air_Coil"
 			(at 124.46 193.04 0)
 			(effects
 				(font
@@ -18101,7 +18082,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "T80_60_V:Air_Coil"
 			(at 77.216 193.04 0)
 			(effects
 				(font
@@ -18439,7 +18420,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "T80_60_V:Air_Coil"
 			(at 77.47 225.552 0)
 			(effects
 				(font
@@ -18639,7 +18620,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "T80_60_V:T60_80_V"
 			(at 77.216 90.424 0)
 			(effects
 				(font
@@ -18760,7 +18741,7 @@
 		(dnp no)
 		(uuid "a3d85873-53fa-4a9b-b5dc-96d7053d9967")
 		(property "Reference" "C14"
-			(at 113.538 22.86 0)
+			(at 110.998 23.368 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18769,7 +18750,7 @@
 			)
 		)
 		(property "Value" "40p"
-			(at 112.776 26.67 0)
+			(at 115.062 26.416 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18909,7 +18890,7 @@
 		(dnp no)
 		(uuid "a5b962af-1b56-47d2-bcc9-93d0e9c97097")
 		(property "Reference" "C16"
-			(at 134.874 22.86 0)
+			(at 133.35 23.368 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18918,7 +18899,7 @@
 			)
 		)
 		(property "Value" "130p"
-			(at 135.636 26.67 0)
+			(at 135.128 28.702 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19207,7 +19188,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 56.642 207.264 0)
 			(effects
 				(font
@@ -19277,7 +19258,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 160.274 140.208 0)
 			(effects
 				(font
@@ -19347,7 +19328,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 160.02 72.136 0)
 			(effects
 				(font
@@ -19416,7 +19397,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 41.148 36.576 0)
 			(effects
 				(font
@@ -19553,7 +19534,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 160.274 171.704 0)
 			(effects
 				(font
@@ -19769,7 +19750,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 145.034 104.648 0)
 			(effects
 				(font
@@ -19972,7 +19953,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "T80_60_V:T60_80_V"
 			(at 100.33 125.984 0)
 			(effects
 				(font
@@ -20091,7 +20072,7 @@
 		(dnp no)
 		(uuid "b6421b60-dc8d-4e92-8467-12d1d5be408b")
 		(property "Reference" "C35"
-			(at 74.422 55.626 0)
+			(at 72.898 56.388 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20100,7 +20081,7 @@
 			)
 		)
 		(property "Value" "200p"
-			(at 78.232 56.388 0)
+			(at 82.296 55.626 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20242,7 +20223,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "T80_60_V:T60_80_V"
 			(at 100.33 157.48 0)
 			(effects
 				(font
@@ -20377,7 +20358,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 41.402 171.704 0)
 			(effects
 				(font
@@ -21041,7 +21022,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 41.148 72.136 0)
 			(effects
 				(font
@@ -21179,7 +21160,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 56.896 239.776 0)
 			(effects
 				(font
@@ -21298,7 +21279,7 @@
 		(dnp no)
 		(uuid "c0fc9489-612a-47dd-a716-e782abf1a533")
 		(property "Reference" "C22"
-			(at 70.358 58.42 0)
+			(at 67.818 58.928 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21307,7 +21288,7 @@
 			)
 		)
 		(property "Value" "30p"
-			(at 69.596 62.23 0)
+			(at 71.628 61.976 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21385,7 +21366,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 160.274 207.264 0)
 			(effects
 				(font
@@ -21574,7 +21555,7 @@
 		(dnp no)
 		(uuid "c496b56f-adf9-43b4-8273-cb0e83fd1de8")
 		(property "Reference" "C34"
-			(at 147.066 58.42 0)
+			(at 146.05 59.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21583,7 +21564,7 @@
 			)
 		)
 		(property "Value" "22p"
-			(at 147.828 62.23 0)
+			(at 149.352 61.976 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21776,7 +21757,7 @@
 		(dnp no)
 		(uuid "c641ba86-6bdf-40b1-9834-25fd538e64e2")
 		(property "Reference" "C42"
-			(at 81.534 90.932 0)
+			(at 79.248 91.694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21785,7 +21766,7 @@
 			)
 		)
 		(property "Value" "1n"
-			(at 80.772 94.742 0)
+			(at 80.264 94.996 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21862,7 +21843,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "T80_60_V:T60_80_V"
 			(at 124.206 57.912 0)
 			(effects
 				(font
@@ -21914,7 +21895,7 @@
 		(dnp no)
 		(uuid "c89c9f32-0274-4350-9c18-31dd6b5bd2bb")
 		(property "Reference" "C23"
-			(at 85.344 58.42 0)
+			(at 83.058 59.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21923,7 +21904,7 @@
 			)
 		)
 		(property "Value" "2.7n"
-			(at 84.582 62.23 0)
+			(at 82.296 61.976 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22052,7 +22033,7 @@
 		(dnp no)
 		(uuid "cb71ba61-64fb-433d-a383-20888638b6bf")
 		(property "Reference" "C24"
-			(at 89.408 58.42 0)
+			(at 87.122 59.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22061,7 +22042,7 @@
 			)
 		)
 		(property "Value" "1n"
-			(at 88.646 62.23 0)
+			(at 89.662 64.516 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22121,7 +22102,7 @@
 		(dnp no)
 		(uuid "cbc0d72c-cef8-47ae-9715-e2393bd2f549")
 		(property "Reference" "C6"
-			(at 81.28 22.86 0)
+			(at 82.55 23.368 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22130,7 +22111,7 @@
 			)
 		)
 		(property "Value" "6.2n"
-			(at 80.518 26.67 0)
+			(at 79.756 28.448 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23258,7 +23239,7 @@
 		(dnp no)
 		(uuid "d8e98855-22e9-46ae-9968-4fa3e93cbbdd")
 		(property "Reference" "C30"
-			(at 130.81 58.42 0)
+			(at 129.794 59.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23267,7 +23248,7 @@
 			)
 		)
 		(property "Value" "1n"
-			(at 131.572 62.23 0)
+			(at 129.286 62.484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23412,7 +23393,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 160.528 239.776 0)
 			(effects
 				(font
@@ -23546,7 +23527,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "T80_60_V:Air_Coil"
 			(at 100.584 225.552 0)
 			(effects
 				(font
@@ -23616,7 +23597,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 160.02 36.576 0)
 			(effects
 				(font
@@ -23669,7 +23650,7 @@
 		(dnp no)
 		(uuid "dfacefbc-2d56-4c39-8ee4-8466d84d75ac")
 		(property "Reference" "C33"
-			(at 143.002 58.42 0)
+			(at 141.732 59.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23678,7 +23659,7 @@
 			)
 		)
 		(property "Value" "68p"
-			(at 143.764 62.23 0)
+			(at 144.78 64.008 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23755,7 +23736,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "T80_60_V:T60_80_V"
 			(at 124.206 22.352 0)
 			(effects
 				(font
@@ -23807,7 +23788,7 @@
 		(dnp no)
 		(uuid "e1b653e1-af6c-4a5c-828b-bb79f1e88e9d")
 		(property "Reference" "C19"
-			(at 74.422 16.256 0)
+			(at 72.898 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23816,7 +23797,7 @@
 			)
 		)
 		(property "Value" "620p"
-			(at 78.232 17.018 0)
+			(at 82.296 14.224 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23876,7 +23857,7 @@
 		(dnp no)
 		(uuid "e223ee56-3e12-4112-a66a-a65d88df0fc3")
 		(property "Reference" "C4"
-			(at 66.294 22.86 0)
+			(at 64.77 23.368 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23885,7 +23866,7 @@
 			)
 		)
 		(property "Value" "130p"
-			(at 65.532 26.67 0)
+			(at 65.532 28.956 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23946,7 +23927,7 @@
 		(dnp no)
 		(uuid "e27a3aa1-d59b-4da8-9f32-0cb73689ee1e")
 		(property "Reference" "C31"
-			(at 134.874 58.42 0)
+			(at 134.112 59.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23955,7 +23936,7 @@
 			)
 		)
 		(property "Value" "200p"
-			(at 135.636 62.23 0)
+			(at 135.128 64.262 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24023,8 +24004,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "130p"
-			(at 117.094 197.358 0)
+		(property "Value" "33p"
+			(at 119.38 197.358 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24084,7 +24065,7 @@
 		(dnp no)
 		(uuid "e5ba1321-265c-4081-9025-95d73d2ff5c0")
 		(property "Reference" "C9"
-			(at 89.408 22.86 0)
+			(at 90.932 23.368 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24093,7 +24074,7 @@
 			)
 		)
 		(property "Value" "40p"
-			(at 88.646 26.67 0)
+			(at 90.932 26.924 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25007,7 +24988,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "T80_60_V:Air_Coil"
 			(at 100.33 193.04 0)
 			(effects
 				(font
@@ -25436,7 +25417,7 @@
 		(dnp no)
 		(uuid "f4986ae5-3843-4702-952e-1c1ec5e74e0c")
 		(property "Reference" "C32"
-			(at 138.938 58.42 0)
+			(at 137.922 59.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25445,7 +25426,7 @@
 			)
 		)
 		(property "Value" "200p"
-			(at 139.7 62.23 0)
+			(at 140.208 64.516 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25573,7 +25554,7 @@
 		(dnp no)
 		(uuid "f7b91845-6b60-469e-bff7-02c210b823fb")
 		(property "Reference" "C226"
-			(at 146.05 34.544 0)
+			(at 147.066 34.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25582,7 +25563,7 @@
 			)
 		)
 		(property "Value" "10n"
-			(at 146.812 38.354 0)
+			(at 148.336 38.608 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25590,7 +25571,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 144.78 36.576 0)
 			(effects
 				(font
@@ -25808,7 +25789,7 @@
 			)
 		)
 		(property "Value" "200p"
-			(at 108.966 197.358 0)
+			(at 107.696 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26039,7 +26020,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "T80_60_V:Air_Coil"
 			(at 124.714 225.552 0)
 			(effects
 				(font
@@ -26108,7 +26089,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 41.402 104.648 0)
 			(effects
 				(font

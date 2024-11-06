@@ -1,0 +1,223 @@
+(footprint "T60_80_V"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "L1"
+		(at -1 3 0)
+		(layer "F.SilkS")
+		(uuid "4225940f-4fc1-48ac-8f78-0d89e3e9e26f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "2.24uH"
+		(at 0 -3.5 0)
+		(layer "F.Fab")
+		(uuid "11aea6bd-f41d-49a1-8466-20c7e7451e8c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "T80_60_V:T60_80_V"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7632e77f-df7d-4be2-a314-915807f26bd4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2f465dd5-ec35-4d33-9e83-7d3c58655551")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Inductor"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "483663b3-dfce-4621-b5c8-81eacb8ad70b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -10 -6)
+		(end 10 -6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d19035fb-4b8f-4dbe-92be-6fe90d6a71f4")
+	)
+	(fp_line
+		(start -10 6)
+		(end -10 -6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "087d3d6a-3381-426a-93bd-d465f46aa186")
+	)
+	(fp_line
+		(start -7 -6)
+		(end -10 2)
+		(stroke
+			(width 0.6)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "80ab61fc-4985-4766-b2ad-a9c8583ad544")
+	)
+	(fp_line
+		(start -4 -6)
+		(end -8 6)
+		(stroke
+			(width 0.6)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5807fbdc-0991-45e8-a4ce-b9aa7b5656e1")
+	)
+	(fp_line
+		(start -1 -6)
+		(end -5 6)
+		(stroke
+			(width 0.6)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a152f1f0-c1ba-430d-9f03-fe64866bacd5")
+	)
+	(fp_line
+		(start 2 -6)
+		(end -2 6)
+		(stroke
+			(width 0.6)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b465f1cb-7843-4cce-8177-64e4afeda5be")
+	)
+	(fp_line
+		(start 5 -6)
+		(end 1 6)
+		(stroke
+			(width 0.6)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "16c04823-a4db-4e5b-ad57-5fab3bd17dbb")
+	)
+	(fp_line
+		(start 7 6)
+		(end 10 -1)
+		(stroke
+			(width 0.6)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a92e64d1-bfe9-4854-8d2b-2eb0f8f80178")
+	)
+	(fp_line
+		(start 8 -6)
+		(end 4 6)
+		(stroke
+			(width 0.6)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "46f5e48d-6c22-405e-a475-c3ff55692ce8")
+	)
+	(fp_line
+		(start 10 -6)
+		(end 10 6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f2f291b9-9ea3-4005-80d0-d3d27562b158")
+	)
+	(fp_line
+		(start 10 6)
+		(end -10 6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "01fa5959-4d1a-47c5-bd89-dde9761160af")
+	)
+	(fp_line
+		(start 10 -1)
+		(end 10 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "989aa56f-6eff-432e-beca-5db343e51742")
+	)
+	(pad "1" thru_hole circle
+		(at -3 -4)
+		(size 3.5 3.5)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "dfa1347d-04c4-4ba5-9f86-a1974da56737")
+	)
+	(pad "2" thru_hole circle
+		(at 3 4)
+		(size 3.5 3.5)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "cd5ecf19-a780-407a-9917-4ff97d1361f6")
+	)
+	(model "../../../../../../Users/Marco/Documents/Kicad/modules/T80_60_V.pretty/T50.wrl"
+		(offset
+			(xyz 0 0 8.381999874)
+		)
+		(scale
+			(xyz 0.23 0.4 0.23)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/Lib/T80_60_V.pretty/3D/toroid_20x12x7_winded.STEP"
+		(offset
+			(xyz 0 0 1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 90 0)
+		)
+	)
+)

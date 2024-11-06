@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ATC_B")(type "KiCad")(uri "${KIPRJMOD}/Lib/ATC-B/ATC_B.pretty")(options "")(descr ""))
+  (lib (name "G5LE-1-DC12")(type "KiCad")(uri "${KIPRJMOD}/Lib/G5LE-1-DC12")(options "")(descr ""))
+  (lib (name "SMA_PINS")(type "KiCad")(uri "${KIPRJMOD}/Lib/SMA_PINS.pretty")(options "")(descr ""))
+  (lib (name "T80_60_V")(type "KiCad")(uri "${KIPRJMOD}/Lib/T80_60_V.pretty")(options "")(descr ""))
+)
