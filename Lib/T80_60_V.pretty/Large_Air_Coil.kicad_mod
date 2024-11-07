@@ -1,0 +1,230 @@
+(footprint "Large_Air_Coil"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "L18"
+		(at -1 3 0)
+		(layer "F.SilkS")
+		(uuid "0bc9c438-7707-4f08-8db6-f4c70f52e202")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "186n"
+		(at 0 -3.5 0)
+		(layer "F.Fab")
+		(uuid "3856ed09-db47-4dde-af0e-ba62e11f3b3d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "T90_60_V:Large_Air_Coil"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2f810c3b-d263-46a8-b091-ad70c79cacdc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "72c03c17-a6f3-4885-963b-f2613c0967a6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Inductor"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "245deff0-3b8f-4b98-b775-0d80d201c2c8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -20 -6)
+		(end 20 -6)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "a2fef8ed-ba53-49b5-b5b1-8f081ee45f93")
+	)
+	(fp_line
+		(start -20 9)
+		(end -20 -6)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "8467511d-f488-4818-bd96-87178a6737e7")
+	)
+	(fp_line
+		(start 20 -6)
+		(end 20 9)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "1ffeab16-5a35-4af9-ad96-f95844a154fe")
+	)
+	(fp_line
+		(start 20 9)
+		(end -20 9)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "cb861ae8-d139-4305-a33c-189ca6087c5a")
+	)
+	(fp_arc
+		(start -19.973458 -4.050304)
+		(mid -11.661941 0.241558)
+		(end -14.946916 9.000001)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e993bfaa-8a85-4ff9-a27e-97ff910e1337")
+	)
+	(fp_arc
+		(start -15 9)
+		(mid -18.284974 0.241557)
+		(end -9.973458 -4.050305)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "9ba540f6-cfc9-4132-a272-b6d9cb6bcb6a")
+	)
+	(fp_arc
+		(start -9.973458 -4.050304)
+		(mid -1.661941 0.241558)
+		(end -4.946916 9.000001)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "ca5ed2f2-e7c1-49bd-bd56-ff1fdac5a732")
+	)
+	(fp_arc
+		(start -5 9)
+		(mid -8.284974 0.241557)
+		(end 0.026542 -4.050305)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "82156376-3bfe-44c4-92eb-ace9bce5758d")
+	)
+	(fp_arc
+		(start 0.026542 -4.050304)
+		(mid 8.338059 0.241558)
+		(end 5.053084 9.000001)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "fbbb4c17-8291-4799-96f5-86a37a0b5067")
+	)
+	(fp_arc
+		(start 5 9)
+		(mid 1.715026 0.241557)
+		(end 10.026542 -4.050305)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b4e6ea51-9bd8-4e00-8b64-c986daad3478")
+	)
+	(fp_arc
+		(start 10.026542 -4.050304)
+		(mid 18.338059 0.241558)
+		(end 15.053084 9.000001)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b3871fb7-ccca-4a8a-bca3-308812367480")
+	)
+	(fp_arc
+		(start 15 9)
+		(mid 11.715026 0.241557)
+		(end 20.026542 -4.050305)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "127aa8ae-902a-452d-b293-581e7182506d")
+	)
+	(fp_line
+		(start 10 -1)
+		(end 10 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ba27c9dd-e225-4848-961e-a8ed80693c50")
+	)
+	(pad "1" thru_hole circle
+		(at -17 -2)
+		(size 4 4)
+		(drill 1.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a54c6d14-cfdc-48e3-b508-b29ece5156bd")
+	)
+	(pad "2" thru_hole circle
+		(at 16 6)
+		(size 4 4)
+		(drill 1.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8b8c24fd-d7a2-49ab-913d-6255b5467cf3")
+	)
+	(model "${KIPRJMOD}/Lib/T80_60_V.pretty/3D/air_coil.STEP"
+		(offset
+			(xyz -14 -2 3)
+		)
+		(scale
+			(xyz 3.2 5 4)
+		)
+		(rotate
+			(xyz 0 0 90)
+		)
+	)
+)

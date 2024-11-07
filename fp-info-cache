@@ -1,4 +1,4 @@
-23698073404093437
+23695779333810198
 ATC_B
 ATC_500_Dual_HandSoldering
 Capacitor_ATC B, hand soldering
@@ -3052,13 +3052,6 @@ supercap
 3
 3
 Capacitor_SMD
-C_0201_0603Metric
-Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
-capacitor
-0
-4
-2
-Capacitor_SMD
 C_0201_0603Metric_Pad0.64x0.40mm_HandSolder
 Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
 capacitor handsolder
@@ -3192,15 +3185,15 @@ capacitor handsolder
 2
 2
 Capacitor_SMD
-C_2220_5750Metric
-Capacitor SMD 2220 (5750 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
+C_2220_5650Metric
+Capacitor SMD 2220 (5650 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
 capacitor
 0
 2
 2
 Capacitor_SMD
-C_2220_5750Metric_Pad1.97x5.40mm_HandSolder
-Capacitor SMD 2220 (5750 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
+C_2220_5650Metric_Pad1.97x5.40mm_HandSolder
+Capacitor SMD 2220 (5650 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
 capacitor handsolder
 0
 2
@@ -90370,7 +90363,21 @@ Air_Coil
 2
 2
 T80_60_V
+Large_Air_Coil
+
+
+0
+2
+2
+T80_60_V
 T60_80_V
+
+
+0
+2
+2
+T80_60_V
+T90_60_V
 
 
 0

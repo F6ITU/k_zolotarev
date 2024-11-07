@@ -1933,12 +1933,6 @@
 		(uuid "2f0c5215-41ff-4178-858c-637b4ff1a0a8")
 	)
 	(junction
-		(at 160.528 223.012)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "33cb4ab6-999b-4748-a159-e8bf7f983027")
-	)
-	(junction
 		(at 41.148 68.072)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2033,12 +2027,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "44e32b72-76ca-44f6-a1cd-9b9e143424b8")
-	)
-	(junction
-		(at 56.642 100.584)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "450aad8f-8869-4fd5-9346-fa598fd1ff4f")
 	)
 	(junction
 		(at 145.034 100.584)
@@ -2779,6 +2767,12 @@
 		(uuid "efa46dc1-66a7-4a70-9a02-c78b2e35dc3e")
 	)
 	(junction
+		(at 56.642 101.092)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f08d46b0-97da-48c9-8f8d-89d4159fb078")
+	)
+	(junction
 		(at 115.062 157.48)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2854,13 +2848,23 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 55.372) (xy 160.528 55.372)
+			(xy 46.99 242.316) (xy 46.99 235.712)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "02d2f7fe-6e40-47d8-9806-2cc27777f712")
+		(uuid "031b6381-0df9-4c4d-830f-7814202bec31")
+	)
+	(wire
+		(pts
+			(xy 154.94 174.244) (xy 154.94 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "035e3d6c-2f34-4b19-a06d-88e87d8ede1a")
 	)
 	(wire
 		(pts
@@ -2871,6 +2875,16 @@
 			(type default)
 		)
 		(uuid "041447ea-3f0f-40f8-854f-1ab487448058")
+	)
+	(wire
+		(pts
+			(xy 46.99 167.64) (xy 41.656 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "045f8ab1-a7ec-4686-9bbf-e7cfef3124a4")
 	)
 	(wire
 		(pts
@@ -2924,7 +2938,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.944 73.152) (xy 59.944 76.2)
+			(xy 59.944 68.072) (xy 59.944 76.2)
 		)
 		(stroke
 			(width 0)
@@ -2951,6 +2965,16 @@
 			(type default)
 		)
 		(uuid "06972f46-0041-4e84-87c7-46cdc5ca1eb9")
+	)
+	(wire
+		(pts
+			(xy 160.02 55.372) (xy 172.72 55.372)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06c3fe7a-cc02-4fc3-8ad8-7b2590627de0")
 	)
 	(wire
 		(pts
@@ -2981,6 +3005,46 @@
 			(type default)
 		)
 		(uuid "07cdc122-df11-4532-826a-a5c2ac49c918")
+	)
+	(wire
+		(pts
+			(xy 46.736 203.2) (xy 41.402 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0865451f-1f50-4b47-bb0e-c7f4c4a060e5")
+	)
+	(wire
+		(pts
+			(xy 149.86 203.2) (xy 145.034 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08a33904-7058-4daa-bc7f-90b8e236a7ae")
+	)
+	(wire
+		(pts
+			(xy 46.736 107.188) (xy 46.736 100.584)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "092ed540-f245-43a2-b318-653139e6d56b")
+	)
+	(wire
+		(pts
+			(xy 150.114 242.316) (xy 150.114 235.712)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "096243c3-ea76-43c1-8813-af36b81ffccf")
 	)
 	(wire
 		(pts
@@ -3074,6 +3138,16 @@
 	)
 	(wire
 		(pts
+			(xy 154.94 142.748) (xy 154.94 136.144)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0db2d125-3c5b-446a-a479-fe5b0985b19f")
+	)
+	(wire
+		(pts
 			(xy 79.248 84.836) (xy 79.248 86.868)
 		)
 		(stroke
@@ -3114,6 +3188,26 @@
 	)
 	(wire
 		(pts
+			(xy 149.606 68.072) (xy 144.78 68.072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11f1869e-825e-496f-bcb3-ce900914e066")
+	)
+	(wire
+		(pts
+			(xy 155.194 242.316) (xy 155.194 235.712)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12033517-a990-4ba3-891f-cee43c233b30")
+	)
+	(wire
+		(pts
 			(xy 41.656 234.188) (xy 41.656 235.712)
 		)
 		(stroke
@@ -3124,7 +3218,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.198 141.224) (xy 60.198 144.272)
+			(xy 60.198 136.144) (xy 60.198 144.272)
 		)
 		(stroke
 			(width 0)
@@ -3151,6 +3245,56 @@
 			(type default)
 		)
 		(uuid "1465bb9a-6509-4966-8e14-70e87bd9fa2a")
+	)
+	(wire
+		(pts
+			(xy 14.478 58.928) (xy 14.478 60.198)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "148dd484-eaae-426a-87e3-5c8cea60be09")
+	)
+	(wire
+		(pts
+			(xy 59.944 32.512) (xy 59.944 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14bc8f5a-1ca8-4a99-9695-87a563f81ec2")
+	)
+	(wire
+		(pts
+			(xy 149.86 167.64) (xy 145.034 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15031c04-4ebb-4f0f-8b57-37c51b1e6e57")
+	)
+	(wire
+		(pts
+			(xy 149.606 74.676) (xy 149.606 68.072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15a08541-8579-4507-91e2-493dac4e62d6")
+	)
+	(wire
+		(pts
+			(xy 26.67 87.884) (xy 28.956 87.884)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15b2aaa7-6042-452a-bcf4-8d66c13a95c6")
 	)
 	(wire
 		(pts
@@ -3264,6 +3408,16 @@
 	)
 	(wire
 		(pts
+			(xy 154.686 68.072) (xy 160.02 68.072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cfdb2ea-b8bb-42a5-b2fe-6ad252f26187")
+	)
+	(wire
+		(pts
 			(xy 82.804 198.12) (xy 86.868 198.12)
 		)
 		(stroke
@@ -3374,6 +3528,16 @@
 	)
 	(wire
 		(pts
+			(xy 154.686 74.676) (xy 154.686 68.072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21ac4963-6681-4a10-aa17-537883ac0eaf")
+	)
+	(wire
+		(pts
 			(xy 65.278 27.432) (xy 67.564 27.432)
 		)
 		(stroke
@@ -3384,7 +3548,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.452 240.792) (xy 60.452 243.84)
+			(xy 60.452 235.712) (xy 60.452 243.84)
 		)
 		(stroke
 			(width 0)
@@ -3481,16 +3645,6 @@
 			(type default)
 		)
 		(uuid "26739187-c5fd-439f-8861-358b592c089e")
-	)
-	(wire
-		(pts
-			(xy 56.642 100.584) (xy 60.198 100.584)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "26c2ddcc-b894-4b95-a1dc-71218beb98d1")
 	)
 	(wire
 		(pts
@@ -3594,6 +3748,16 @@
 	)
 	(wire
 		(pts
+			(xy 52.07 101.092) (xy 56.642 101.092)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "298b8cfa-33fd-42ad-a00d-3237e3bf82c4")
+	)
+	(wire
+		(pts
 			(xy 94.996 90.424) (xy 96.52 90.424)
 		)
 		(stroke
@@ -3681,6 +3845,16 @@
 			(type default)
 		)
 		(uuid "30651a80-e32a-47cb-9121-209a147b87e6")
+	)
+	(wire
+		(pts
+			(xy 46.482 74.676) (xy 46.482 68.072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "308aba7e-cf29-4d11-b2f6-31df07e36efe")
 	)
 	(wire
 		(pts
@@ -3814,6 +3988,16 @@
 	)
 	(wire
 		(pts
+			(xy 46.482 39.116) (xy 46.482 32.512)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3603ae9b-8577-4427-ac15-02fe1320d681")
+	)
+	(wire
+		(pts
 			(xy 160.02 74.676) (xy 160.02 75.946)
 		)
 		(stroke
@@ -3831,6 +4015,16 @@
 			(type default)
 		)
 		(uuid "364337e9-c47a-4d72-b56d-5f599d4f9ae3")
+	)
+	(wire
+		(pts
+			(xy 149.606 32.512) (xy 144.78 32.512)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "364a44d7-07b8-4962-896a-f93aa7c2eb33")
 	)
 	(wire
 		(pts
@@ -3861,6 +4055,16 @@
 			(type default)
 		)
 		(uuid "371aa077-f090-4ee7-b621-15840ead6187")
+	)
+	(wire
+		(pts
+			(xy 141.478 136.144) (xy 141.478 144.272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "377dc962-35c6-4f39-a65d-0bc4bacd64cd")
 	)
 	(wire
 		(pts
@@ -3901,6 +4105,16 @@
 			(type default)
 		)
 		(uuid "38f2d8cb-8009-4dbb-b71b-cb26677a6f63")
+	)
+	(wire
+		(pts
+			(xy 46.736 100.584) (xy 41.402 100.584)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3980a3a9-5e31-4db3-858f-40d97556d709")
 	)
 	(wire
 		(pts
@@ -3961,16 +4175,6 @@
 			(type default)
 		)
 		(uuid "3d0cf737-a687-4cfb-bfac-4c2f87ecd1f3")
-	)
-	(wire
-		(pts
-			(xy 172.72 223.012) (xy 160.528 223.012)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3d5d5736-9b14-4ede-9358-4d4e43d27bad")
 	)
 	(wire
 		(pts
@@ -4084,6 +4288,16 @@
 	)
 	(wire
 		(pts
+			(xy 51.562 39.116) (xy 51.562 32.512)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43193069-6024-4fc9-b117-dbc448cf396e")
+	)
+	(wire
+		(pts
 			(xy 79.248 118.618) (xy 79.248 120.396)
 		)
 		(stroke
@@ -4154,6 +4368,16 @@
 	)
 	(wire
 		(pts
+			(xy 52.07 174.244) (xy 52.07 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "455fb899-bb07-4673-b45b-4a7e383245ea")
+	)
+	(wire
+		(pts
 			(xy 41.402 142.748) (xy 41.402 144.018)
 		)
 		(stroke
@@ -4221,6 +4445,16 @@
 			(type default)
 		)
 		(uuid "4977c372-ba19-47e1-812f-3c10490cc84b")
+	)
+	(wire
+		(pts
+			(xy 154.94 167.64) (xy 160.274 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49b26a12-eca7-4656-8f4d-441388282e97")
 	)
 	(wire
 		(pts
@@ -4384,6 +4618,16 @@
 	)
 	(wire
 		(pts
+			(xy 51.816 209.804) (xy 51.816 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4fe711e5-c66d-4c0c-9e5d-534fd2a1389c")
+	)
+	(wire
+		(pts
 			(xy 133.858 95.504) (xy 129.794 95.504)
 		)
 		(stroke
@@ -4434,6 +4678,16 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 209.804) (xy 149.86 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51fed4db-a280-41ba-af32-03edee25c643")
+	)
+	(wire
+		(pts
 			(xy 145.034 136.144) (xy 145.034 137.668)
 		)
 		(stroke
@@ -4454,6 +4708,16 @@
 	)
 	(wire
 		(pts
+			(xy 155.194 235.712) (xy 160.528 235.712)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "547374df-304c-4e0a-a126-850383103b31")
+	)
+	(wire
+		(pts
 			(xy 136.398 230.632) (xy 134.112 230.632)
 		)
 		(stroke
@@ -4461,6 +4725,16 @@
 			(type default)
 		)
 		(uuid "54d35055-29f9-4548-b5d4-91050fa5f6f1")
+	)
+	(wire
+		(pts
+			(xy 149.606 39.116) (xy 149.606 32.512)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54ec0e1c-1caf-4233-8c8c-635a850b1f27")
 	)
 	(wire
 		(pts
@@ -4604,13 +4878,23 @@
 	)
 	(wire
 		(pts
-			(xy 141.478 105.664) (xy 141.478 108.712)
+			(xy 141.478 100.584) (xy 141.478 108.712)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "5f76926e-d3dd-4979-bf39-ab8101a5e2d7")
+	)
+	(wire
+		(pts
+			(xy 52.07 167.64) (xy 56.642 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5fb11976-1fd8-4960-99b5-c9fe29eec227")
 	)
 	(wire
 		(pts
@@ -4704,6 +4988,16 @@
 	)
 	(wire
 		(pts
+			(xy 46.99 136.144) (xy 41.656 136.144)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "665ff320-412e-41b1-8727-612ee9ed200b")
+	)
+	(wire
+		(pts
 			(xy 144.78 57.912) (xy 141.732 57.912)
 		)
 		(stroke
@@ -4744,6 +5038,26 @@
 	)
 	(wire
 		(pts
+			(xy 51.816 203.2) (xy 56.642 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68a8315e-ab55-4a4b-90eb-9759e7784a99")
+	)
+	(wire
+		(pts
+			(xy 154.94 136.144) (xy 160.274 136.144)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6937afc4-97c3-438d-bfbf-57a21d9449e0")
+	)
+	(wire
+		(pts
 			(xy 78.994 16.764) (xy 82.55 16.764)
 		)
 		(stroke
@@ -4771,6 +5085,16 @@
 			(type default)
 		)
 		(uuid "6d750e80-2354-444c-b7ce-bf4ebcb4e6a1")
+	)
+	(wire
+		(pts
+			(xy 141.478 203.2) (xy 141.478 211.328)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e651d12-3d13-4365-a447-4aa4dd398442")
 	)
 	(wire
 		(pts
@@ -4854,6 +5178,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.528 223.012) (xy 172.72 223.012)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70a3553d-684d-431b-9b84-dbb5f3365d82")
+	)
+	(wire
+		(pts
 			(xy 65.278 62.992) (xy 65.278 64.262)
 		)
 		(stroke
@@ -4934,17 +5268,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.528 223.012) (xy 160.274 223.012)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "75f5f21a-102e-4584-8774-01ef25a5849a")
-	)
-	(wire
-		(pts
-			(xy 56.642 100.584) (xy 56.642 102.108)
+			(xy 56.642 100.584) (xy 56.642 101.092)
 		)
 		(stroke
 			(width 0)
@@ -5024,6 +5348,16 @@
 	)
 	(wire
 		(pts
+			(xy 46.99 235.712) (xy 41.656 235.712)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7bb63d4a-cafa-4ea6-9335-0c49b46a70a0")
+	)
+	(wire
+		(pts
 			(xy 160.274 136.144) (xy 160.274 137.668)
 		)
 		(stroke
@@ -5031,6 +5365,16 @@
 			(type default)
 		)
 		(uuid "7bb88fc9-c9ec-4a45-894a-a02982d9f0e4")
+	)
+	(wire
+		(pts
+			(xy 52.07 235.712) (xy 56.896 235.712)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c5851e9-2626-4bed-9039-22e18d49971c")
 	)
 	(wire
 		(pts
@@ -5074,6 +5418,16 @@
 	)
 	(wire
 		(pts
+			(xy 60.198 101.092) (xy 56.642 101.092)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d411726-4b4e-48e6-9fc8-cf55cf987baa")
+	)
+	(wire
+		(pts
 			(xy 56.642 167.64) (xy 60.198 167.64)
 		)
 		(stroke
@@ -5111,6 +5465,16 @@
 			(type default)
 		)
 		(uuid "7f33499d-e4c1-495c-b64d-971d22300852")
+	)
+	(wire
+		(pts
+			(xy 149.86 136.144) (xy 145.034 136.144)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f52df90-86f0-4090-bc61-558780744448")
 	)
 	(wire
 		(pts
@@ -5164,7 +5528,7 @@
 	)
 	(wire
 		(pts
-			(xy 141.478 172.72) (xy 141.478 175.768)
+			(xy 141.478 167.64) (xy 141.478 175.768)
 		)
 		(stroke
 			(width 0)
@@ -5374,6 +5738,16 @@
 	)
 	(wire
 		(pts
+			(xy 56.642 101.092) (xy 56.642 102.108)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f4181f1-5ea2-4d68-afaf-537b06953357")
+	)
+	(wire
+		(pts
 			(xy 82.55 22.352) (xy 86.614 22.352)
 		)
 		(stroke
@@ -5391,6 +5765,16 @@
 			(type default)
 		)
 		(uuid "8fca14a8-8fb0-4ee3-a664-f1065c720e70")
+	)
+	(wire
+		(pts
+			(xy 52.07 142.748) (xy 52.07 136.144)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90786708-a2d4-47c6-959f-e212383083a3")
 	)
 	(wire
 		(pts
@@ -5474,16 +5858,6 @@
 	)
 	(wire
 		(pts
-			(xy 141.732 240.792) (xy 141.732 243.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "95df5ccb-88b6-41a1-8cba-2d4d0f0f75d6")
-	)
-	(wire
-		(pts
 			(xy 136.144 162.56) (xy 136.144 163.83)
 		)
 		(stroke
@@ -5504,17 +5878,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.944 37.592) (xy 59.944 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "97cc8e1d-9974-4d41-8238-e5309c43e5cd")
-	)
-	(wire
-		(pts
-			(xy 60.198 208.28) (xy 60.198 211.328)
+			(xy 60.198 203.2) (xy 60.198 211.328)
 		)
 		(stroke
 			(width 0)
@@ -5531,6 +5895,16 @@
 			(type default)
 		)
 		(uuid "99c7a2e4-15e1-4679-9fab-b072c4ee6def")
+	)
+	(wire
+		(pts
+			(xy 52.07 242.316) (xy 52.07 235.712)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a0ac6e5-10a7-4dd7-a0c9-15090e600292")
 	)
 	(wire
 		(pts
@@ -5594,6 +5968,26 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 142.748) (xy 149.86 136.144)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9fc218d0-b8c1-4bc2-b84b-7f24d1cf1dd1")
+	)
+	(wire
+		(pts
+			(xy 19.558 71.882) (xy 19.558 73.152)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a04d8f25-abc3-47ad-bf29-afdb9039d61c")
+	)
+	(wire
+		(pts
 			(xy 71.882 125.984) (xy 73.406 125.984)
 		)
 		(stroke
@@ -5634,6 +6028,16 @@
 	)
 	(wire
 		(pts
+			(xy 154.686 32.512) (xy 160.02 32.512)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a31168ec-a07b-4fa6-bf85-df71247b1845")
+	)
+	(wire
+		(pts
 			(xy 106.934 193.04) (xy 110.998 193.04)
 		)
 		(stroke
@@ -5641,6 +6045,16 @@
 			(type default)
 		)
 		(uuid "a41f9716-7145-4b33-8148-868d620fd481")
+	)
+	(wire
+		(pts
+			(xy 150.114 235.712) (xy 145.288 235.712)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a42e82c4-65b2-4c3c-8bd9-675d9bd43f7e")
 	)
 	(wire
 		(pts
@@ -5684,13 +6098,33 @@
 	)
 	(wire
 		(pts
-			(xy 60.198 105.664) (xy 60.198 108.712)
+			(xy 60.198 101.092) (xy 60.198 108.712)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "a749a1df-1978-436a-9537-84ec3d2f41b5")
+	)
+	(wire
+		(pts
+			(xy 46.482 68.072) (xy 41.148 68.072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7d3a090-e28f-44dd-8459-d5ef1cc11d40")
+	)
+	(wire
+		(pts
+			(xy 154.94 107.188) (xy 154.94 100.584)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7f338e0-939a-44f0-b6cc-7472ad2248e6")
 	)
 	(wire
 		(pts
@@ -5744,6 +6178,16 @@
 	)
 	(wire
 		(pts
+			(xy 52.07 107.188) (xy 52.07 101.092)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa5c5c70-d502-456b-92a8-17c4c39a7f69")
+	)
+	(wire
+		(pts
 			(xy 106.934 125.984) (xy 110.998 125.984)
 		)
 		(stroke
@@ -5761,6 +6205,16 @@
 			(type default)
 		)
 		(uuid "ab91d038-21e2-4ff3-9549-ea849bcd0d8e")
+	)
+	(wire
+		(pts
+			(xy 46.99 174.244) (xy 46.99 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac0e053c-01a6-44aa-bb30-8045c2d2013b")
 	)
 	(wire
 		(pts
@@ -5954,6 +6408,16 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 107.188) (xy 149.86 100.584)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3e06bb0-686f-403e-a9d1-d37ed344557f")
+	)
+	(wire
+		(pts
 			(xy 160.274 167.64) (xy 160.274 169.164)
 		)
 		(stroke
@@ -5994,6 +6458,26 @@
 	)
 	(wire
 		(pts
+			(xy 19.558 58.928) (xy 19.558 60.198)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5440f09-4446-448d-82dc-51a2c21864b6")
+	)
+	(wire
+		(pts
+			(xy 46.736 209.804) (xy 46.736 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b593468c-997b-4fbc-8bf4-72d4c5888447")
+	)
+	(wire
+		(pts
 			(xy 81.28 225.552) (xy 83.058 225.552)
 		)
 		(stroke
@@ -6011,6 +6495,16 @@
 			(type default)
 		)
 		(uuid "b7312430-ac57-4f12-9484-47f054977da8")
+	)
+	(wire
+		(pts
+			(xy 149.86 100.584) (xy 145.034 100.584)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b82fce21-d360-40c6-b2cc-09c91a65122c")
 	)
 	(wire
 		(pts
@@ -6134,7 +6628,7 @@
 	)
 	(wire
 		(pts
-			(xy 141.224 73.152) (xy 141.224 76.2)
+			(xy 141.224 68.072) (xy 141.224 76.2)
 		)
 		(stroke
 			(width 0)
@@ -6234,6 +6728,16 @@
 	)
 	(wire
 		(pts
+			(xy 51.562 32.512) (xy 56.388 32.512)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c34eb6f6-e60b-4e25-a3e6-478e98f9d98f")
+	)
+	(wire
+		(pts
 			(xy 67.564 22.352) (xy 71.628 22.352)
 		)
 		(stroke
@@ -6314,7 +6818,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.198 172.72) (xy 60.198 175.768)
+			(xy 60.198 167.64) (xy 60.198 175.768)
 		)
 		(stroke
 			(width 0)
@@ -6351,6 +6855,16 @@
 			(type default)
 		)
 		(uuid "c8179ca1-9175-4b1f-b6cb-3dd2083e2da5")
+	)
+	(wire
+		(pts
+			(xy 154.94 209.804) (xy 154.94 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8feb4a5-cbcc-41b4-8a27-de9396bfd2c6")
 	)
 	(wire
 		(pts
@@ -6394,6 +6908,16 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 174.244) (xy 149.86 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca791357-56a6-4320-93a1-4b774b9ac186")
+	)
+	(wire
+		(pts
 			(xy 82.804 125.984) (xy 86.868 125.984)
 		)
 		(stroke
@@ -6411,6 +6935,16 @@
 			(type default)
 		)
 		(uuid "cc511d40-57c4-4c5b-b6bb-ac5b3176f3b0")
+	)
+	(wire
+		(pts
+			(xy 141.732 235.712) (xy 141.732 243.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc8f1472-df7f-4b49-9185-bc72f7a0373a")
 	)
 	(wire
 		(pts
@@ -6464,6 +6998,16 @@
 	)
 	(wire
 		(pts
+			(xy 14.478 71.882) (xy 14.478 73.152)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cfa8a625-e26e-4a08-af08-e37c1741b179")
+	)
+	(wire
+		(pts
 			(xy 79.248 187.452) (xy 82.804 187.452)
 		)
 		(stroke
@@ -6471,16 +7015,6 @@
 			(type default)
 		)
 		(uuid "cfe15da0-2a53-4142-955f-d28615c4fcb1")
-	)
-	(wire
-		(pts
-			(xy 141.478 208.28) (xy 141.478 211.328)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d005e0ff-12b1-41e9-8041-fa64199b7897")
 	)
 	(wire
 		(pts
@@ -6501,6 +7035,16 @@
 			(type default)
 		)
 		(uuid "d0d294a0-83a8-41de-91da-d23541d2c380")
+	)
+	(wire
+		(pts
+			(xy 52.07 136.144) (xy 56.642 136.144)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d11df01f-8e12-4e87-b350-343752e08415")
 	)
 	(wire
 		(pts
@@ -6824,6 +7368,26 @@
 	)
 	(wire
 		(pts
+			(xy 154.94 203.2) (xy 160.274 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6432cf4-dd79-4b81-8f43-129fbb56a88d")
+	)
+	(wire
+		(pts
+			(xy 154.94 100.584) (xy 160.274 100.584)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e69626a2-11b4-4989-9490-be8e86600504")
+	)
+	(wire
+		(pts
 			(xy 41.402 136.144) (xy 41.402 137.668)
 		)
 		(stroke
@@ -6914,6 +7478,16 @@
 	)
 	(wire
 		(pts
+			(xy 46.482 32.512) (xy 41.148 32.512)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ecba32a4-d52c-403f-81aa-9e1ae1377d82")
+	)
+	(wire
+		(pts
 			(xy 79.248 83.058) (xy 79.248 84.836)
 		)
 		(stroke
@@ -6921,6 +7495,16 @@
 			(type default)
 		)
 		(uuid "eccc66c6-15ab-4347-a9e2-c64ac48e4401")
+	)
+	(wire
+		(pts
+			(xy 160.02 19.812) (xy 172.72 19.812)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "edd1e0eb-cb4b-42a9-b7e4-20c815d0bcfc")
 	)
 	(wire
 		(pts
@@ -6954,6 +7538,16 @@
 	)
 	(wire
 		(pts
+			(xy 46.99 142.748) (xy 46.99 136.144)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef94d0c4-759b-499a-8f05-1a53ec4eada6")
+	)
+	(wire
+		(pts
 			(xy 95.25 225.552) (xy 96.774 225.552)
 		)
 		(stroke
@@ -6974,7 +7568,17 @@
 	)
 	(wire
 		(pts
-			(xy 141.224 37.592) (xy 141.224 40.64)
+			(xy 51.562 68.072) (xy 56.388 68.072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f361b7e1-396c-44e7-b7d8-b662c5a5e97f")
+	)
+	(wire
+		(pts
+			(xy 141.224 32.512) (xy 141.224 40.64)
 		)
 		(stroke
 			(width 0)
@@ -7034,16 +7638,6 @@
 	)
 	(wire
 		(pts
-			(xy 160.528 19.812) (xy 172.72 19.812)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f91a6aff-733d-43a8-b520-3c3a17a997be")
-	)
-	(wire
-		(pts
 			(xy 94.742 57.912) (xy 96.266 57.912)
 		)
 		(stroke
@@ -7074,16 +7668,6 @@
 	)
 	(wire
 		(pts
-			(xy 141.478 141.224) (xy 141.478 144.272)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fb822657-c023-4e06-ba19-6933eeff3543")
-	)
-	(wire
-		(pts
 			(xy 160.274 92.964) (xy 161.544 92.964)
 		)
 		(stroke
@@ -7094,6 +7678,16 @@
 	)
 	(wire
 		(pts
+			(xy 154.686 39.116) (xy 154.686 32.512)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd1ef87a-a698-4d3f-8071-796e97cc5c3b")
+	)
+	(wire
+		(pts
 			(xy 136.144 198.12) (xy 133.858 198.12)
 		)
 		(stroke
@@ -7101,6 +7695,16 @@
 			(type default)
 		)
 		(uuid "fddd0cb0-0517-4c5a-aab0-47cf87bc5b29")
+	)
+	(wire
+		(pts
+			(xy 51.562 74.676) (xy 51.562 68.072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ffde695f-1073-4b81-9f8e-827f5006bcfd")
 	)
 	(text "OK"
 		(exclude_from_sim no)
@@ -7384,6 +7988,28 @@
 			)
 		)
 	)
+	(global_label "RF_OUT"
+		(shape input)
+		(at 172.72 87.884 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3ca84465-4a49-4d8d-96dd-8f20b2d22448")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 182.66 87.884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "12+10m"
 		(shape input)
 		(at 100.076 211.328 90)
@@ -7534,6 +8160,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RF_IN"
+		(shape input)
+		(at 26.67 87.884 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "dc223578-a9a5-43cc-a76f-cc916d98a99e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 18.4233 87.884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -7697,7 +8345,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 94.996 128.524 0)
 			(effects
 				(font
@@ -7766,7 +8414,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T80_60_V:T60_80_V"
+		(property "Footprint" "T80_60_V:T90_60_V"
 			(at 124.46 157.48 0)
 			(effects
 				(font
@@ -7941,94 +8589,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D_Small")
-		(at 60.198 103.124 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "09466194-aca8-4734-90d9-a2ad9a9c7609")
-		(property "Reference" "D5"
-			(at 61.468 101.346 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SS36"
-			(at 61.468 104.648 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SMC"
-			(at 60.198 103.124 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 60.198 103.124 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 60.198 103.124 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 60.198 103.124 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 60.198 103.124 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "03299a74-7eb3-463b-b28c-440b98f86601")
-		)
-		(pin "1"
-			(uuid "053ea1bd-65d3-48b0-b7e5-0a6d5fd49131")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "D5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 76.708 83.058 90)
 		(unit 1)
@@ -8055,7 +8615,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 76.708 83.058 0)
 			(effects
 				(font
@@ -8092,6 +8652,93 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Small")
+		(at 152.146 74.676 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0b163f89-1fbd-4ca7-9447-60c8eba01efd")
+		(property "Reference" "D13"
+			(at 150.368 75.946 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SS36"
+			(at 153.67 75.946 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMC"
+			(at 152.146 74.676 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 152.146 74.676 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode, small symbol"
+			(at 152.146 74.676 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 152.146 74.676 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 152.146 74.676 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "22a883f4-4f61-4efe-8e10-50218cc137c1")
+		)
+		(pin "1"
+			(uuid "8287ee97-6d80-420c-b3cb-d76871d11ec7")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -8190,7 +8837,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 71.628 24.892 0)
 			(effects
 				(font
@@ -8259,7 +8906,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 82.804 195.58 0)
 			(effects
 				(font
@@ -8395,7 +9042,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 67.564 60.452 0)
 			(effects
 				(font
@@ -8499,6 +9146,94 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "#PWR049")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Small")
+		(at 49.022 74.676 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1168e2f1-e5d8-4695-8cda-afcbe85c3306")
+		(property "Reference" "D2"
+			(at 50.8 75.946 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SS36"
+			(at 47.498 75.946 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMC"
+			(at 49.022 74.676 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 49.022 74.676 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode, small symbol"
+			(at 49.022 74.676 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 49.022 74.676 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 49.022 74.676 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "59b21d00-b76a-41cb-9fc3-f3ea6b90565a")
+		)
+		(pin "1"
+			(uuid "ecf121df-fa4b-4e38-a567-29464a55d227")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -8664,7 +9399,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 137.922 128.524 0)
 			(effects
 				(font
@@ -9136,7 +9871,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 86.614 24.892 0)
 			(effects
 				(font
@@ -9205,7 +9940,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 59.69 128.524 0)
 			(effects
 				(font
@@ -9609,7 +10344,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 68.072 228.092 0)
 			(effects
 				(font
@@ -9811,7 +10546,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 106.68 60.452 0)
 			(effects
 				(font
@@ -9854,94 +10589,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D_Small")
-		(at 59.944 70.612 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2dcb7fdb-d566-418d-aeb9-fa297274ad78")
-		(property "Reference" "D2"
-			(at 61.214 68.834 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SS36"
-			(at 61.214 72.136 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SMC"
-			(at 59.944 70.612 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 59.944 70.612 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 59.944 70.612 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 59.944 70.612 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 59.944 70.612 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "77554dc0-da6a-4f34-8fb5-407f167eea35")
-		)
-		(pin "1"
-			(uuid "19dd579a-1cb6-4aab-b028-2df90fbb6821")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "D2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:L")
 		(at 76.962 57.912 90)
 		(unit 1)
@@ -9966,7 +10613,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T80_60_V:T60_80_V"
+		(property "Footprint" "T80_60_V:T90_60_V"
 			(at 76.962 57.912 0)
 			(effects
 				(font
@@ -10102,7 +10749,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 106.934 195.58 0)
 			(effects
 				(font
@@ -10171,7 +10818,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 90.932 92.964 0)
 			(effects
 				(font
@@ -10306,7 +10953,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 63.754 195.58 0)
 			(effects
 				(font
@@ -10508,7 +11155,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 137.668 24.892 0)
 			(effects
 				(font
@@ -10577,7 +11224,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 63.5 60.452 0)
 			(effects
 				(font
@@ -10712,7 +11359,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 63.754 128.524 0)
 			(effects
 				(font
@@ -10912,7 +11559,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T80_60_V:T60_80_V"
+		(property "Footprint" "T80_60_V:T90_60_V"
 			(at 100.33 90.424 0)
 			(effects
 				(font
@@ -10982,7 +11629,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 137.922 195.58 0)
 			(effects
 				(font
@@ -11116,7 +11763,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T80_60_V:T60_80_V"
+		(property "Footprint" "T80_60_V:T90_60_V"
 			(at 100.076 57.912 0)
 			(effects
 				(font
@@ -11318,7 +11965,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 129.794 92.964 0)
 			(effects
 				(font
@@ -11657,7 +12304,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 82.804 128.524 0)
 			(effects
 				(font
@@ -11726,7 +12373,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 110.744 24.892 0)
 			(effects
 				(font
@@ -11795,7 +12442,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 63.754 92.964 0)
 			(effects
 				(font
@@ -11838,6 +12485,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 14.478 60.198 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4af828dd-976f-48bb-84ba-b73bda132f9c")
+		(property "Reference" "#PWR078"
+			(at 14.478 66.548 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 14.478 64.3311 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 14.478 60.198 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 14.478 60.198 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 14.478 60.198 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "40bf3b51-1920-4b73-8cea-2152efe7ee54")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR078")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 94.742 60.452 0)
 		(unit 1)
@@ -11864,7 +12577,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 94.742 60.452 0)
 			(effects
 				(font
@@ -11999,7 +12712,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 95.25 228.092 0)
 			(effects
 				(font
@@ -12068,7 +12781,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 94.996 92.964 0)
 			(effects
 				(font
@@ -12138,7 +12851,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 129.54 24.892 0)
 			(effects
 				(font
@@ -12207,7 +12920,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 63.754 160.02 0)
 			(effects
 				(font
@@ -12250,6 +12963,180 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D_Small")
+		(at 152.4 142.748 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "511f94a6-e641-490b-b24b-cba2638486ee")
+		(property "Reference" "D11"
+			(at 150.622 144.018 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SS36"
+			(at 153.924 144.018 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMC"
+			(at 152.4 142.748 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 152.4 142.748 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode, small symbol"
+			(at 152.4 142.748 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 152.4 142.748 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 152.4 142.748 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "58f60b1f-a5c6-412f-83d4-79b37dd0539d")
+		)
+		(pin "1"
+			(uuid "fd3fde96-94b8-437d-8061-01e847f195ad")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "D11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Small")
+		(at 152.4 107.188 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5201c62d-08b7-4573-9dd2-9c8ee3e50df4")
+		(property "Reference" "D12"
+			(at 150.622 108.458 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SS36"
+			(at 153.924 108.458 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMC"
+			(at 152.4 107.188 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 152.4 107.188 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode, small symbol"
+			(at 152.4 107.188 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 152.4 107.188 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 152.4 107.188 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "eb1fd2eb-5564-407e-8295-e64876b25252")
+		)
+		(pin "1"
+			(uuid "f0f14af0-7789-4ac5-9174-01225721b8d7")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "D12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:L")
 		(at 77.216 125.984 90)
 		(unit 1)
@@ -12274,7 +13161,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T80_60_V:T60_80_V"
+		(property "Footprint" "T80_60_V:T90_60_V"
 			(at 77.216 125.984 0)
 			(effects
 				(font
@@ -12343,7 +13230,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 106.934 92.964 0)
 			(effects
 				(font
@@ -12690,7 +13577,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 86.868 128.524 0)
 			(effects
 				(font
@@ -12760,7 +13647,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 137.922 160.02 0)
 			(effects
 				(font
@@ -12974,7 +13861,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SMA_PINS:SMA_PINS"
 			(at 180.34 123.444 0)
 			(effects
 				(font
@@ -13043,7 +13930,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 76.454 18.796 0)
 			(effects
 				(font
@@ -13112,7 +13999,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 76.454 46.99 0)
 			(effects
 				(font
@@ -13251,7 +14138,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 137.922 92.964 0)
 			(effects
 				(font
@@ -13457,7 +14344,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 114.808 60.452 0)
 			(effects
 				(font
@@ -13526,7 +14413,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 110.998 160.02 0)
 			(effects
 				(font
@@ -13674,7 +14561,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 106.68 24.892 0)
 			(effects
 				(font
@@ -13743,7 +14630,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 110.744 60.452 0)
 			(effects
 				(font
@@ -13786,6 +14673,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D_Small")
+		(at 49.53 242.316 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "61bfdae4-30ac-43fb-8458-fcf12bf117d1")
+		(property "Reference" "D7"
+			(at 51.308 243.586 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SS36"
+			(at 48.006 243.586 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMC"
+			(at 49.53 242.316 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 49.53 242.316 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode, small symbol"
+			(at 49.53 242.316 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 49.53 242.316 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 49.53 242.316 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a8932dca-12d0-452a-bc5a-6695b4989a3c")
+		)
+		(pin "1"
+			(uuid "9f2cc8ae-766a-4443-848e-650d79605cc6")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "D7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 133.858 195.58 0)
 		(mirror y)
@@ -13813,7 +14788,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 133.858 195.58 0)
 			(effects
 				(font
@@ -13949,7 +14924,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 86.868 160.02 0)
 			(effects
 				(font
@@ -14018,7 +14993,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T80_60_V:T60_80_V"
+		(property "Footprint" "T80_60_V:T90_60_V"
 			(at 124.46 125.984 0)
 			(effects
 				(font
@@ -14055,6 +15030,72 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "L12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 14.478 56.388 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "648cdca6-129d-4798-9c92-1fb785e4a0b7")
+		(property "Reference" "H5"
+			(at 13.208 58.166 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "M3"
+			(at 12.7 52.324 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad_Via"
+			(at 14.478 56.388 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 14.478 56.388 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 14.478 56.388 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "93df216c-391d-4968-bb75-adf77e6569f8")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "H5")
 					(unit 1)
 				)
 			)
@@ -14121,6 +15162,93 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Small")
+		(at 152.4 174.244 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "65ff5180-5e8d-497f-818e-bc9bf3242909")
+		(property "Reference" "D10"
+			(at 150.622 175.514 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SS36"
+			(at 153.924 175.514 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMC"
+			(at 152.4 174.244 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 152.4 174.244 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode, small symbol"
+			(at 152.4 174.244 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 152.4 174.244 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 152.4 174.244 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c6eec8de-8f94-402b-8a14-2d8bfc0d93ea")
+		)
+		(pin "1"
+			(uuid "c726d504-aeba-4be2-85a6-d3712f688d08")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -14221,7 +15349,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T80_60_V:T60_80_V"
+		(property "Footprint" "T80_60_V:T90_60_V"
 			(at 100.076 22.352 0)
 			(effects
 				(font
@@ -14288,7 +15416,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T80_60_V:T60_80_V"
+		(property "Footprint" "T80_60_V:T90_60_V"
 			(at 77.216 157.48 0)
 			(effects
 				(font
@@ -14490,7 +15618,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T80_60_V:T60_80_V"
+		(property "Footprint" "T80_60_V:T90_60_V"
 			(at 76.962 22.352 0)
 			(effects
 				(font
@@ -14736,94 +15864,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D_Small")
-		(at 141.224 35.052 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6b2e77fd-a846-4f77-9f03-ddefc2490d87")
-		(property "Reference" "D11"
-			(at 140.208 34.29 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SS36"
-			(at 141.224 37.084 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SMC"
-			(at 141.224 35.052 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 141.224 35.052 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 141.224 35.052 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 141.224 35.052 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 141.224 35.052 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "612e28d5-ab5f-43a1-b98a-6918b5f90322")
-		)
-		(pin "1"
-			(uuid "32c24ab3-c610-4147-96ac-e72f563066d8")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "D11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 91.186 228.092 0)
 		(unit 1)
@@ -14850,7 +15890,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 91.186 228.092 0)
 			(effects
 				(font
@@ -14919,7 +15959,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 115.062 160.02 0)
 			(effects
 				(font
@@ -15404,7 +16444,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 86.868 195.58 0)
 			(effects
 				(font
@@ -15474,7 +16514,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 134.112 228.092 0)
 			(effects
 				(font
@@ -15511,94 +16551,6 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C90")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Small")
-		(at 60.452 238.252 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "74683212-49a1-4029-8003-4dca578b8907")
-		(property "Reference" "D13"
-			(at 61.722 236.474 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SS36"
-			(at 61.722 239.776 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SMC"
-			(at 60.452 238.252 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 60.452 238.252 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 60.452 238.252 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 60.452 238.252 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 60.452 238.252 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c66adca6-95ec-404e-8ea8-18a9c1b8922c")
-		)
-		(pin "1"
-			(uuid "ba0f85e5-1fa7-4a28-8bf9-955b63eb282e")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -15833,7 +16785,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 138.176 228.092 0)
 			(effects
 				(font
@@ -15968,7 +16920,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 115.062 195.58 0)
 			(effects
 				(font
@@ -16005,94 +16957,6 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C81")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Small")
-		(at 141.478 103.124 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7d4b3bb0-48ac-4cd3-a44d-d0385b755048")
-		(property "Reference" "D7"
-			(at 142.748 101.346 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SS36"
-			(at 142.748 104.648 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SMC"
-			(at 141.478 103.124 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 141.478 103.124 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 141.478 103.124 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 141.478 103.124 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 141.478 103.124 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "3758b7a5-5e56-4daa-a93e-29bac3a730c9")
-		)
-		(pin "1"
-			(uuid "8eb79e3b-0f2a-4d6a-a930-93a04de8026d")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -16271,7 +17135,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 133.858 128.524 0)
 			(effects
 				(font
@@ -16308,6 +17172,94 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C62")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Small")
+		(at 49.276 107.188 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "817d9614-757b-4b3c-b40d-961b997ddfd4")
+		(property "Reference" "D3"
+			(at 51.054 108.458 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SS36"
+			(at 47.752 108.458 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMC"
+			(at 49.276 107.188 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 49.276 107.188 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode, small symbol"
+			(at 49.276 107.188 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 49.276 107.188 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 49.276 107.188 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "980cbe6f-0195-45df-a78f-6d3c974cecc7")
+		)
+		(pin "1"
+			(uuid "2cc8c392-10b4-4127-b560-71ed38664678")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -16407,7 +17359,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 133.858 92.964 0)
 			(effects
 				(font
@@ -16476,7 +17428,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 76.708 86.868 0)
 			(effects
 				(font
@@ -16652,94 +17604,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D_Small")
-		(at 60.198 205.74 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "87a152eb-ffb8-4881-b4de-0bb87b540666")
-		(property "Reference" "D6"
-			(at 61.468 203.962 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SS36"
-			(at 61.468 207.264 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SMC"
-			(at 60.198 205.74 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 60.198 205.74 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 60.198 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 60.198 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 60.198 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "21fcee41-d1ea-409a-b2e2-4d2ad2677dca")
-		)
-		(pin "1"
-			(uuid "9d7917a3-0278-4dec-a90e-7dceb2f7eaa6")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "D6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
 		(at 14.478 28.956 0)
 		(unit 1)
@@ -16872,6 +17736,159 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 19.558 60.198 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8beed851-9e90-4625-812c-b844753de18b")
+		(property "Reference" "#PWR086"
+			(at 19.558 66.548 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 19.558 64.3311 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 19.558 60.198 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 19.558 60.198 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 19.558 60.198 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bee3facd-9aff-43ba-a33c-272abd4433ea")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR086")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Small")
+		(at 152.654 242.316 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8bfadb54-28b3-4ee2-84fd-66d75e10482f")
+		(property "Reference" "D8"
+			(at 150.876 243.586 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SS36"
+			(at 154.178 243.586 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMC"
+			(at 152.654 242.316 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 152.654 242.316 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode, small symbol"
+			(at 152.654 242.316 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 152.654 242.316 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 152.654 242.316 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c80e5979-42cd-477f-af33-8501b3d42ccc")
+		)
+		(pin "1"
+			(uuid "45373116-9508-43e8-b2e0-76b537d87048")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "D8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 59.69 92.964 0)
 		(unit 1)
@@ -16898,7 +17915,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 59.69 92.964 0)
 			(effects
 				(font
@@ -16967,7 +17984,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 76.454 50.546 0)
 			(effects
 				(font
@@ -17036,7 +18053,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T80_60_V:T60_80_V"
+		(property "Footprint" "T80_60_V:T90_60_V"
 			(at 124.46 90.424 0)
 			(effects
 				(font
@@ -17080,7 +18097,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_Small")
-		(at 59.944 35.052 270)
+		(at 49.022 39.116 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17089,7 +18106,7 @@
 		(dnp no)
 		(uuid "8e8705b5-d5e8-47d3-87fc-c18b9a98984e")
 		(property "Reference" "D1"
-			(at 61.214 33.274 90)
+			(at 50.8 40.386 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17098,7 +18115,7 @@
 			)
 		)
 		(property "Value" "SS36"
-			(at 61.214 36.576 90)
+			(at 47.498 40.386 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17107,7 +18124,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMC"
-			(at 59.944 35.052 90)
+			(at 49.022 39.116 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17116,7 +18133,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 59.944 35.052 90)
+			(at 49.022 39.116 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17125,7 +18142,7 @@
 			)
 		)
 		(property "Description" "Diode, small symbol"
-			(at 59.944 35.052 0)
+			(at 49.022 39.116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17134,7 +18151,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 59.944 35.052 0)
+			(at 49.022 39.116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17143,7 +18160,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 59.944 35.052 0)
+			(at 49.022 39.116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17193,7 +18210,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 118.872 60.452 0)
 			(effects
 				(font
@@ -17531,7 +18548,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 76.708 150.114 0)
 			(effects
 				(font
@@ -18015,7 +19032,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T80_60_V:Air_Coil"
+		(property "Footprint" "T80_60_V:Large_Air_Coil"
 			(at 124.46 193.04 0)
 			(effects
 				(font
@@ -18058,6 +19075,72 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 19.558 69.342 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "96e838af-292f-430f-8ea9-452d6bdbf27b")
+		(property "Reference" "H8"
+			(at 18.288 71.374 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "M3"
+			(at 18.034 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad_Via"
+			(at 19.558 69.342 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 19.558 69.342 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 19.558 69.342 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "159cdb90-8d77-43bd-9add-8c7766f00dce")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "H8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:L")
 		(at 77.216 193.04 90)
 		(unit 1)
@@ -18082,7 +19165,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T80_60_V:Air_Coil"
+		(property "Footprint" "T80_60_V:Large_Air_Coil"
 			(at 77.216 193.04 0)
 			(effects
 				(font
@@ -18151,7 +19234,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 90.932 195.58 0)
 			(effects
 				(font
@@ -18287,7 +19370,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 86.868 92.964 0)
 			(effects
 				(font
@@ -18420,7 +19503,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T80_60_V:Air_Coil"
+		(property "Footprint" "T80_60_V:Large_Air_Coil"
 			(at 77.47 225.552 0)
 			(effects
 				(font
@@ -18620,7 +19703,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T80_60_V:T60_80_V"
+		(property "Footprint" "T80_60_V:T90_60_V"
 			(at 77.216 90.424 0)
 			(effects
 				(font
@@ -18689,7 +19772,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 111.252 228.092 0)
 			(effects
 				(font
@@ -18758,7 +19841,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 114.808 24.892 0)
 			(effects
 				(font
@@ -18907,7 +19990,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 133.604 24.892 0)
 			(effects
 				(font
@@ -19793,6 +20876,72 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 19.558 56.388 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "af20ddc9-0cee-4de4-b616-e8103d282346")
+		(property "Reference" "H7"
+			(at 18.542 58.166 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "M3"
+			(at 18.288 52.324 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad_Via"
+			(at 19.558 56.388 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 19.558 56.388 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 19.558 56.388 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9d130f6c-e4f0-4d07-8f44-df4debaa21ed")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "H7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 106.934 128.524 0)
 		(unit 1)
@@ -19819,7 +20968,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 106.934 128.524 0)
 			(effects
 				(font
@@ -19928,6 +21077,72 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 14.478 69.342 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "b11b837c-98b0-42a4-a8a5-ff6bbca2d65e")
+		(property "Reference" "H6"
+			(at 13.208 71.374 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "M3"
+			(at 12.954 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad_Via"
+			(at 14.478 69.342 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 14.478 69.342 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 14.478 69.342 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9eb7538e-6277-47de-8c2c-bdb4c0cb61cf")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "H6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:L")
 		(at 100.33 125.984 90)
 		(unit 1)
@@ -19953,7 +21168,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T80_60_V:T60_80_V"
+		(property "Footprint" "T80_60_V:T90_60_V"
 			(at 100.33 125.984 0)
 			(effects
 				(font
@@ -20089,7 +21304,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 76.454 54.356 0)
 			(effects
 				(font
@@ -20223,7 +21438,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T80_60_V:T60_80_V"
+		(property "Footprint" "T80_60_V:T90_60_V"
 			(at 100.33 157.48 0)
 			(effects
 				(font
@@ -20427,7 +21642,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 67.818 128.524 0)
 			(effects
 				(font
@@ -20496,7 +21711,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 67.818 195.58 0)
 			(effects
 				(font
@@ -20539,94 +21754,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D_Small")
-		(at 141.224 70.612 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "bb1c9d03-899a-42a3-a0eb-fe3f2669a1c3")
-		(property "Reference" "D12"
-			(at 142.494 68.834 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SS36"
-			(at 142.494 72.136 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SMC"
-			(at 141.224 70.612 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 141.224 70.612 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 141.224 70.612 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 141.224 70.612 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 141.224 70.612 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "286540a7-648b-48ed-b95c-84c370f05cfe")
-		)
-		(pin "1"
-			(uuid "e0af00a9-d637-4065-bd8d-f5d62d5930cc")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "D12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 76.708 118.618 90)
 		(unit 1)
@@ -20653,7 +21780,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 76.708 118.618 0)
 			(effects
 				(font
@@ -20908,94 +22035,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D_Small")
-		(at 141.732 238.252 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "be531d72-140a-4085-9eb6-8ae18ee22e25")
-		(property "Reference" "D14"
-			(at 143.002 236.474 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SS36"
-			(at 143.002 239.776 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SMC"
-			(at 141.732 238.252 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 141.732 238.252 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 141.732 238.252 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 141.732 238.252 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 141.732 238.252 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "397e1540-90af-43d7-8c99-62e49bd7333c")
-		)
-		(pin "1"
-			(uuid "afdf82f8-4b7c-4797-8985-36fc3c992909")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "D14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 41.148 72.136 0)
 		(unit 1)
@@ -21091,7 +22130,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SMA_PINS:SMA_PINS"
 			(at 21.336 123.444 0)
 			(effects
 				(font
@@ -21296,7 +22335,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 71.628 60.452 0)
 			(effects
 				(font
@@ -21436,7 +22475,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 133.858 160.02 0)
 			(effects
 				(font
@@ -21572,7 +22611,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 145.796 60.452 0)
 			(effects
 				(font
@@ -21774,7 +22813,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 82.804 92.964 0)
 			(effects
 				(font
@@ -21843,7 +22882,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T80_60_V:T60_80_V"
+		(property "Footprint" "T80_60_V:T90_60_V"
 			(at 124.206 57.912 0)
 			(effects
 				(font
@@ -21912,7 +22951,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 86.614 60.452 0)
 			(effects
 				(font
@@ -21981,7 +23020,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 64.008 228.092 0)
 			(effects
 				(font
@@ -22024,6 +23063,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D_Small")
+		(at 49.276 209.804 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ca771088-9266-4191-a126-334e4c742128")
+		(property "Reference" "D6"
+			(at 51.054 211.074 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SS36"
+			(at 47.752 211.074 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMC"
+			(at 49.276 209.804 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 49.276 209.804 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode, small symbol"
+			(at 49.276 209.804 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 49.276 209.804 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 49.276 209.804 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ff3abc2f-ae04-4a82-bdeb-54fae9163060")
+		)
+		(pin "1"
+			(uuid "9b367d2f-14cc-4d59-a204-32c1d788c89c")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 90.678 60.452 0)
 		(unit 1)
@@ -22050,7 +23177,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 90.678 60.452 0)
 			(effects
 				(font
@@ -22119,7 +23246,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 82.55 24.892 0)
 			(effects
 				(font
@@ -22333,7 +23460,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 90.932 160.02 0)
 			(effects
 				(font
@@ -22370,6 +23497,93 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C68")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Small")
+		(at 152.4 209.804 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cc8cbb32-cd8c-4c6d-90f8-dfa4d9508b22")
+		(property "Reference" "D9"
+			(at 150.622 211.074 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SS36"
+			(at 153.924 211.074 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMC"
+			(at 152.4 209.804 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 152.4 209.804 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode, small symbol"
+			(at 152.4 209.804 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 152.4 209.804 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 152.4 209.804 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5eafe08e-bb4f-47ea-8581-093e7b0d3729")
+		)
+		(pin "1"
+			(uuid "ae3b31c5-b845-4f5f-93ea-db4eeebfca90")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -22823,7 +24037,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 76.708 185.674 0)
 			(effects
 				(font
@@ -22892,7 +24106,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 87.122 228.092 0)
 			(effects
 				(font
@@ -22935,6 +24149,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D_Small")
+		(at 49.53 174.244 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d2ba5388-624d-4d3d-8be8-c9ebf1beacc2")
+		(property "Reference" "D5"
+			(at 51.308 175.514 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SS36"
+			(at 48.006 175.514 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMC"
+			(at 49.53 174.244 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 49.53 174.244 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode, small symbol"
+			(at 49.53 174.244 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 49.53 174.244 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 49.53 174.244 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "13a8c339-b7b8-4a8d-ad27-305b60cb52d7")
+		)
+		(pin "1"
+			(uuid "58c08d02-80d2-4218-86d8-142a42101973")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "D5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 115.316 228.092 0)
 		(unit 1)
@@ -22961,7 +24263,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 115.316 228.092 0)
 			(effects
 				(font
@@ -23004,6 +24306,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 19.558 73.152 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d58f2b71-4961-47b9-9f31-f2f85299c838")
+		(property "Reference" "#PWR090"
+			(at 19.558 79.502 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 19.558 77.2851 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 19.558 73.152 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 19.558 73.152 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 19.558 73.152 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "092027b0-bcd2-4de3-abb0-48b9e8051f0f")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR090")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic:Conn_02x05_Odd_Even")
 		(at 45.212 268.478 0)
 		(unit 1)
@@ -23029,7 +24397,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical"
 			(at 45.212 268.478 0)
 			(effects
 				(font
@@ -23256,7 +24624,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 129.54 60.452 0)
 			(effects
 				(font
@@ -23436,6 +24804,93 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D_Small")
+		(at 152.146 39.116 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d9ee93f3-68f9-4a75-bb3b-63f05117274b")
+		(property "Reference" "D14"
+			(at 150.368 40.386 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SS36"
+			(at 153.67 40.386 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMC"
+			(at 152.146 39.116 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 152.146 39.116 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode, small symbol"
+			(at 152.146 39.116 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 152.146 39.116 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 152.146 39.116 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "be6bf670-75a0-430f-8c2a-567980af9eb9")
+		)
+		(pin "1"
+			(uuid "69eed01e-d791-4f15-a33c-172820844685")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "D14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 112.522 64.262 0)
 		(unit 1)
@@ -23527,7 +24982,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T80_60_V:Air_Coil"
+		(property "Footprint" "T80_60_V:Large_Air_Coil"
 			(at 100.584 225.552 0)
 			(effects
 				(font
@@ -23564,6 +25019,94 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "L20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Small")
+		(at 49.53 142.748 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ddb14b00-5027-4227-818a-14909789f719")
+		(property "Reference" "D4"
+			(at 51.308 144.018 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SS36"
+			(at 48.006 144.018 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMC"
+			(at 49.53 142.748 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 49.53 142.748 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode, small symbol"
+			(at 49.53 142.748 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 49.53 142.748 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 49.53 142.748 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "00731c64-3c35-4b7d-9b46-1bf21ed3f85d")
+		)
+		(pin "1"
+			(uuid "0f8e5b38-59aa-4bd3-b9f5-7c9607e3d911")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -23667,7 +25210,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 141.732 60.452 0)
 			(effects
 				(font
@@ -23736,7 +25279,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T80_60_V:T60_80_V"
+		(property "Footprint" "T80_60_V:T90_60_V"
 			(at 124.206 22.352 0)
 			(effects
 				(font
@@ -23805,7 +25348,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 76.454 14.986 0)
 			(effects
 				(font
@@ -23874,7 +25417,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 67.564 24.892 0)
 			(effects
 				(font
@@ -23944,7 +25487,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 133.604 60.452 0)
 			(effects
 				(font
@@ -24013,7 +25556,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 119.126 195.58 0)
 			(effects
 				(font
@@ -24082,7 +25625,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 90.678 24.892 0)
 			(effects
 				(font
@@ -24125,6 +25668,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 14.478 73.152 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e7d02164-ef0e-482e-b0d9-aa67577a1f8e")
+		(property "Reference" "#PWR082"
+			(at 14.478 79.502 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 14.478 77.2851 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 14.478 73.152 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 14.478 73.152 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 14.478 73.152 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4e776cb0-8d60-46e0-9955-b78e5ab601d4")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR082")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 67.818 160.02 0)
 		(unit 1)
@@ -24151,7 +25760,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 67.818 160.02 0)
 			(effects
 				(font
@@ -24220,7 +25829,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 90.932 128.524 0)
 			(effects
 				(font
@@ -24541,94 +26150,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D_Small")
-		(at 60.198 138.684 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ec4022a4-f137-488b-a3e4-0e8d50ebd2b0")
-		(property "Reference" "D3"
-			(at 61.468 136.906 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SS36"
-			(at 61.468 140.208 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SMC"
-			(at 60.198 138.684 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 60.198 138.684 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 60.198 138.684 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 60.198 138.684 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 60.198 138.684 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b735fe22-b284-43ac-80f3-36d6fbb1774e")
-		)
-		(pin "1"
-			(uuid "784efe89-1eeb-4cce-b4dc-b388d75b3082")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "D3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 144.78 75.946 0)
 		(mirror y)
@@ -24920,7 +26441,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 76.962 218.186 0)
 			(effects
 				(font
@@ -24988,7 +26509,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T80_60_V:Air_Coil"
+		(property "Footprint" "T80_60_V:Large_Air_Coil"
 			(at 100.33 193.04 0)
 			(effects
 				(font
@@ -25098,94 +26619,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D_Small")
-		(at 141.478 138.684 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f2e34b06-0071-4a15-8ad1-11183e7d88d8")
-		(property "Reference" "D10"
-			(at 142.748 136.906 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SS36"
-			(at 142.748 140.208 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SMC"
-			(at 141.478 138.684 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 141.478 138.684 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 141.478 138.684 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 141.478 138.684 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 141.478 138.684 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "6cf1453a-c60c-4d9f-8a28-91214cfd1907")
-		)
-		(pin "1"
-			(uuid "e6ed7893-b5ae-4694-97e4-7c40f0c0b886")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "D10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 41.148 40.386 0)
 		(unit 1)
@@ -25246,94 +26679,6 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Small")
-		(at 141.478 170.18 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f4218c07-d563-4416-8123-11b48e575bda")
-		(property "Reference" "D9"
-			(at 142.748 168.402 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SS36"
-			(at 142.748 171.704 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SMC"
-			(at 141.478 170.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 141.478 170.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 141.478 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 141.478 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 141.478 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "728f3dc2-9a18-44aa-a844-912c88a93800")
-		)
-		(pin "1"
-			(uuid "6310c026-a004-4d29-ad3a-5ee5738834a7")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -25434,7 +26779,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 137.668 60.452 0)
 			(effects
 				(font
@@ -25614,94 +26959,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D_Small")
-		(at 60.198 170.18 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f7bf77ae-878a-4475-8f43-963e40ca216a")
-		(property "Reference" "D4"
-			(at 61.468 168.402 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SS36"
-			(at 61.468 171.704 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SMC"
-			(at 60.198 170.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 60.198 170.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 60.198 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 60.198 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 60.198 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "7022e792-501c-437c-90c9-8ed7cbca859f")
-		)
-		(pin "1"
-			(uuid "e7a046e1-c4f8-4bf4-8093-544bed31f8f9")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "D4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 110.998 128.524 0)
 		(unit 1)
@@ -25728,7 +26985,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 110.998 128.524 0)
 			(effects
 				(font
@@ -25797,7 +27054,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 110.998 195.58 0)
 			(effects
 				(font
@@ -25834,94 +27091,6 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C80")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Small")
-		(at 141.478 205.74 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "faf75d18-5ba5-4df4-bfc1-f951f2094ec2")
-		(property "Reference" "D8"
-			(at 142.748 203.962 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SS36"
-			(at 142.748 207.264 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SMC"
-			(at 141.478 205.74 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 141.478 205.74 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 141.478 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 141.478 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 141.478 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c21e8ce9-c753-47a9-8a6d-9f762cdf6493")
-		)
-		(pin "1"
-			(uuid "40c12708-6c18-4685-86af-cba12e045a9c")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -26020,7 +27189,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T80_60_V:Air_Coil"
+		(property "Footprint" "T80_60_V:Large_Air_Coil"
 			(at 124.714 225.552 0)
 			(effects
 				(font
@@ -26225,7 +27394,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
 			(at 110.998 92.964 0)
 			(effects
 				(font

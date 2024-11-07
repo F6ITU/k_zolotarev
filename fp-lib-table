@@ -4,4 +4,5 @@
   (lib (name "G5LE-1-DC12")(type "KiCad")(uri "${KIPRJMOD}/Lib/G5LE-1-DC12")(options "")(descr ""))
   (lib (name "SMA_PINS")(type "KiCad")(uri "${KIPRJMOD}/Lib/SMA_PINS.pretty")(options "")(descr ""))
   (lib (name "T80_60_V")(type "KiCad")(uri "${KIPRJMOD}/Lib/T80_60_V.pretty")(options "")(descr ""))
+  (lib (name "Capacitor_SMD")(type "KiCad")(uri "${KIPRJMOD}/Lib/Capacitor_SMD.pretty")(options "")(descr ""))
 )
