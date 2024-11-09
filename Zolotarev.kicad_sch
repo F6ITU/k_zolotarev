@@ -7774,7 +7774,7 @@
 		)
 		(uuid "46c945ca-64f9-4544-ac5c-8debe374f37a")
 	)
-	(text "Manque ferrites filtrage DC\n"
+	(text "Manque ferrites filtrage DC\nChanger les diodes de freewheeling\n\n"
 		(exclude_from_sim no)
 		(at 51.054 252.984 0)
 		(effects
@@ -8674,7 +8674,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMC"
+		(property "Footprint" "Diode_SMD:D_SMB_Handsoldering"
 			(at 152.146 74.676 90)
 			(effects
 				(font
@@ -9169,7 +9169,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMC"
+		(property "Footprint" "Diode_SMD:D_SMB_Handsoldering"
 			(at 49.022 74.676 90)
 			(effects
 				(font
@@ -12913,7 +12913,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMC"
+		(property "Footprint" "Diode_SMD:D_SMB_Handsoldering"
 			(at 152.4 142.748 90)
 			(effects
 				(font
@@ -13000,7 +13000,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMC"
+		(property "Footprint" "Diode_SMD:D_SMB_Handsoldering"
 			(at 152.4 107.188 90)
 			(effects
 				(font
@@ -14624,7 +14624,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMC"
+		(property "Footprint" "Diode_SMD:D_SMB_Handsoldering"
 			(at 49.53 242.316 90)
 			(effects
 				(font
@@ -15052,7 +15052,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMC"
+		(property "Footprint" "Diode_SMD:D_SMB_Handsoldering"
 			(at 152.4 174.244 90)
 			(effects
 				(font
@@ -17063,7 +17063,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMC"
+		(property "Footprint" "Diode_SMD:D_SMB_Handsoldering"
 			(at 49.276 107.188 90)
 			(effects
 				(font
@@ -17620,7 +17620,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMC"
+		(property "Footprint" "Diode_SMD:D_SMB_Handsoldering"
 			(at 152.654 242.316 90)
 			(effects
 				(font
@@ -22684,7 +22684,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMC"
+		(property "Footprint" "Diode_SMD:D_SMB_Handsoldering"
 			(at 49.276 209.804 90)
 			(effects
 				(font
@@ -23123,7 +23123,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMC"
+		(property "Footprint" "Diode_SMD:D_SMB_Handsoldering"
 			(at 152.4 209.804 90)
 			(effects
 				(font
@@ -23770,7 +23770,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMC"
+		(property "Footprint" "Diode_SMD:D_SMB_Handsoldering"
 			(at 49.53 174.244 90)
 			(effects
 				(font
@@ -24358,7 +24358,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMC"
+		(property "Footprint" "Diode_SMD:D_SMB_Handsoldering"
 			(at 152.146 39.116 90)
 			(effects
 				(font
@@ -24580,7 +24580,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMC"
+		(property "Footprint" "Diode_SMD:D_SMB_Handsoldering"
 			(at 49.53 142.748 90)
 			(effects
 				(font
