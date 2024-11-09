@@ -3258,16 +3258,6 @@
 	)
 	(wire
 		(pts
-			(xy 14.478 58.928) (xy 14.478 60.198)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "148dd484-eaae-426a-87e3-5c8cea60be09")
-	)
-	(wire
-		(pts
 			(xy 59.944 32.512) (xy 59.944 40.64)
 		)
 		(stroke
@@ -5988,16 +5978,6 @@
 	)
 	(wire
 		(pts
-			(xy 19.558 71.882) (xy 19.558 73.152)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a04d8f25-abc3-47ad-bf29-afdb9039d61c")
-	)
-	(wire
-		(pts
 			(xy 71.882 125.984) (xy 73.406 125.984)
 		)
 		(stroke
@@ -6465,16 +6445,6 @@
 			(type default)
 		)
 		(uuid "b490531b-12ea-44e8-bbb9-7778e65a6ae4")
-	)
-	(wire
-		(pts
-			(xy 19.558 58.928) (xy 19.558 60.198)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b5440f09-4446-448d-82dc-51a2c21864b6")
 	)
 	(wire
 		(pts
@@ -7015,16 +6985,6 @@
 			(type default)
 		)
 		(uuid "cf6ab902-1734-40b9-9de1-2e2451a4dbeb")
-	)
-	(wire
-		(pts
-			(xy 14.478 71.882) (xy 14.478 73.152)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cfa8a625-e26e-4a08-af08-e37c1741b179")
 	)
 	(wire
 		(pts
@@ -12515,72 +12475,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 14.478 60.198 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4af828dd-976f-48bb-84ba-b73bda132f9c")
-		(property "Reference" "#PWR078"
-			(at 14.478 66.548 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 14.478 64.3311 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 14.478 60.198 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 14.478 60.198 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 14.478 60.198 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "40bf3b51-1920-4b73-8cea-2152efe7ee54")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "#PWR078")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 94.742 60.452 0)
 		(unit 1)
@@ -15060,72 +14954,6 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "L12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 14.478 56.388 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "648cdca6-129d-4798-9c92-1fb785e4a0b7")
-		(property "Reference" "H5"
-			(at 13.208 58.166 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "M3"
-			(at 12.7 52.324 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad_Via"
-			(at 14.478 56.388 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 14.478 56.388 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 14.478 56.388 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "93df216c-391d-4968-bb75-adf77e6569f8")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "H5")
 					(unit 1)
 				)
 			)
@@ -17766,72 +17594,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 19.558 60.198 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8beed851-9e90-4625-812c-b844753de18b")
-		(property "Reference" "#PWR086"
-			(at 19.558 66.548 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 19.558 64.3311 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 19.558 60.198 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 19.558 60.198 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 19.558 60.198 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bee3facd-9aff-43ba-a33c-272abd4433ea")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "#PWR086")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D_Small")
 		(at 152.654 242.316 180)
 		(unit 1)
@@ -18153,7 +17915,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMC"
+		(property "Footprint" "Diode_SMD:D_SMB_Handsoldering"
 			(at 49.022 39.116 90)
 			(effects
 				(font
@@ -19099,72 +18861,6 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "L18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 19.558 69.342 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "96e838af-292f-430f-8ea9-452d6bdbf27b")
-		(property "Reference" "H8"
-			(at 18.288 71.374 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "M3"
-			(at 18.034 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad_Via"
-			(at 19.558 69.342 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 19.558 69.342 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 19.558 69.342 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "159cdb90-8d77-43bd-9add-8c7766f00dce")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "H8")
 					(unit 1)
 				)
 			)
@@ -20906,72 +20602,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 19.558 56.388 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "af20ddc9-0cee-4de4-b616-e8103d282346")
-		(property "Reference" "H7"
-			(at 18.542 58.166 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "M3"
-			(at 18.288 52.324 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad_Via"
-			(at 19.558 56.388 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 19.558 56.388 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 19.558 56.388 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9d130f6c-e4f0-4d07-8f44-df4debaa21ed")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "H7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 106.934 128.524 0)
 		(unit 1)
@@ -21101,72 +20731,6 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "#PWR038")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 14.478 69.342 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "b11b837c-98b0-42a4-a8a5-ff6bbca2d65e")
-		(property "Reference" "H6"
-			(at 13.208 71.374 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "M3"
-			(at 12.954 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad_Via"
-			(at 14.478 69.342 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 14.478 69.342 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 14.478 69.342 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9eb7538e-6277-47de-8c2c-bdb4c0cb61cf")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "H6")
 					(unit 1)
 				)
 			)
@@ -24336,72 +23900,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 19.558 73.152 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d58f2b71-4961-47b9-9f31-f2f85299c838")
-		(property "Reference" "#PWR090"
-			(at 19.558 79.502 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 19.558 77.2851 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 19.558 73.152 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 19.558 73.152 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 19.558 73.152 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "092027b0-bcd2-4de3-abb0-48b9e8051f0f")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "#PWR090")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector_Generic:Conn_02x05_Odd_Even")
 		(at 45.212 268.478 0)
 		(unit 1)
@@ -25692,72 +25190,6 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 14.478 73.152 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e7d02164-ef0e-482e-b0d9-aa67577a1f8e")
-		(property "Reference" "#PWR082"
-			(at 14.478 79.502 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 14.478 77.2851 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 14.478 73.152 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 14.478 73.152 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 14.478 73.152 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4e776cb0-8d60-46e0-9955-b78e5ab601d4")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "#PWR082")
 					(unit 1)
 				)
 			)
