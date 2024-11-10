@@ -8327,7 +8327,7 @@
 			)
 		)
 		(property "Value" "29p"
-			(at 92.964 130.302 0)
+			(at 96.012 130.302 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8888,7 +8888,7 @@
 			)
 		)
 		(property "Value" "200p"
-			(at 80.772 197.358 0)
+			(at 80.518 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9381,7 +9381,7 @@
 			)
 		)
 		(property "Value" "180p"
-			(at 139.954 130.302 0)
+			(at 143.002 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9857,6 +9857,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(color 255 12 19 1)
 				)
 				(justify left)
 			)
@@ -9922,7 +9923,7 @@
 			)
 		)
 		(property "Value" "180p"
-			(at 57.658 130.302 0)
+			(at 56.134 131.826 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10326,7 +10327,7 @@
 			)
 		)
 		(property "Value" "20p"
-			(at 66.04 229.87 0)
+			(at 68.58 230.632 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10532,6 +10533,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(color 255 8 37 1)
 				)
 				(justify left)
 			)
@@ -10800,7 +10802,7 @@
 			)
 		)
 		(property "Value" "130p"
-			(at 88.9 94.742 0)
+			(at 89.662 97.028 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10935,7 +10937,7 @@
 			)
 		)
 		(property "Value" "130p"
-			(at 61.722 197.358 0)
+			(at 60.198 199.136 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11210,6 +11212,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(color 255 8 37 1)
 				)
 				(justify left)
 			)
@@ -11341,7 +11344,7 @@
 			)
 		)
 		(property "Value" "130p"
-			(at 61.722 130.302 0)
+			(at 61.468 132.334 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11611,7 +11614,7 @@
 			)
 		)
 		(property "Value" "7p"
-			(at 139.954 197.358 0)
+			(at 141.224 197.612 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11947,10 +11950,11 @@
 			)
 		)
 		(property "Value" "620p"
-			(at 131.826 94.742 0)
+			(at 130.556 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(color 255 8 37 1)
 				)
 				(justify left)
 			)
@@ -12286,10 +12290,11 @@
 			)
 		)
 		(property "Value" "680p"
-			(at 80.772 130.302 0)
+			(at 77.216 131.318 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(color 255 8 37 1)
 				)
 				(justify left)
 			)
@@ -12359,6 +12364,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(color 255 8 37 1)
 				)
 				(justify left)
 			)
@@ -12628,7 +12634,7 @@
 			)
 		)
 		(property "Value" "130p"
-			(at 93.218 229.87 0)
+			(at 95.504 231.394 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12697,7 +12703,7 @@
 			)
 		)
 		(property "Value" "130p"
-			(at 92.964 94.742 0)
+			(at 96.012 94.996 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12771,6 +12777,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(color 255 8 37 1)
 				)
 				(justify left)
 			)
@@ -12836,7 +12843,7 @@
 			)
 		)
 		(property "Value" "200p"
-			(at 61.722 161.798 0)
+			(at 59.944 163.322 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13146,10 +13153,11 @@
 			)
 		)
 		(property "Value" "2.2n"
-			(at 104.902 94.742 0)
+			(at 105.41 97.028 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(color 255 8 37 1)
 				)
 				(justify left)
 			)
@@ -13493,7 +13501,7 @@
 			)
 		)
 		(property "Value" "130p"
-			(at 84.836 130.302 0)
+			(at 84.582 132.588 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13563,7 +13571,7 @@
 			)
 		)
 		(property "Value" "130p"
-			(at 139.954 161.798 0)
+			(at 141.732 163.576 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14054,7 +14062,7 @@
 			)
 		)
 		(property "Value" "10p"
-			(at 139.954 94.742 0)
+			(at 142.748 94.742 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14264,6 +14272,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(color 255 8 37 1)
 				)
 				(justify left)
 			)
@@ -14329,10 +14338,11 @@
 			)
 		)
 		(property "Value" "680p"
-			(at 108.966 161.798 0)
+			(at 107.696 163.576 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(color 255 8 37 1)
 				)
 				(justify left)
 			)
@@ -14481,6 +14491,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(color 255 16 20 1)
 				)
 				(justify left)
 			)
@@ -14550,6 +14561,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(color 255 8 37 1)
 				)
 				(justify left)
 			)
@@ -14704,7 +14716,7 @@
 			)
 		)
 		(property "Value" "180p"
-			(at 135.89 197.358 0)
+			(at 134.62 199.136 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14840,7 +14852,7 @@
 			)
 		)
 		(property "Value" "620p"
-			(at 84.836 161.798 0)
+			(at 83.312 163.576 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15740,7 +15752,7 @@
 			)
 		)
 		(property "Value" "130p"
-			(at 89.154 229.87 0)
+			(at 89.408 232.156 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15809,7 +15821,7 @@
 			)
 		)
 		(property "Value" "68p"
-			(at 113.03 161.798 0)
+			(at 114.3 163.576 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16294,7 +16306,7 @@
 			)
 		)
 		(property "Value" "200p"
-			(at 84.836 197.358 0)
+			(at 85.852 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16364,7 +16376,7 @@
 			)
 		)
 		(property "Value" "68p"
-			(at 136.144 229.87 0)
+			(at 134.874 231.648 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16635,7 +16647,7 @@
 			)
 		)
 		(property "Value" "38p"
-			(at 140.208 229.87 0)
+			(at 140.716 231.648 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16985,7 +16997,7 @@
 			)
 		)
 		(property "Value" "200p"
-			(at 135.89 130.302 0)
+			(at 134.112 131.572 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17209,7 +17221,7 @@
 			)
 		)
 		(property "Value" "130p"
-			(at 135.89 94.742 0)
+			(at 136.144 97.028 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17703,6 +17715,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(color 255 8 37 1)
 				)
 				(justify left)
 			)
@@ -18332,7 +18345,7 @@
 			)
 		)
 		(property "Value" "68p"
-			(at 78.486 152.146 0)
+			(at 78.74 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18952,7 +18965,7 @@
 			)
 		)
 		(property "Value" "68p"
-			(at 88.9 197.358 0)
+			(at 91.44 197.358 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19088,10 +19101,11 @@
 			)
 		)
 		(property "Value" "680p"
-			(at 84.836 94.742 0)
+			(at 84.582 96.774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(color 255 8 37 1)
 				)
 				(justify left)
 			)
@@ -19490,7 +19504,7 @@
 			)
 		)
 		(property "Value" "180p"
-			(at 109.22 229.87 0)
+			(at 107.188 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20620,10 +20634,11 @@
 			)
 		)
 		(property "Value" "1n"
-			(at 104.902 130.302 0)
+			(at 105.664 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(color 255 8 37 1)
 				)
 				(justify left)
 			)
@@ -21228,7 +21243,7 @@
 			)
 		)
 		(property "Value" "6p"
-			(at 65.786 130.302 0)
+			(at 68.58 131.064 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21297,7 +21312,7 @@
 			)
 		)
 		(property "Value" "25p"
-			(at 65.786 197.358 0)
+			(at 67.564 198.628 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22061,7 +22076,7 @@
 			)
 		)
 		(property "Value" "130p"
-			(at 135.89 161.798 0)
+			(at 134.62 164.084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22399,10 +22414,11 @@
 			)
 		)
 		(property "Value" "1n"
-			(at 80.264 94.996 0)
+			(at 80.264 96.774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(color 255 8 37 1)
 				)
 				(justify left)
 			)
@@ -22541,6 +22557,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(color 255 8 37 1)
 				)
 				(justify left)
 			)
@@ -22606,7 +22623,7 @@
 			)
 		)
 		(property "Value" "68p"
-			(at 61.976 229.87 0)
+			(at 60.198 230.124 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22767,6 +22784,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(color 255 8 37 1)
 				)
 				(justify left)
 			)
@@ -23046,7 +23064,7 @@
 			)
 		)
 		(property "Value" "29p"
-			(at 88.9 161.798 0)
+			(at 90.678 163.576 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23623,7 +23641,7 @@
 			)
 		)
 		(property "Value" "52p"
-			(at 78.486 187.706 0)
+			(at 78.486 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23692,7 +23710,7 @@
 			)
 		)
 		(property "Value" "10p"
-			(at 85.09 229.87 0)
+			(at 84.074 231.648 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23849,7 +23867,7 @@
 			)
 		)
 		(property "Value" "130p"
-			(at 113.284 229.87 0)
+			(at 114.808 231.394 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24872,6 +24890,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(color 255 15 51 1)
 				)
 				(justify left)
 			)
@@ -25214,7 +25233,7 @@
 			)
 		)
 		(property "Value" "12p"
-			(at 65.786 161.798 0)
+			(at 67.056 163.576 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25283,7 +25302,7 @@
 			)
 		)
 		(property "Value" "130p"
-			(at 88.9 130.302 0)
+			(at 90.678 132.588 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26439,7 +26458,7 @@
 			)
 		)
 		(property "Value" "120p"
-			(at 108.966 130.302 0)
+			(at 113.03 130.048 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26848,7 +26867,7 @@
 			)
 		)
 		(property "Value" "30p"
-			(at 108.966 94.742 0)
+			(at 113.284 94.996 0)
 			(effects
 				(font
 					(size 1.27 1.27)
