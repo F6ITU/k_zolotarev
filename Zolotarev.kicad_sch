@@ -843,6 +843,154 @@
 				)
 			)
 		)
+		(symbol "Device:FerriteBead_Small"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "FB"
+				(at 1.905 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "FerriteBead_Small"
+				(at 1.905 -1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Ferrite bead, small symbol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "L ferrite bead inductor filter"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Inductor_* L_* *Ferrite*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "FerriteBead_Small_0_1"
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy 0 -0.7874)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0.889) (xy 0 1.2954)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.8288 0.2794) (xy -1.1176 1.4986) (xy 1.8288 -0.2032) (xy 1.1176 -1.4224) (xy -1.8288 0.2794)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "FerriteBead_Small_1_1"
+				(pin passive line
+					(at 0 2.54 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Device:L"
 			(pin_numbers hide)
 			(pin_names
@@ -2828,6 +2976,16 @@
 	)
 	(wire
 		(pts
+			(xy 34.29 136.144) (xy 36.322 136.144)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0142d96d-bb4d-4433-b5b8-9e8c6519335c")
+	)
+	(wire
+		(pts
 			(xy 110.998 95.504) (xy 112.776 95.504)
 		)
 		(stroke
@@ -3098,6 +3256,16 @@
 	)
 	(wire
 		(pts
+			(xy 167.132 32.512) (xy 165.1 32.512)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a957b2b-8a2a-4637-90bc-22ce7cfdb865")
+	)
+	(wire
+		(pts
 			(xy 79.502 219.964) (xy 83.058 219.964)
 		)
 		(stroke
@@ -3125,6 +3293,16 @@
 			(type default)
 		)
 		(uuid "0b8e9cdc-5e1f-424a-bf5c-e42aca784b3f")
+	)
+	(wire
+		(pts
+			(xy 167.132 68.072) (xy 165.1 68.072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ccbbd77-c1f7-47a6-a422-7310108ee025")
 	)
 	(wire
 		(pts
@@ -3188,6 +3366,16 @@
 	)
 	(wire
 		(pts
+			(xy 38.608 271.018) (xy 40.132 271.018)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10929232-8bc8-45fc-b173-277e5c9e5215")
+	)
+	(wire
+		(pts
 			(xy 65.532 162.56) (xy 65.532 163.83)
 		)
 		(stroke
@@ -3215,16 +3403,6 @@
 			(type default)
 		)
 		(uuid "12033517-a990-4ba3-891f-cee43c233b30")
-	)
-	(wire
-		(pts
-			(xy 41.656 234.188) (xy 41.656 235.712)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1291d968-090b-496a-b34b-63bf49c4ad9a")
 	)
 	(wire
 		(pts
@@ -3588,6 +3766,26 @@
 	)
 	(wire
 		(pts
+			(xy 32.004 263.398) (xy 33.528 263.398)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "232420c3-501f-46f3-ac88-d97680a3a187")
+	)
+	(wire
+		(pts
+			(xy 65.278 175.768) (xy 136.398 175.768)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23b1c1a4-65bc-422c-b38a-7b751607fa09")
+	)
+	(wire
+		(pts
 			(xy 138.176 225.552) (xy 145.288 225.552)
 		)
 		(stroke
@@ -3678,6 +3876,16 @@
 	)
 	(wire
 		(pts
+			(xy 59.436 263.398) (xy 60.96 263.398)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27bcb8d9-c703-44aa-97a2-d96cd79a1f1d")
+	)
+	(wire
+		(pts
 			(xy 91.186 230.632) (xy 95.25 230.632)
 		)
 		(stroke
@@ -3705,6 +3913,16 @@
 			(type default)
 		)
 		(uuid "290e19b2-84a2-4cab-a454-4a41b353cfdd")
+	)
+	(wire
+		(pts
+			(xy 34.29 203.2) (xy 36.322 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "291fd337-c7c0-4886-85d2-2835fbb669db")
 	)
 	(wire
 		(pts
@@ -3788,6 +4006,16 @@
 	)
 	(wire
 		(pts
+			(xy 65.278 211.328) (xy 136.398 211.328)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2bde821f-caae-4fbd-8008-7087ddb22027")
+	)
+	(wire
+		(pts
 			(xy 88.9 230.632) (xy 88.9 231.902)
 		)
 		(stroke
@@ -3795,16 +4023,6 @@
 			(type default)
 		)
 		(uuid "2e282b1b-d813-4594-9a16-1a97b0d23c8d")
-	)
-	(wire
-		(pts
-			(xy 160.274 134.62) (xy 160.274 136.144)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e551df3-f2b2-45a8-a43e-521c03b474df")
 	)
 	(wire
 		(pts
@@ -3858,23 +4076,23 @@
 	)
 	(wire
 		(pts
-			(xy 60.198 211.328) (xy 141.478 211.328)
+			(xy 52.832 265.938) (xy 54.356 265.938)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "30952c87-9c8b-4afc-a5ad-518f6c8ba680")
+		(uuid "30d2cb33-ba20-407d-82b4-e2e116a216be")
 	)
 	(wire
 		(pts
-			(xy 60.198 108.712) (xy 141.478 108.712)
+			(xy 65.278 144.272) (xy 136.398 144.272)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "314bd4d3-5aa2-46e9-b984-c0765fa56c84")
+		(uuid "313655ec-418a-4790-a948-2ca1336e900f")
 	)
 	(wire
 		(pts
@@ -3895,6 +4113,16 @@
 			(type default)
 		)
 		(uuid "32ec3cda-8384-4a35-a990-59220a5c74c1")
+	)
+	(wire
+		(pts
+			(xy 32.004 265.938) (xy 33.528 265.938)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3355760f-38bf-40bb-8e12-600cd19a8af3")
 	)
 	(wire
 		(pts
@@ -3955,16 +4183,6 @@
 			(type default)
 		)
 		(uuid "3562851c-fa10-4f0f-9c0c-5207e72ce337")
-	)
-	(wire
-		(pts
-			(xy 160.274 99.06) (xy 160.274 100.584)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "35bff8bd-833e-42cf-a594-6b82b72b224d")
 	)
 	(wire
 		(pts
@@ -4055,6 +4273,16 @@
 			(type default)
 		)
 		(uuid "371aa077-f090-4ee7-b621-15840ead6187")
+	)
+	(wire
+		(pts
+			(xy 32.004 273.558) (xy 33.528 273.558)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "372eb3c9-937b-4451-91b4-02cef7ba2b33")
 	)
 	(wire
 		(pts
@@ -4248,6 +4476,16 @@
 	)
 	(wire
 		(pts
+			(xy 167.386 167.64) (xy 165.354 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41cceace-13da-43d2-a625-304fef261eb4")
+	)
+	(wire
+		(pts
 			(xy 56.388 68.072) (xy 56.388 69.596)
 		)
 		(stroke
@@ -4285,6 +4523,16 @@
 			(type default)
 		)
 		(uuid "42f1a7a6-e54e-44e6-80e2-69af5edc5fe1")
+	)
+	(wire
+		(pts
+			(xy 167.64 235.712) (xy 165.608 235.712)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43100d1a-661e-4f5c-b5e5-33a979e02677")
 	)
 	(wire
 		(pts
@@ -4398,6 +4646,16 @@
 	)
 	(wire
 		(pts
+			(xy 32.004 271.018) (xy 33.528 271.018)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4720f37d-b7ee-43a8-a54a-defdd5915e0e")
+	)
+	(wire
+		(pts
 			(xy 82.804 95.504) (xy 86.868 95.504)
 		)
 		(stroke
@@ -4488,6 +4746,16 @@
 	)
 	(wire
 		(pts
+			(xy 59.436 265.938) (xy 60.96 265.938)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4af2cd08-83ae-440a-b377-368beb7ba874")
+	)
+	(wire
+		(pts
 			(xy 86.868 157.48) (xy 90.932 157.48)
 		)
 		(stroke
@@ -4538,7 +4806,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.452 243.84) (xy 141.732 243.84)
+			(xy 60.452 243.84) (xy 60.96 243.84)
 		)
 		(stroke
 			(width 0)
@@ -4578,7 +4846,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.148 30.988) (xy 41.148 32.512)
+			(xy 34.036 32.512) (xy 36.068 32.512)
 		)
 		(stroke
 			(width 0)
@@ -4665,16 +4933,6 @@
 			(type default)
 		)
 		(uuid "51113d7e-8e1b-4da4-81d5-86183ab70017")
-	)
-	(wire
-		(pts
-			(xy 160.274 201.676) (xy 160.274 203.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "519067f4-4cdc-4876-9a93-7cab54f126c4")
 	)
 	(wire
 		(pts
@@ -4798,16 +5056,6 @@
 	)
 	(wire
 		(pts
-			(xy 160.528 234.188) (xy 160.528 235.712)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "598d10b2-3c03-45bc-87e9-a4b0201a1e45")
-	)
-	(wire
-		(pts
 			(xy 114.808 22.352) (xy 120.396 22.352)
 		)
 		(stroke
@@ -4855,16 +5103,6 @@
 			(type default)
 		)
 		(uuid "5d366be9-aba3-4e99-be0b-2e06b8f209c4")
-	)
-	(wire
-		(pts
-			(xy 52.832 273.558) (xy 54.102 273.558)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5e001c45-aab7-40cf-9216-67da96694b6b")
 	)
 	(wire
 		(pts
@@ -4925,6 +5163,16 @@
 			(type default)
 		)
 		(uuid "6166eef1-fb24-4bd3-af4b-7247124181f6")
+	)
+	(wire
+		(pts
+			(xy 52.832 273.558) (xy 54.356 273.558)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61a4f80d-5955-4137-a3c6-86bf2d6eb88a")
 	)
 	(wire
 		(pts
@@ -5055,6 +5303,16 @@
 			(type default)
 		)
 		(uuid "6937afc4-97c3-438d-bfbf-57a21d9449e0")
+	)
+	(wire
+		(pts
+			(xy 66.04 243.84) (xy 136.652 243.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b603972-ef28-468b-822f-e43e94f3cfad")
 	)
 	(wire
 		(pts
@@ -5208,16 +5466,6 @@
 	)
 	(wire
 		(pts
-			(xy 60.198 144.272) (xy 141.478 144.272)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7233cb4f-7f58-4d36-8b12-d76edb9dfa28")
-	)
-	(wire
-		(pts
 			(xy 106.934 198.12) (xy 110.998 198.12)
 		)
 		(stroke
@@ -5255,6 +5503,16 @@
 			(type default)
 		)
 		(uuid "748077c2-0f30-405b-9bc7-4af5b5931ca1")
+	)
+	(wire
+		(pts
+			(xy 34.29 167.64) (xy 36.322 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "748818bb-f75c-42ed-b8f9-6667cbbb57c4")
 	)
 	(wire
 		(pts
@@ -5305,6 +5563,16 @@
 			(type default)
 		)
 		(uuid "7935c126-7098-41fa-8e9d-aa5982257634")
+	)
+	(wire
+		(pts
+			(xy 34.29 100.584) (xy 36.322 100.584)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "795e8056-226b-4145-9a09-07e5e840ea3a")
 	)
 	(wire
 		(pts
@@ -5398,6 +5666,16 @@
 	)
 	(wire
 		(pts
+			(xy 38.608 268.478) (xy 40.132 268.478)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7cd940b1-6c4f-4650-8b27-ed225271a92f")
+	)
+	(wire
+		(pts
 			(xy 41.402 209.804) (xy 41.402 211.074)
 		)
 		(stroke
@@ -5485,6 +5763,16 @@
 			(type default)
 		)
 		(uuid "7fe83798-0f88-4b6c-8430-1b486b97a9a4")
+	)
+	(wire
+		(pts
+			(xy 167.386 100.584) (xy 165.354 100.584)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "804b820b-560f-4389-8c05-f546b480e2b7")
 	)
 	(wire
 		(pts
@@ -5708,16 +5996,6 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 66.548) (xy 160.02 68.072)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e64e447-8d0b-4049-a396-88abdd0cc024")
-	)
-	(wire
-		(pts
 			(xy 78.994 50.546) (xy 78.994 52.324)
 		)
 		(stroke
@@ -5818,16 +6096,6 @@
 	)
 	(wire
 		(pts
-			(xy 41.148 66.548) (xy 41.148 68.072)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "94761fc3-359b-4366-8ebd-48c80f103867")
-	)
-	(wire
-		(pts
 			(xy 91.186 225.552) (xy 95.25 225.552)
 		)
 		(stroke
@@ -5845,16 +6113,6 @@
 			(type default)
 		)
 		(uuid "951df6b6-4b61-4306-96cc-b538a325526e")
-	)
-	(wire
-		(pts
-			(xy 41.402 201.676) (xy 41.402 203.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "95529947-e85f-4aa6-9655-ab64850abc6e")
 	)
 	(wire
 		(pts
@@ -5935,6 +6193,16 @@
 			(type default)
 		)
 		(uuid "9d1672d5-2897-4047-9491-03e188d8ded6")
+	)
+	(wire
+		(pts
+			(xy 38.608 265.938) (xy 40.132 265.938)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d5b4316-f3bf-4da7-a9ed-9a908288e35d")
 	)
 	(wire
 		(pts
@@ -6088,6 +6356,16 @@
 	)
 	(wire
 		(pts
+			(xy 167.386 203.2) (xy 165.354 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a71fc3d5-2483-4279-8df1-b4a735ccea3e")
+	)
+	(wire
+		(pts
 			(xy 60.198 101.092) (xy 60.198 108.712)
 		)
 		(stroke
@@ -6125,6 +6403,16 @@
 			(type default)
 		)
 		(uuid "a89d75ec-e7bb-45ec-beee-1acfd739d5ac")
+	)
+	(wire
+		(pts
+			(xy 34.544 235.712) (xy 36.576 235.712)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a931686e-02ba-4ce3-89ae-1578e5e64353")
 	)
 	(wire
 		(pts
@@ -6178,6 +6466,26 @@
 	)
 	(wire
 		(pts
+			(xy 52.832 263.398) (xy 54.356 263.398)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aaaa23d3-0a7e-4ea3-808a-eb331d12f178")
+	)
+	(wire
+		(pts
+			(xy 38.608 273.558) (xy 40.132 273.558)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aad336bb-1af1-46f4-aaf9-b533be3d7978")
+	)
+	(wire
+		(pts
 			(xy 106.934 125.984) (xy 110.998 125.984)
 		)
 		(stroke
@@ -6205,16 +6513,6 @@
 			(type default)
 		)
 		(uuid "ac0e053c-01a6-44aa-bb30-8045c2d2013b")
-	)
-	(wire
-		(pts
-			(xy 41.402 99.06) (xy 41.402 100.584)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ac2c9dbe-7465-431a-88bd-09705eb205e7")
 	)
 	(wire
 		(pts
@@ -6368,16 +6666,6 @@
 	)
 	(wire
 		(pts
-			(xy 60.198 175.768) (xy 141.478 175.768)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b2b27d0e-edd2-4f1d-8387-41ca182533a9")
-	)
-	(wire
-		(pts
 			(xy 63.754 162.56) (xy 65.532 162.56)
 		)
 		(stroke
@@ -6468,13 +6756,13 @@
 	)
 	(wire
 		(pts
-			(xy 52.832 263.398) (xy 54.102 263.398)
+			(xy 32.004 268.478) (xy 33.528 268.478)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b7312430-ac57-4f12-9484-47f054977da8")
+		(uuid "b80a13ba-03ca-42e6-ba84-94fb494890e7")
 	)
 	(wire
 		(pts
@@ -6668,16 +6956,6 @@
 	)
 	(wire
 		(pts
-			(xy 41.402 134.62) (xy 41.402 136.144)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c005cebb-1814-4222-ba8b-262825e25f9a")
-	)
-	(wire
-		(pts
 			(xy 41.402 128.524) (xy 40.132 128.524)
 		)
 		(stroke
@@ -6798,16 +7076,6 @@
 	)
 	(wire
 		(pts
-			(xy 160.274 166.116) (xy 160.274 167.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c533ef8f-36e3-464c-b946-233fb187f9d0")
-	)
-	(wire
-		(pts
 			(xy 60.198 167.64) (xy 60.198 175.768)
 		)
 		(stroke
@@ -6825,6 +7093,16 @@
 			(type default)
 		)
 		(uuid "c62e8e0d-4c37-4b5a-b23f-1caf4b95c2e1")
+	)
+	(wire
+		(pts
+			(xy 52.832 268.478) (xy 54.356 268.478)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6d2e444-4d95-46bb-945d-89add76a435a")
 	)
 	(wire
 		(pts
@@ -6888,16 +7166,6 @@
 	)
 	(wire
 		(pts
-			(xy 59.944 76.2) (xy 141.224 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ca74878c-b122-432d-8525-125002fbe75a")
-	)
-	(wire
-		(pts
 			(xy 149.86 174.244) (xy 149.86 167.64)
 		)
 		(stroke
@@ -6915,6 +7183,16 @@
 			(type default)
 		)
 		(uuid "cbe235c5-05a4-46cb-904c-f60cfd0a6c6b")
+	)
+	(wire
+		(pts
+			(xy -36.576 24.13) (xy -38.608 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc45955f-6ada-4c85-92e5-2b0ab1da183f")
 	)
 	(wire
 		(pts
@@ -6985,6 +7263,16 @@
 			(type default)
 		)
 		(uuid "cf6ab902-1734-40b9-9de1-2e2451a4dbeb")
+	)
+	(wire
+		(pts
+			(xy 167.386 136.144) (xy 165.354 136.144)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cfa73873-97af-4fdc-b907-c812b4ebf028")
 	)
 	(wire
 		(pts
@@ -7065,6 +7353,16 @@
 			(type default)
 		)
 		(uuid "d3352a82-4cbf-4170-9a80-310554569c2f")
+	)
+	(wire
+		(pts
+			(xy 34.036 68.072) (xy 36.068 68.072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3bd2ee4-95fd-4ab2-85be-94224557c88e")
 	)
 	(wire
 		(pts
@@ -7268,6 +7566,16 @@
 	)
 	(wire
 		(pts
+			(xy 52.832 271.018) (xy 54.356 271.018)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dfa49f72-3708-447f-ae9b-a74acbd4d71f")
+	)
+	(wire
+		(pts
 			(xy 56.896 242.316) (xy 56.896 243.586)
 		)
 		(stroke
@@ -7285,16 +7593,6 @@
 			(type default)
 		)
 		(uuid "e047b504-f851-476b-b839-adf60d074e1c")
-	)
-	(wire
-		(pts
-			(xy 59.944 40.64) (xy 141.224 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e0d1592b-b6c6-492a-b016-fca54868bca6")
 	)
 	(wire
 		(pts
@@ -7318,13 +7616,13 @@
 	)
 	(wire
 		(pts
-			(xy 41.402 166.116) (xy 41.402 167.64)
+			(xy 59.436 273.558) (xy 60.96 273.558)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e37b98ef-9b78-495e-b404-69dd5e18976d")
+		(uuid "e58b7930-f872-4607-b749-eb51f290fa37")
 	)
 	(wire
 		(pts
@@ -7378,6 +7676,26 @@
 	)
 	(wire
 		(pts
+			(xy 65.024 76.2) (xy 136.144 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6df3651-a453-455b-84ba-4d3da259423a")
+	)
+	(wire
+		(pts
+			(xy 65.024 40.64) (xy 136.144 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e76642ad-9196-470b-9f32-efd0185ab394")
+	)
+	(wire
+		(pts
 			(xy 83.058 219.964) (xy 83.058 225.552)
 		)
 		(stroke
@@ -7395,16 +7713,6 @@
 			(type default)
 		)
 		(uuid "e946903e-55e0-4de1-9957-854f22e01628")
-	)
-	(wire
-		(pts
-			(xy 160.02 30.988) (xy 160.02 32.512)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e97c8eaf-7b57-4fb9-ac9f-baf4f0637f5b")
 	)
 	(wire
 		(pts
@@ -7658,6 +7966,16 @@
 	)
 	(wire
 		(pts
+			(xy 65.278 108.712) (xy 136.398 108.712)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc3cad5c-33b1-41fe-95d9-3f12108645bd")
+	)
+	(wire
+		(pts
 			(xy 160.274 92.964) (xy 161.544 92.964)
 		)
 		(stroke
@@ -7774,7 +8092,7 @@
 		)
 		(uuid "46c945ca-64f9-4544-ac5c-8debe374f37a")
 	)
-	(text "Manque ferrites filtrage DC\nChanger les diodes de freewheeling\n\n"
+	(text "Manque ferrites filtrage DC\n"
 		(exclude_from_sim no)
 		(at 51.054 252.984 0)
 		(effects
@@ -7813,35 +8131,24 @@
 		)
 		(uuid "7d21513c-c7b3-401f-b649-315d8323a64f")
 	)
-	(text "connecteur à redessiner selon routage\nattention, câble provenant d'un IDC 10 \nen mezzanine sur \"J2 ACC Out\" de I/O Board\n(mezzanine pour zolotarev et k_protec)"
-		(exclude_from_sim no)
-		(at 59.436 279.654 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 255 146 2 1)
-			)
-		)
-		(uuid "fae2ef8c-4f54-4205-95f4-c8bd3a144f87")
-	)
 	(global_label "80m"
 		(shape input)
-		(at 52.832 265.938 0)
+		(at 32.004 263.398 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "011f9eee-8c4b-473e-a651-36feab25128b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 59.9295 265.938 0)
+			(at 24.9065 263.398 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -7892,22 +8199,22 @@
 	)
 	(global_label "30+20m"
 		(shape input)
-		(at 52.832 268.478 0)
+		(at 32.004 268.478 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "28394a08-8e69-4a38-858c-f96d9c242b32")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 63.9209 268.478 0)
+			(at 20.9151 268.478 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -7936,29 +8243,7 @@
 	)
 	(global_label "12+10m"
 		(shape input)
-		(at 52.832 271.018 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "3938b3fc-f44f-46e6-9d4a-d90d93ead26c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 63.9209 271.018 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "6m"
-		(shape input)
-		(at 40.132 273.558 180)
+		(at 32.004 273.558 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7966,14 +8251,36 @@
 			)
 			(justify right)
 		)
-		(uuid "3a075a32-bfd6-4be9-aa52-c609f3e0a4d2")
+		(uuid "3938b3fc-f44f-46e6-9d4a-d90d93ead26c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 34.244 273.558 0)
+			(at 20.9151 273.558 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "6m"
+		(shape input)
+		(at 60.96 273.558 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3a075a32-bfd6-4be9-aa52-c609f3e0a4d2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 66.848 273.558 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -8068,7 +8375,7 @@
 	)
 	(global_label "17+15m"
 		(shape input)
-		(at 40.132 271.018 180)
+		(at 32.004 271.018 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8078,7 +8385,7 @@
 		)
 		(uuid "85abd1e4-39d5-4c2a-b930-f717312dc7cb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.0431 271.018 0)
+			(at 20.9151 271.018 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8090,29 +8397,29 @@
 	)
 	(global_label "160m"
 		(shape input)
-		(at 40.132 265.938 180)
+		(at 60.96 263.398 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "9520e2fa-db84-4404-97b5-c6b7717f7597")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 31.825 265.938 0)
+			(at 69.267 263.398 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
 	)
 	(global_label "60+40m"
 		(shape input)
-		(at 40.132 268.478 180)
+		(at 32.004 265.938 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8122,7 +8429,7 @@
 		)
 		(uuid "972b8218-683c-4f1c-a84f-40079e107f66")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.0431 268.478 0)
+			(at 20.9151 265.938 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8378,6 +8685,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 36.068 263.398 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0554261b-ae3c-4579-9657-0e6558d1cf16")
+		(property "Reference" "FB2"
+			(at 36.0299 257.5517 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 36.0299 259.976 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 36.068 265.176 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 36.068 263.398 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 36.068 263.398 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "08955df4-5fcc-4ebe-8a0e-dc37a6fc39a7")
+		)
+		(pin "1"
+			(uuid "12927d60-44c9-48f3-a79b-8aae297b6d94")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:L")
 		(at 124.46 157.48 270)
 		(mirror x)
@@ -8579,6 +8954,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 62.738 108.712 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0a1db81d-9e44-4acc-90fc-20e63346eb9a")
+		(property "Reference" "FB19"
+			(at 62.6999 102.8657 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 62.6999 105.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 62.738 110.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 62.738 108.712 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 62.738 108.712 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e1025527-bd35-41bf-b43b-4bcf49870c5d")
+		)
+		(pin "1"
+			(uuid "6bb0339d-c1c5-4f49-9377-8f1c9b956e49")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 76.708 83.058 90)
 		(unit 1)
@@ -8735,72 +9178,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+12V")
-		(at 38.608 263.398 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0b4335a5-f926-47d1-8b34-4c6dc07e0915")
-		(property "Reference" "#PWR074"
-			(at 42.418 263.398 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 34.4749 263.398 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 38.608 263.398 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 38.608 263.398 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 38.608 263.398 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8a390682-c1b8-46fa-a634-82aca5bd43fc")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "#PWR074")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 71.628 24.892 0)
 		(unit 1)
@@ -8864,6 +9241,74 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 56.896 265.938 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0ed725bb-56fd-4e86-98cb-5c4dfd573576")
+		(property "Reference" "FB8"
+			(at 56.8579 260.0917 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 56.8579 262.516 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 56.896 267.716 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 56.896 265.938 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 56.896 265.938 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "2c7bda22-409d-4eb1-be63-2dd4f7bbf684")
+		)
+		(pin "1"
+			(uuid "e86428e9-1c78-498b-88a5-c3d5c330e812")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB8")
 					(unit 1)
 				)
 			)
@@ -9006,6 +9451,140 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+12V")
+		(at 34.544 235.712 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "10393f17-7315-4bd0-b0af-f533078a76f6")
+		(property "Reference" "#PWR049"
+			(at 38.354 235.712 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 30.4109 235.712 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 34.544 235.712 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 34.544 235.712 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 34.544 235.712 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0bc92784-03ec-4a0a-ab02-c47730eeb99c")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR049")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 36.068 265.938 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "108cf79e-9153-418f-bec5-9e8cb1971f39")
+		(property "Reference" "FB3"
+			(at 36.0299 260.0917 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 36.0299 262.516 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 36.068 267.716 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 36.068 265.938 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 36.068 265.938 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "75966975-6316-4777-a452-e650eec94492")
+		)
+		(pin "1"
+			(uuid "dd7b3f1e-15bd-4975-b730-5c55a04e064a")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 67.564 60.452 0)
 		(unit 1)
@@ -9069,73 +9648,6 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+12V")
-		(at 160.274 99.06 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "10e6aacd-8d3e-4bc2-aa1c-67eb05d6d2c7")
-		(property "Reference" "#PWR049"
-			(at 160.274 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 160.274 94.9269 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 160.274 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 160.274 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 160.274 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b8db8a62-2b64-4538-a14e-0027d7464d20")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -9230,17 +9742,33 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 54.102 263.398 90)
+		(lib_id "Device:FerriteBead_Small")
+		(at 36.068 273.558 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "121aba71-d639-4c3d-af56-3979be2ab9b0")
-		(property "Reference" "#PWR066"
-			(at 60.452 263.398 0)
+		(uuid "11f67b57-be0d-4172-936f-fb14b607a6aa")
+		(property "Reference" "FB6"
+			(at 36.0299 267.7117 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 36.0299 270.136 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 36.068 275.336 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9248,16 +9776,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 58.2351 263.398 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 54.102 263.398 0)
+		(property "Datasheet" "~"
+			(at 36.068 273.558 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9265,8 +9785,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 54.102 263.398 0)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 36.068 273.558 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9274,22 +9794,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 54.102 263.398 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
+		(pin "2"
+			(uuid "90f9585d-3fa7-48f4-91c9-b0de1fac55b8")
 		)
 		(pin "1"
-			(uuid "2926b818-fcf6-468f-b97f-1d9402b8038c")
+			(uuid "8fba2010-3a78-49c1-aec2-6bd73a1f4760")
 		)
 		(instances
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "#PWR066")
+					(reference "FB6")
 					(unit 1)
 				)
 			)
@@ -9356,6 +9870,74 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 138.938 144.272 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "12e3819a-d58a-41d9-861c-04a2907df524")
+		(property "Reference" "FB16"
+			(at 138.8999 138.4257 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 138.8999 140.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 138.938 146.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 138.938 144.272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 138.938 144.272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "39ee3b50-604c-484f-b44a-d3e8b4edc83b")
+		)
+		(pin "1"
+			(uuid "444c9bda-41ce-449a-b1af-767f65728911")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB16")
 					(unit 1)
 				)
 			)
@@ -9768,6 +10350,278 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 162.56 68.072 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "180d666c-f49b-4720-81ae-fc45dbb95b04")
+		(property "Reference" "FB37"
+			(at 162.5981 73.9183 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 162.5981 71.494 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 162.56 66.294 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 162.56 68.072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 162.56 68.072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "77695f8d-dbd1-4f7e-81f7-f58fe7993a19")
+		)
+		(pin "1"
+			(uuid "fce94085-97f7-4a2b-85ef-8ad7caca0f61")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 139.192 243.84 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1a109955-6060-4375-aae3-f13ec2453f09")
+		(property "Reference" "FB11"
+			(at 139.1539 237.9937 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 139.1539 240.418 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 139.192 245.618 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 139.192 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 139.192 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d77a3bb8-291e-4d18-9bae-5a64eee46236")
+		)
+		(pin "1"
+			(uuid "b69352f7-7aa9-4b05-9f63-ef548ba4d305")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 38.608 68.072 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1a4fb7fc-b55e-4b11-8756-a653fd0665fc")
+		(property "Reference" "FB26"
+			(at 38.5699 62.2257 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 38.5699 64.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 38.608 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 38.608 68.072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 38.608 68.072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d55c2582-8849-4235-aec6-4eadbc96ef5c")
+		)
+		(pin "1"
+			(uuid "d83a09ea-dbd2-4a31-9f96-d629e11ce26e")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 38.862 100.584 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1ab267a1-8290-4364-9d5f-638055039722")
+		(property "Reference" "FB27"
+			(at 38.8239 94.7377 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 38.8239 97.162 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 38.862 102.362 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 38.862 100.584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 38.862 100.584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b86473e4-f1bc-424a-992b-f4227a8f06f0")
+		)
+		(pin "1"
+			(uuid "43d743ab-cafa-4aab-83c5-9a0ed1094ca5")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 136.144 163.83 0)
 		(mirror y)
@@ -9829,6 +10683,74 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "#PWR083")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 62.484 40.64 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1bfefff0-ed3f-451f-bb4b-75d483684bc7")
+		(property "Reference" "FB21"
+			(at 62.4459 34.7937 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 62.4459 37.218 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 62.484 42.418 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 62.484 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 62.484 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "bb39a7c5-cbc6-4ee1-a62c-7ed4d7250531")
+		)
+		(pin "1"
+			(uuid "dd018ae1-74cb-480c-b8ed-4ca0adb2d1c9")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB21")
 					(unit 1)
 				)
 			)
@@ -10237,6 +11159,276 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C216")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 167.132 68.072 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "26496c1d-1ad1-472b-bd8c-86c960c73fba")
+		(property "Reference" "#PWR086"
+			(at 163.322 68.072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 171.2651 68.072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.132 68.072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.132 68.072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 167.132 68.072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b1cbbfd5-8754-41f6-b02f-157ac2bce78c")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR086")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 63.5 243.84 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "28b651ba-6d78-413b-9ed4-06361fa7d9b2")
+		(property "Reference" "FB10"
+			(at 63.4619 237.9937 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 63.4619 240.418 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 63.5 245.618 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 63.5 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 63.5 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "cee8b434-4fef-4481-b185-55ba2aae641c")
+		)
+		(pin "1"
+			(uuid "a6c83fa1-5466-41c2-9996-8e3834f9b0fa")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 38.608 32.512 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "28d4db8c-0905-4b61-85ee-a8a1c1a6a618")
+		(property "Reference" "FB24"
+			(at 38.5699 26.6657 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 38.5699 29.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 38.608 34.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 38.608 32.512 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 38.608 32.512 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d77b6281-f402-48df-962d-f87d45d894b9")
+		)
+		(pin "1"
+			(uuid "3b90a0af-513f-4102-a989-bf18ad4db864")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 38.862 136.144 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "298969e4-e7e4-41c9-a0c1-95a708cd42ae")
+		(property "Reference" "FB28"
+			(at 38.8239 130.2977 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 38.8239 132.722 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 38.862 137.922 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 38.862 136.144 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 38.862 136.144 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5f5a437d-f7ec-47b8-8d42-130a56edd03a")
+		)
+		(pin "1"
+			(uuid "fa1f18f9-a7ce-4cd7-82d7-b8ca59ec5d9c")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB28")
 					(unit 1)
 				)
 			)
@@ -11190,6 +12382,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 36.068 271.018 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "363c7688-f6ec-4b84-8475-957dbf2b4c15")
+		(property "Reference" "FB5"
+			(at 36.0299 265.1717 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 36.0299 267.596 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 36.068 272.796 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 36.068 271.018 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 36.068 271.018 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4bdb5ae7-da90-40c2-ab8e-5b453d19dfb2")
+		)
+		(pin "1"
+			(uuid "c5a0ce32-e44a-4c6f-95b1-71bef8bcdfb8")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 63.5 60.452 0)
 		(unit 1)
@@ -11260,6 +12520,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 62.738 175.768 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3899a95b-79a0-4b47-aaf7-ef8f2a412d26")
+		(property "Reference" "FB13"
+			(at 62.6999 169.9217 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 62.6999 172.346 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 62.738 177.546 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 62.738 175.768 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 62.738 175.768 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "69500826-bab6-45c9-9836-8beea5ec7589")
+		)
+		(pin "1"
+			(uuid "91080758-6a6a-4779-85f8-3eee599cc01e")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 56.642 175.514 0)
 		(unit 1)
@@ -11320,6 +12648,142 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "#PWR067")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 138.938 211.328 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3975101f-1e36-40f5-8b83-b46c1df2da93")
+		(property "Reference" "FB15"
+			(at 138.8999 205.4817 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 138.8999 207.906 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 138.938 213.106 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 138.938 211.328 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 138.938 211.328 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "7b837dfa-ea5e-48c5-8bc1-dbe97c652952")
+		)
+		(pin "1"
+			(uuid "78fec59b-499f-4480-a9ef-74f6a6f7c679")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 56.896 273.558 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "39b234bd-0533-419b-b8c7-2a01ab58414f")
+		(property "Reference" "FB7"
+			(at 56.8579 267.7117 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 56.8579 270.136 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 56.896 275.336 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 56.896 273.558 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 56.896 273.558 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4aac5f98-b189-4648-8636-46d6370d9e0b")
+		)
+		(pin "1"
+			(uuid "414e7d07-cb5b-40f0-beb8-49fc63b12997")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB7")
 					(unit 1)
 				)
 			)
@@ -11396,16 +12860,16 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 41.402 99.06 0)
+		(at 34.29 136.144 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "3b48774b-4527-4938-b8ea-ebd18efb0341")
-		(property "Reference" "#PWR033"
-			(at 41.402 102.87 0)
+		(uuid "3f59113f-73d6-40ac-a48a-f4aa59af5804")
+		(property "Reference" "#PWR028"
+			(at 38.1 136.144 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11414,7 +12878,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 41.402 94.9269 0)
+			(at 30.1569 136.144 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11422,7 +12886,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 41.402 99.06 0)
+			(at 34.29 136.144 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11431,7 +12895,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.402 99.06 0)
+			(at 34.29 136.144 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11440,7 +12904,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 41.402 99.06 0)
+			(at 34.29 136.144 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11449,12 +12913,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "5ea8ca0e-db47-49b6-9697-53c9c8f073fd")
+			(uuid "e6dc58bc-3dbf-4a07-bd06-3e2d0854a6cf")
 		)
 		(instances
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "#PWR033")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -11595,6 +13059,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 138.684 76.2 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "40b4b32b-2dde-4588-a8b4-858902118840")
+		(property "Reference" "FB23"
+			(at 138.6459 70.3537 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 138.6459 72.778 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 138.684 77.978 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 138.684 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 138.684 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "003612fe-fb7e-4b93-ba3e-b209512ebbee")
+		)
+		(pin "1"
+			(uuid "9d1609a4-4a76-4f7a-8bbd-85f7adaf8c17")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 137.922 195.58 0)
 		(mirror y)
@@ -11659,6 +13191,72 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C94")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at -36.576 24.13 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "42be90c8-be1e-4b5b-8cc3-1c2c39f96445")
+		(property "Reference" "#PWR074"
+			(at -40.386 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at -32.4429 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at -36.576 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -36.576 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at -36.576 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d6d91840-f6da-401e-9ba6-8145c25106c8")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -12062,6 +13660,74 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "#PWR039")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 138.684 40.64 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4674323c-9b00-4edd-bda5-1eae4e715241")
+		(property "Reference" "FB22"
+			(at 138.6459 34.7937 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 138.6459 37.218 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 138.684 42.418 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 138.684 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 138.684 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ca42ee49-3f06-4e14-8c8e-c4470f6f3d35")
+		)
+		(pin "1"
+			(uuid "a7c0df7a-8308-4a70-b13e-3683a30c38fe")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB22")
 					(unit 1)
 				)
 			)
@@ -12481,6 +14147,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 162.814 100.584 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4a7d504e-da11-4249-97c3-2e0293e41ee7")
+		(property "Reference" "FB36"
+			(at 162.8521 106.4303 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 162.8521 104.006 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 162.814 98.806 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 162.814 100.584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 162.814 100.584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "646131fc-51fa-49d8-b340-feb6264e1729")
+		)
+		(pin "1"
+			(uuid "48865a62-c1f3-4a0c-94bb-edc32a5cac87")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 94.742 60.452 0)
 		(unit 1)
@@ -12748,6 +14482,72 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C45")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 54.356 271.018 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5044fa5a-b256-41d2-a113-713ccbf90a3e")
+		(property "Reference" "#PWR066"
+			(at 60.706 271.018 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 58.4891 271.018 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 54.356 271.018 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 54.356 271.018 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 54.356 271.018 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3074725d-eeb0-46df-9074-ca28ff2ca0c4")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -13404,6 +15204,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 138.938 175.768 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "55017b3a-e6ab-4ae2-b053-05fa83d5a296")
+		(property "Reference" "FB14"
+			(at 138.8999 169.9217 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 138.8999 172.346 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 138.938 177.546 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 138.938 175.768 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 138.938 175.768 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5296960d-2388-4a0d-8513-51df3d80c79c")
+		)
+		(pin "1"
+			(uuid "e019a078-5912-47eb-bf53-4e6600463dae")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Relay:G5LE-1")
 		(at 152.908 230.632 270)
 		(mirror x)
@@ -13836,6 +15704,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 39.116 235.712 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "59697ae5-093f-419b-9df8-d980aa4a3e98")
+		(property "Reference" "FB31"
+			(at 39.0779 229.8657 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 39.0779 232.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 39.116 237.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 39.116 235.712 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 39.116 235.712 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6ad7c4b7-f396-4f39-b379-6561032a8753")
+		)
+		(pin "1"
+			(uuid "4fe4a288-8b86-4b8f-a984-61813fc015c2")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 76.454 18.796 90)
 		(unit 1)
@@ -14107,6 +16043,74 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C52")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 62.738 144.272 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5d4d6cd6-01e7-4c57-897c-c4470acb83da")
+		(property "Reference" "FB17"
+			(at 62.6999 138.4257 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 62.6999 140.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 62.738 146.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 62.738 144.272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 62.738 144.272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c41402c5-7fcb-4fe1-9e0e-1a8ab76f2841")
+		)
+		(pin "1"
+			(uuid "760489b2-b08a-4d11-a299-c462f06b14c1")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB17")
 					(unit 1)
 				)
 			)
@@ -14469,6 +16473,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+12V")
+		(at 167.386 100.584 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6069bccd-3c92-4011-b1af-e6071f8e9d5a")
+		(property "Reference" "#PWR082"
+			(at 163.576 100.584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 171.5191 100.584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.386 100.584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.386 100.584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 167.386 100.584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d8a18a83-3282-4bf6-ab07-8c6611040c4b")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR082")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 106.68 24.892 0)
 		(unit 1)
@@ -14533,6 +16603,74 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 38.862 203.2 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "60f6d000-db93-4114-9b31-5e6d60b6aa32")
+		(property "Reference" "FB30"
+			(at 38.8239 197.3537 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 38.8239 199.778 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 38.862 204.978 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 38.862 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 38.862 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ef6226e5-0437-4abc-a78e-695104ecfb47")
+		)
+		(pin "1"
+			(uuid "618cc5c5-9d75-4e3e-ac0f-36d07ee7fe92")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB30")
 					(unit 1)
 				)
 			)
@@ -14767,73 +16905,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+12V")
-		(at 160.274 166.116 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "62e78480-1763-4d64-b14e-990b97b29e44")
-		(property "Reference" "#PWR091"
-			(at 160.274 169.926 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 160.274 161.9829 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 160.274 166.116 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 160.274 166.116 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 160.274 166.116 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bf05618e-01eb-4d5b-a989-d6248a80befb")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "#PWR091")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 86.868 160.02 0)
 		(unit 1)
@@ -14897,6 +16968,72 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C67")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 34.29 167.64 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "640dd68c-f166-4d8f-a221-52349474a10f")
+		(property "Reference" "#PWR033"
+			(at 38.1 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 30.1569 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 34.29 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 34.29 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 34.29 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "aa6075a9-4e89-4e50-910f-b66e4eec53f3")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -15398,72 +17535,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+12V")
-		(at 41.402 201.676 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6797f063-a051-4311-ab4e-d127ca2240b8")
-		(property "Reference" "#PWR061"
-			(at 41.402 205.486 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 41.402 197.5429 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 41.402 201.676 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 41.402 201.676 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 41.402 201.676 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7923ebcd-e376-43fe-8f96-d0dc631e4980")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "#PWR061")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:L")
 		(at 76.962 22.352 90)
 		(unit 1)
@@ -15943,7 +18014,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 54.102 273.558 90)
+		(at 54.356 268.478 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15952,7 +18023,7 @@
 		(fields_autoplaced yes)
 		(uuid "6c53986e-411e-489c-9426-1c7ef0ee14e4")
 		(property "Reference" "#PWR070"
-			(at 60.452 273.558 0)
+			(at 60.706 268.478 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15961,7 +18032,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 58.2351 273.558 0)
+			(at 58.4891 268.478 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15969,7 +18040,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 54.102 273.558 0)
+			(at 54.356 268.478 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15978,7 +18049,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.102 273.558 0)
+			(at 54.356 268.478 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15987,7 +18058,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 54.102 273.558 0)
+			(at 54.356 268.478 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16002,6 +18073,72 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "#PWR070")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 167.386 203.2 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6c863476-d309-4bd8-9d8d-b55539b29e39")
+		(property "Reference" "#PWR059"
+			(at 163.576 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 171.5191 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.386 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.386 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 167.386 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f7fd1a3c-a478-4982-b114-5c840a964421")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -16068,72 +18205,6 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "#PWR036")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+12V")
-		(at 41.402 134.62 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7058c721-223b-4093-ac8b-1fcc0d8759d4")
-		(property "Reference" "#PWR035"
-			(at 41.402 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 41.402 130.4869 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 41.402 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 41.402 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 41.402 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2dffb3c2-a4ae-49c6-aead-bc3f75a3a983")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -16562,6 +18633,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 163.068 235.712 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "76479e0b-9857-42b7-9c8f-73fea5c04ea8")
+		(property "Reference" "FB32"
+			(at 163.1061 241.5583 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 163.1061 239.134 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 163.068 233.934 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 163.068 235.712 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 163.068 235.712 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d59037f0-089f-435e-92d9-fa389a901b68")
+		)
+		(pin "1"
+			(uuid "ea69bf13-8108-4777-aa4d-7390b4bf36fd")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 17.526 14.986 0)
 		(unit 1)
@@ -16622,6 +18761,138 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "#FLG02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 167.386 136.144 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "77a3e91e-c52a-41b2-b1f1-9ce342c041bd")
+		(property "Reference" "#PWR063"
+			(at 163.576 136.144 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 171.5191 136.144 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.386 136.144 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.386 136.144 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 167.386 136.144 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0c453b43-0e0f-4c46-a7ed-d2883cfa4300")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR063")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 167.64 235.712 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "78b47912-52c8-4637-aec9-7195ecd36c68")
+		(property "Reference" "#PWR051"
+			(at 163.83 235.712 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 171.7731 235.712 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.64 235.712 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 235.712 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 167.64 235.712 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6dbfc869-4d30-4e46-803c-37c266351cc9")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -16692,6 +18963,74 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C91")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 56.896 263.398 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "78f0ca20-6d72-47dc-9900-97140e96fd41")
+		(property "Reference" "FB9"
+			(at 56.8579 257.5517 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 56.8579 259.976 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 56.896 265.176 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 56.896 263.398 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 56.896 263.398 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "27b57700-8403-49f9-9328-7ce2c70b92ef")
+		)
+		(pin "1"
+			(uuid "a7b56591-38aa-4ff0-97dd-012c039170d7")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB9")
 					(unit 1)
 				)
 			)
@@ -17042,6 +19381,74 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C62")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 36.068 268.478 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8126d78a-23cf-4b77-957e-2afb5765cca4")
+		(property "Reference" "FB4"
+			(at 36.0299 262.6317 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 36.0299 265.056 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 36.068 270.256 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 36.068 268.478 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 36.068 268.478 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "09b7b3ec-6eaf-4b32-a54f-2307e5a5192a")
+		)
+		(pin "1"
+			(uuid "831d7369-29fc-48c8-97da-0f01cfe22408")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB4")
 					(unit 1)
 				)
 			)
@@ -17402,72 +19809,6 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "#PWR089")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+12V")
-		(at 41.402 166.116 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "86a956b8-f74a-4500-96d4-eebe8180e844")
-		(property "Reference" "#PWR059"
-			(at 41.402 169.926 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 41.402 161.9829 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 41.402 166.116 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 41.402 166.116 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 41.402 166.116 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fef9d187-1478-4007-953f-06a2a28a5e6c")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -18194,72 +20535,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+12V")
-		(at 41.148 66.548 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9119fd76-b9df-4aa7-995b-64081d5091e8")
-		(property "Reference" "#PWR020"
-			(at 41.148 70.358 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 41.148 62.4149 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 41.148 66.548 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 41.148 66.548 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 41.148 66.548 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6304a399-34c8-4853-950e-0a4c1778c25a")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "#PWR020")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 136.144 96.774 0)
 		(mirror y)
@@ -18880,6 +21155,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 162.814 203.2 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "96a847db-6b82-410f-a1f0-0b64cffa330d")
+		(property "Reference" "FB33"
+			(at 162.8521 209.0463 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 162.8521 206.622 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 162.814 201.422 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 162.814 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 162.814 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9bfb5268-f82a-48bc-bcff-f58bf4a2ccdb")
+		)
+		(pin "1"
+			(uuid "8952f48a-06c5-48a3-8940-55659b979e18")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:L")
 		(at 77.216 193.04 90)
 		(unit 1)
@@ -19010,73 +21353,6 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C78")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+12V")
-		(at 160.274 201.676 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "99479d1c-419b-4a4e-b8d8-817a712a5551")
-		(property "Reference" "#PWR093"
-			(at 160.274 205.486 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 160.274 197.5429 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 160.274 201.676 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 160.274 201.676 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 160.274 201.676 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4e6c6f0b-9062-48af-a77a-05f7ce1e8a1f")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "#PWR093")
 					(unit 1)
 				)
 			)
@@ -19486,6 +21762,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+12V")
+		(at 34.29 203.2 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a0a244ca-7669-4b27-a7c0-566ccad7d8c1")
+		(property "Reference" "#PWR035"
+			(at 38.1 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 30.1569 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 34.29 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 34.29 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 34.29 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "439de31e-f17d-4f86-a130-71cbfee3d8b8")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR035")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 111.252 228.092 0)
 		(unit 1)
@@ -19549,6 +21891,138 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C88")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 167.132 32.512 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a1eea7a0-35c2-414f-8248-884bbd937215")
+		(property "Reference" "#PWR090"
+			(at 163.322 32.512 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 171.2651 32.512 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.132 32.512 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.132 32.512 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 167.132 32.512 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "edf61636-ec4a-4fb1-85be-7d17c18e96ef")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR090")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 167.386 167.64 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a388f8da-fa33-4f2b-b1a4-92a5cca593a0")
+		(property "Reference" "#PWR061"
+			(at 163.576 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 171.5191 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.386 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.386 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 167.386 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b3b7fa68-2f58-4f19-b4b6-0592189c0be0")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -19985,6 +22459,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+12V")
+		(at 60.96 265.938 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a8d67534-222a-40d9-b9da-bfcd228f0b74")
+		(property "Reference" "#PWR078"
+			(at 57.15 265.938 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 64.135 265.938 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 60.96 265.938 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 60.96 265.938 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 60.96 265.938 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b078a11f-efdd-45f4-8449-44e4337eb84f")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR078")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 56.642 207.264 0)
 		(unit 1)
@@ -20257,6 +22798,74 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C200")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 162.56 32.512 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "aa7f2112-8a22-4816-9816-8d639f942416")
+		(property "Reference" "FB38"
+			(at 162.5981 38.3583 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 162.5981 35.934 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 162.56 30.734 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 162.56 32.512 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 162.56 32.512 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "cf1afebc-a429-49db-bf35-89fcfe61ab86")
+		)
+		(pin "1"
+			(uuid "db365ca9-1967-4a1a-922e-36f2b6044557")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB38")
 					(unit 1)
 				)
 			)
@@ -20616,6 +23225,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 62.738 211.328 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "af6d06b3-2a97-4fbd-a3f5-a09cd86064f2")
+		(property "Reference" "FB12"
+			(at 62.6999 205.4817 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 62.6999 207.906 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 62.738 213.106 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 62.738 211.328 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 62.738 211.328 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b520fe38-bd3c-468b-bde3-80fa071fd621")
+		)
+		(pin "1"
+			(uuid "1bd8a38b-6055-4ba5-9e48-29c3c1937bef")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 106.934 128.524 0)
 		(unit 1)
@@ -20820,18 +23497,33 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+12V")
-		(at 160.274 134.62 0)
-		(mirror y)
+		(lib_id "Device:FerriteBead_Small")
+		(at 138.938 108.712 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "b35ef537-7a83-4b73-b02d-dcd4e9932254")
-		(property "Reference" "#PWR051"
-			(at 160.274 138.43 0)
+		(uuid "b31ddcfd-1f90-44da-976a-d9cc49daa50e")
+		(property "Reference" "FB18"
+			(at 138.8999 102.8657 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 138.8999 105.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 138.938 110.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20839,16 +23531,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+12V"
-			(at 160.274 130.4869 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 160.274 134.62 0)
+		(property "Datasheet" "~"
+			(at 138.938 108.712 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20856,8 +23540,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 160.274 134.62 0)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 138.938 108.712 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20865,22 +23549,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 160.274 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
+		(pin "2"
+			(uuid "dc829157-3821-4dce-acb1-507ad9b9ff8b")
 		)
 		(pin "1"
-			(uuid "45be2ba3-c646-491f-8fcc-789f1624b0bb")
+			(uuid "8cd35c7f-23b1-467f-b5a8-4dc581c2e9c0")
 		)
 		(instances
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "#PWR051")
+					(reference "FB18")
 					(unit 1)
 				)
 			)
@@ -21150,6 +23828,74 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 162.814 167.64 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b8a7b257-3c8e-4e75-9642-f27b83850d88")
+		(property "Reference" "FB34"
+			(at 162.8521 173.4863 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 162.8521 171.062 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 162.814 165.862 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 162.814 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 162.814 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "369cf24f-fabe-47b8-a116-823ff9d65330")
+		)
+		(pin "1"
+			(uuid "0c984a51-ae7a-4d78-b438-49eb53e938f6")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB34")
 					(unit 1)
 				)
 			)
@@ -21504,73 +24250,6 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "K13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+12V")
-		(at 160.02 30.988 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bd282fd0-f8dd-4365-9aad-b5fa00463167")
-		(property "Reference" "#PWR011"
-			(at 160.02 34.798 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 160.02 26.8549 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 160.02 30.988 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 160.02 30.988 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 160.02 30.988 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5f4eae62-a1c8-4cdc-bbf5-ed56b8868481")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -22193,6 +24872,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+12V")
+		(at 34.036 68.072 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c2f060e1-e085-48ec-b329-f590b7a81a15")
+		(property "Reference" "#PWR011"
+			(at 37.846 68.072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 29.9029 68.072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 34.036 68.072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 34.036 68.072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 34.036 68.072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "eadd9599-b117-40da-b129-18675eb0d93b")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 145.796 60.452 0)
 		(mirror y)
@@ -22460,6 +25205,72 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C42")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 34.29 100.584 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c7186597-e430-42ba-a4b7-3c6fcd94a51a")
+		(property "Reference" "#PWR020"
+			(at 38.1 100.584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 30.1569 100.584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 34.29 100.584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 34.29 100.584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 34.29 100.584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "51087414-f018-417d-9a64-ea15b2cc7e62")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -23335,6 +26146,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 38.862 167.64 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cf001393-8267-48e9-bea7-9e240ead4e2c")
+		(property "Reference" "FB29"
+			(at 38.8239 161.7937 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 38.8239 164.218 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 38.862 169.418 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 38.862 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 38.862 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "95fbb977-13c2-4517-8fb1-a70fd4da3a97")
+		)
+		(pin "1"
+			(uuid "28231f29-e4df-475e-8174-d82c564222f1")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 19.558 32.766 0)
 		(unit 1)
@@ -23480,7 +26359,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 41.148 30.988 0)
+		(at 34.036 32.512 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23489,7 +26368,7 @@
 		(fields_autoplaced yes)
 		(uuid "d1bed98a-5c1e-47e2-b628-96b796d69c5f")
 		(property "Reference" "#PWR05"
-			(at 41.148 34.798 0)
+			(at 37.846 32.512 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23498,7 +26377,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 41.148 26.8549 0)
+			(at 29.9029 32.512 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23506,7 +26385,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 41.148 30.988 0)
+			(at 34.036 32.512 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23515,7 +26394,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.148 30.988 0)
+			(at 34.036 32.512 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23524,7 +26403,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 41.148 30.988 0)
+			(at 34.036 32.512 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25420,73 +28299,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+12V")
-		(at 160.02 66.548 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ea13b9cc-b523-4b29-8316-ee2556474892")
-		(property "Reference" "#PWR028"
-			(at 160.02 70.358 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 160.02 62.4149 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 160.02 66.548 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 160.02 66.548 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 160.02 66.548 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "79099667-a11d-4611-9457-0f8d773428dc")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "#PWR028")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Relay:G5LE-1")
 		(at 48.768 62.992 90)
 		(unit 1)
@@ -25830,72 +28642,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+12V")
-		(at 41.656 234.188 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ede80662-240f-42d7-9068-66d6fed1bb96")
-		(property "Reference" "#PWR063"
-			(at 41.656 237.998 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 41.656 230.0549 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 41.656 234.188 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 41.656 234.188 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 41.656 234.188 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "36966409-fcba-4254-84d4-71dd83d3a127")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "#PWR063")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 76.962 218.186 90)
 		(unit 1)
@@ -25959,6 +28705,74 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C92")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 62.484 76.2 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eea3ff1f-589e-4b46-8406-3872fa589557")
+		(property "Reference" "FB20"
+			(at 62.4459 70.3537 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 62.4459 72.778 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 62.484 77.978 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 62.484 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 62.484 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b02fbdc5-09c1-47b0-8f49-4241161b5dba")
+		)
+		(pin "1"
+			(uuid "8830711d-6c62-4a85-ad3b-3aacbc844116")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB20")
 					(unit 1)
 				)
 			)
@@ -26100,6 +28914,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 162.814 136.144 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f04c7cec-2f61-45c2-ba03-32aef08480c2")
+		(property "Reference" "FB35"
+			(at 162.8521 141.9903 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at 162.8521 139.566 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 162.814 134.366 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 162.814 136.144 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 162.814 136.144 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e1e2c856-4ce9-466f-997d-fe5da7a739e9")
+		)
+		(pin "1"
+			(uuid "611f8408-53ba-4ad0-b637-0469b4c8e91c")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 41.148 40.386 0)
 		(unit 1)
@@ -26160,73 +29042,6 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+12V")
-		(at 160.528 234.188 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f46fff93-18a6-4d84-8ce2-3bd202b280d1")
-		(property "Reference" "#PWR095"
-			(at 160.528 237.998 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 160.528 230.0549 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 160.528 234.188 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 160.528 234.188 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 160.528 234.188 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "857568d8-f1db-4a4b-a5db-ada6c45d8e74")
-		)
-		(instances
-			(project "Zolotarev"
-				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "#PWR095")
 					(unit 1)
 				)
 			)
@@ -26364,6 +29179,74 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "#PWR099")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at -41.148 24.13 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f61c80d9-dd12-41f1-b7c1-824c7b5fec5b")
+		(property "Reference" "FB25"
+			(at -41.1099 29.9763 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FB"
+			(at -41.1099 27.552 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at -41.148 22.352 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at -41.148 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at -41.148 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "0b69a147-429b-478b-b854-dddae486e05e")
+		)
+		(pin "1"
+			(uuid "25231b79-06f0-49c3-af25-cb9190c5eb3e")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "FB25")
 					(unit 1)
 				)
 			)
