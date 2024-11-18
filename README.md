@@ -8,6 +8,10 @@ It's the ideal companion for the Munin400 linear amplifier designed by the same 
 
 This repository is a strict copy of the original work, using Kicad 8.xx. Original pcb design was made with Ultiboard software
 
+![LPF vu de dessus](https://github.com/F6ITU/k_zolotarev/blob/main/documentation/lpf_up.png)
+
+![LPF vu de dessous](https://github.com/F6ITU/k_zolotarev/blob/main/documentation/lpf_dwn.png)
+
 # Building notes : 
 
 ** All capacitors used in the active part of the filter have been sourced as "Vishay Vitramon VJ Hifreq" in 1111 format./**
