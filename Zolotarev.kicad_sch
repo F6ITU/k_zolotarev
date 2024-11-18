@@ -1919,6 +1919,12 @@
 		(uuid "01a39607-4ddc-44f0-9467-383afb18c70f")
 	)
 	(junction
+		(at 108.966 17.272)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "02a55681-89f3-4d9d-be40-45d4712464a9")
+	)
+	(junction
 		(at 112.522 27.432)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1929,6 +1935,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "06429fe3-193b-4192-9faf-7e9e6cbc8791")
+	)
+	(junction
+		(at 69.342 90.424)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "08b7f46e-7bf9-440b-b308-e6c09b098467")
 	)
 	(junction
 		(at 112.776 198.12)
@@ -1959,6 +1971,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0e067998-68f8-4e6d-9d0b-bd86c2edb26b")
+	)
+	(junction
+		(at 65.532 95.504)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0e597157-0b60-49ff-b750-9f56f8733a2e")
 	)
 	(junction
 		(at 145.288 235.712)
@@ -2081,6 +2099,12 @@
 		(uuid "2f0c5215-41ff-4178-858c-637b4ff1a0a8")
 	)
 	(junction
+		(at 65.532 17.272)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "33b44f18-82a4-444d-a94a-53be13ab6b7e")
+	)
+	(junction
 		(at 41.148 68.072)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2139,6 +2163,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3e4ae1a2-61af-46eb-9572-e807acf3f941")
+	)
+	(junction
+		(at 88.646 52.832)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3e5823f8-6690-4cd2-80b9-ed0b756d3527")
 	)
 	(junction
 		(at 112.776 162.56)
@@ -2243,10 +2273,22 @@
 		(uuid "569de248-86cf-44bc-9caa-9c5da9998895")
 	)
 	(junction
+		(at 131.826 17.272)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "581f90eb-19ba-4d4a-948b-f220d71e8ad0")
+	)
+	(junction
 		(at 86.868 193.04)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "586dc0c7-7e76-4978-bd24-6117a15af72a")
+	)
+	(junction
+		(at 108.712 52.832)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "597b2886-6d8e-452e-b768-706716b67d2f")
 	)
 	(junction
 		(at 144.78 57.912)
@@ -2295,6 +2337,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "601fe7a9-ecec-4225-bb8d-98f4c15169be")
+	)
+	(junction
+		(at 116.84 52.832)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "61aed103-a917-4fc2-a808-31a35ea332d4")
 	)
 	(junction
 		(at 28.956 190.5)
@@ -2495,6 +2543,12 @@
 		(uuid "882c107b-541b-4c71-a966-919c3cce0414")
 	)
 	(junction
+		(at 78.994 14.986)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "88ece1c2-092a-4e26-9cac-ed0daf3c3d0e")
+	)
+	(junction
 		(at 136.144 95.504)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2615,6 +2669,12 @@
 		(uuid "9b658bb4-90e1-4d7e-ba05-abe6ec02f691")
 	)
 	(junction
+		(at 88.9 85.344)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9b7b1568-1503-45e8-8ef0-7b5cdd0831af")
+	)
+	(junction
 		(at 67.564 27.432)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2691,6 +2751,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b1bf7afc-e3a7-4ae9-8e06-9ff033821045")
+	)
+	(junction
+		(at 108.966 85.344)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b2bb0e80-d19b-479a-9c8f-af4c811866ef")
 	)
 	(junction
 		(at 110.744 22.352)
@@ -2787,6 +2853,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cec49502-b663-4918-9309-d7238163b67c")
+	)
+	(junction
+		(at 88.646 17.272)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d03b9a6a-3ff8-4885-af31-54e8b7ac4aee")
 	)
 	(junction
 		(at 90.932 131.064)
@@ -2901,6 +2973,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "edb127a1-f9f7-4790-82b6-f2ae4184d899")
+	)
+	(junction
+		(at 73.914 14.986)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ee941709-9233-45db-a15f-5919421d3ffe")
 	)
 	(junction
 		(at 86.614 22.352)
@@ -3296,6 +3374,16 @@
 	)
 	(wire
 		(pts
+			(xy 88.9 85.344) (xy 88.9 84.074)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0cc81c80-22da-4799-96c9-fa712f64436c")
+	)
+	(wire
+		(pts
 			(xy 167.132 68.072) (xy 165.1 68.072)
 		)
 		(stroke
@@ -3456,6 +3544,16 @@
 	)
 	(wire
 		(pts
+			(xy 65.532 17.272) (xy 67.564 17.272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1517168f-ce9c-42c2-89fb-b2976fb8b279")
+	)
+	(wire
+		(pts
 			(xy 149.606 74.676) (xy 149.606 68.072)
 		)
 		(stroke
@@ -3596,6 +3694,16 @@
 	)
 	(wire
 		(pts
+			(xy 78.994 11.176) (xy 78.994 14.986)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d2318b2-bafb-4d19-9273-7b1df819eb9c")
+	)
+	(wire
+		(pts
 			(xy 82.804 198.12) (xy 86.868 198.12)
 		)
 		(stroke
@@ -3656,6 +3764,26 @@
 	)
 	(wire
 		(pts
+			(xy 106.934 120.904) (xy 106.934 119.634)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2009aa94-e5d7-45d0-8801-247b88b98193")
+	)
+	(wire
+		(pts
+			(xy 129.54 17.272) (xy 131.826 17.272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2016e63c-9d35-42de-aede-06dee64b660c")
+	)
+	(wire
+		(pts
 			(xy 137.668 22.352) (xy 133.604 22.352)
 		)
 		(stroke
@@ -3683,6 +3811,16 @@
 			(type default)
 		)
 		(uuid "209f7fa5-1445-438f-a84a-2c30eb7b6464")
+	)
+	(wire
+		(pts
+			(xy 88.646 17.272) (xy 90.678 17.272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2112512a-f57e-4b85-b70e-5616b9488f7c")
 	)
 	(wire
 		(pts
@@ -3816,6 +3954,16 @@
 	)
 	(wire
 		(pts
+			(xy 86.614 52.832) (xy 88.646 52.832)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "253b4079-80e7-40f5-a320-189819e489c6")
+	)
+	(wire
+		(pts
 			(xy 41.402 203.2) (xy 41.402 204.724)
 		)
 		(stroke
@@ -3873,6 +4021,26 @@
 			(type default)
 		)
 		(uuid "2725da93-ec68-4fd7-9662-40e6b1eb5256")
+	)
+	(wire
+		(pts
+			(xy 106.68 17.272) (xy 108.966 17.272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "273c5d3c-c8ae-443e-8d14-0c71eb9e9e8e")
+	)
+	(wire
+		(pts
+			(xy 145.034 134.62) (xy 145.034 136.144)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27abf26d-cf5e-41ff-b599-d022a61799ca")
 	)
 	(wire
 		(pts
@@ -4106,6 +4274,16 @@
 	)
 	(wire
 		(pts
+			(xy 20.066 60.452) (xy 20.066 61.722)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32299cc2-c25e-4713-9476-f18765487208")
+	)
+	(wire
+		(pts
 			(xy 28.956 123.444) (xy 41.402 123.444)
 		)
 		(stroke
@@ -4316,6 +4494,16 @@
 	)
 	(wire
 		(pts
+			(xy 110.998 152.4) (xy 110.998 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38c339db-d81f-4893-a561-6ecfa59a3c56")
+	)
+	(wire
+		(pts
 			(xy 137.922 193.04) (xy 145.034 193.04)
 		)
 		(stroke
@@ -4333,6 +4521,16 @@
 			(type default)
 		)
 		(uuid "38f2d8cb-8009-4dbb-b71b-cb26677a6f63")
+	)
+	(wire
+		(pts
+			(xy 106.68 52.832) (xy 108.712 52.832)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39679bb9-9d3e-4624-963e-57a7b7e4ec44")
 	)
 	(wire
 		(pts
@@ -4526,6 +4724,16 @@
 	)
 	(wire
 		(pts
+			(xy 129.794 85.344) (xy 129.794 84.074)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43011e61-5efe-409a-a6e2-c20b3a050313")
+	)
+	(wire
+		(pts
 			(xy 167.64 235.712) (xy 165.608 235.712)
 		)
 		(stroke
@@ -4543,6 +4751,16 @@
 			(type default)
 		)
 		(uuid "43193069-6024-4fc9-b117-dbc448cf396e")
+	)
+	(wire
+		(pts
+			(xy 114.808 52.832) (xy 116.84 52.832)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "435961eb-1ea5-4ebc-9cc1-2e5489f1cca2")
 	)
 	(wire
 		(pts
@@ -4586,7 +4804,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.754 90.424) (xy 71.882 90.424)
+			(xy 63.754 90.424) (xy 69.342 90.424)
 		)
 		(stroke
 			(width 0)
@@ -4683,6 +4901,16 @@
 			(type default)
 		)
 		(uuid "484de15f-b387-4074-93ce-37b98ae12c31")
+	)
+	(wire
+		(pts
+			(xy 144.78 67.056) (xy 144.78 68.072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48850687-02e2-4077-9305-419eb357411e")
 	)
 	(wire
 		(pts
@@ -4816,6 +5044,16 @@
 	)
 	(wire
 		(pts
+			(xy 108.966 85.344) (xy 108.966 84.074)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ddfea77-3116-40f2-a636-7a04a0af0b8e")
+	)
+	(wire
+		(pts
 			(xy 110.998 125.984) (xy 120.65 125.984)
 		)
 		(stroke
@@ -4896,6 +5134,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.914 11.176) (xy 73.914 14.986)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "505de38c-ae7d-4462-8197-87a883f0ce0c")
+	)
+	(wire
+		(pts
 			(xy 133.858 95.504) (xy 129.794 95.504)
 		)
 		(stroke
@@ -4963,6 +5211,16 @@
 			(type default)
 		)
 		(uuid "53c68973-4102-4b09-b5a8-7f11be93aa38")
+	)
+	(wire
+		(pts
+			(xy 144.78 31.496) (xy 144.78 32.512)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54384ebf-3d3f-428f-bbf5-172f17e092a4")
 	)
 	(wire
 		(pts
@@ -5056,6 +5314,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 17.272) (xy 65.532 17.272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ab816fa-1953-4998-bfa2-0929203ce747")
+	)
+	(wire
+		(pts
 			(xy 114.808 22.352) (xy 120.396 22.352)
 		)
 		(stroke
@@ -5063,6 +5331,16 @@
 			(type default)
 		)
 		(uuid "5ad0d4bf-e455-444c-af71-81aba45db873")
+	)
+	(wire
+		(pts
+			(xy 14.986 60.452) (xy 14.986 61.722)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bcee581-13a0-40cd-816c-8f064dc0a01d")
 	)
 	(wire
 		(pts
@@ -5096,6 +5374,16 @@
 	)
 	(wire
 		(pts
+			(xy 116.84 52.832) (xy 118.872 52.832)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d239074-5e8d-401c-a93d-0e2a7989f265")
+	)
+	(wire
+		(pts
 			(xy 41.402 160.02) (xy 40.132 160.02)
 		)
 		(stroke
@@ -5103,6 +5391,16 @@
 			(type default)
 		)
 		(uuid "5d366be9-aba3-4e99-be0b-2e06b8f209c4")
+	)
+	(wire
+		(pts
+			(xy 88.646 17.272) (xy 88.646 16.002)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5db4df20-8747-4699-8ba6-764d163e97b4")
 	)
 	(wire
 		(pts
@@ -5246,6 +5544,16 @@
 	)
 	(wire
 		(pts
+			(xy 65.532 95.504) (xy 69.342 95.504)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "676f65ad-d846-4e9d-a041-e46c83431f3f")
+	)
+	(wire
+		(pts
 			(xy 144.78 57.912) (xy 141.732 57.912)
 		)
 		(stroke
@@ -5303,6 +5611,16 @@
 			(type default)
 		)
 		(uuid "6937afc4-97c3-438d-bfbf-57a21d9449e0")
+	)
+	(wire
+		(pts
+			(xy 86.868 120.904) (xy 86.868 119.634)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ad83222-e5e9-4076-95d9-3be8c50eaae7")
 	)
 	(wire
 		(pts
@@ -5416,16 +5734,6 @@
 	)
 	(wire
 		(pts
-			(xy 56.388 22.352) (xy 63.5 22.352)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6f807994-62a4-41fc-9e47-304af0a9e93f")
-	)
-	(wire
-		(pts
 			(xy 88.646 198.12) (xy 88.646 199.39)
 		)
 		(stroke
@@ -5516,6 +5824,16 @@
 	)
 	(wire
 		(pts
+			(xy 108.966 85.344) (xy 110.998 85.344)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74fcbacc-5611-4167-afc9-2ee6e836f9f4")
+	)
+	(wire
+		(pts
 			(xy 180.34 128.524) (xy 180.34 129.794)
 		)
 		(stroke
@@ -5586,6 +5904,16 @@
 	)
 	(wire
 		(pts
+			(xy 131.826 17.272) (xy 133.604 17.272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a552fe1-a45c-4ab1-9804-00cca37b00b6")
+	)
+	(wire
+		(pts
 			(xy 63.754 157.48) (xy 67.818 157.48)
 		)
 		(stroke
@@ -5603,6 +5931,16 @@
 			(type default)
 		)
 		(uuid "7ac9f3b4-64b8-42d8-94d8-7fe6751d5e05")
+	)
+	(wire
+		(pts
+			(xy 88.646 52.832) (xy 90.678 52.832)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b44735a-2b13-4e37-af89-1df7221cc0a5")
 	)
 	(wire
 		(pts
@@ -5726,6 +6064,16 @@
 	)
 	(wire
 		(pts
+			(xy 86.868 85.344) (xy 88.9 85.344)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e36ccb3-951f-4ac6-9bf8-93fb0222b3d8")
+	)
+	(wire
+		(pts
 			(xy 128.27 193.04) (xy 133.858 193.04)
 		)
 		(stroke
@@ -5773,6 +6121,16 @@
 			(type default)
 		)
 		(uuid "804b820b-560f-4389-8c05-f546b480e2b7")
+	)
+	(wire
+		(pts
+			(xy 56.388 22.352) (xy 63.5 22.352)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "808612bc-557e-405c-b5a3-14f2b96e64da")
 	)
 	(wire
 		(pts
@@ -5906,6 +6264,16 @@
 	)
 	(wire
 		(pts
+			(xy 69.342 90.424) (xy 71.882 90.424)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "872b742b-6c8c-4dfc-9ab0-7b97dbfee42d")
+	)
+	(wire
+		(pts
 			(xy 145.034 167.64) (xy 145.034 169.164)
 		)
 		(stroke
@@ -5923,6 +6291,16 @@
 			(type default)
 		)
 		(uuid "886147c9-3e7a-48b3-83a3-98848c8e053a")
+	)
+	(wire
+		(pts
+			(xy 108.966 17.272) (xy 108.966 16.002)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88cc0afa-5268-4617-ad6d-b904b2b9b9ec")
 	)
 	(wire
 		(pts
@@ -6086,6 +6464,16 @@
 	)
 	(wire
 		(pts
+			(xy 131.826 17.272) (xy 131.826 16.002)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92983d65-8cde-43bb-ae63-f81793699d62")
+	)
+	(wire
+		(pts
 			(xy 81.026 125.984) (xy 82.804 125.984)
 		)
 		(stroke
@@ -6166,6 +6554,16 @@
 	)
 	(wire
 		(pts
+			(xy 14.986 73.406) (xy 14.986 74.676)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a4a95c1-c031-4953-bf88-a39b5c25e98d")
+	)
+	(wire
+		(pts
 			(xy 65.532 131.064) (xy 65.532 132.334)
 		)
 		(stroke
@@ -6173,6 +6571,16 @@
 			(type default)
 		)
 		(uuid "9aaf4df7-716b-4786-88a6-986a90a3dee2")
+	)
+	(wire
+		(pts
+			(xy 20.066 73.406) (xy 20.066 74.676)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c2a9c99-126e-413e-91dc-6fbdb28c536b")
 	)
 	(wire
 		(pts
@@ -6226,6 +6634,16 @@
 	)
 	(wire
 		(pts
+			(xy 145.034 99.314) (xy 145.034 100.584)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ed727b6-ebcb-4869-bd4d-9ae41713e3fd")
+	)
+	(wire
+		(pts
 			(xy 67.818 157.48) (xy 71.882 157.48)
 		)
 		(stroke
@@ -6253,6 +6671,16 @@
 			(type default)
 		)
 		(uuid "a131c0bc-3685-4e30-bcb4-f83dbfcd5f0a")
+	)
+	(wire
+		(pts
+			(xy 108.712 52.832) (xy 110.744 52.832)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a144bd98-d1d1-4bc8-b269-2f2672df079b")
 	)
 	(wire
 		(pts
@@ -6736,6 +7164,16 @@
 	)
 	(wire
 		(pts
+			(xy 145.034 165.862) (xy 145.034 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4c6aad3-144e-49c7-b6e1-153105505dfa")
+	)
+	(wire
+		(pts
 			(xy 46.736 209.804) (xy 46.736 203.2)
 		)
 		(stroke
@@ -6986,6 +7424,16 @@
 	)
 	(wire
 		(pts
+			(xy 88.9 85.344) (xy 90.932 85.344)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1da0fc7-0152-4191-9172-789a998f80b8")
+	)
+	(wire
+		(pts
 			(xy 67.564 62.992) (xy 71.628 62.992)
 		)
 		(stroke
@@ -7096,6 +7544,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.934 85.344) (xy 108.966 85.344)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6736bb1-52d8-475a-be45-66d7fb6bda23")
+	)
+	(wire
+		(pts
 			(xy 52.832 268.478) (xy 54.356 268.478)
 		)
 		(stroke
@@ -7183,16 +7641,6 @@
 			(type default)
 		)
 		(uuid "cbe235c5-05a4-46cb-904c-f60cfd0a6c6b")
-	)
-	(wire
-		(pts
-			(xy -36.576 24.13) (xy -38.608 24.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cc45955f-6ada-4c85-92e5-2b0ab1da183f")
 	)
 	(wire
 		(pts
@@ -7446,6 +7894,16 @@
 	)
 	(wire
 		(pts
+			(xy 86.614 17.272) (xy 88.646 17.272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7b5975b-ebdf-4ec2-aa70-31e2cfa07764")
+	)
+	(wire
+		(pts
 			(xy 74.168 118.618) (xy 74.168 120.396)
 		)
 		(stroke
@@ -7603,6 +8061,16 @@
 			(type default)
 		)
 		(uuid "e208543a-685c-4d73-94e0-0fa222c7d78a")
+	)
+	(wire
+		(pts
+			(xy 65.532 17.272) (xy 65.532 16.002)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2afc923-b039-4e93-aac8-1aa96b229e4b")
 	)
 	(wire
 		(pts
@@ -7846,6 +8314,16 @@
 	)
 	(wire
 		(pts
+			(xy 108.966 17.272) (xy 110.744 17.272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1c62a57-70c9-46c5-8773-8952425f9848")
+	)
+	(wire
+		(pts
 			(xy 46.99 136.398) (xy 46.99 142.748)
 		)
 		(stroke
@@ -7936,6 +8414,26 @@
 	)
 	(wire
 		(pts
+			(xy 116.84 52.832) (xy 116.84 51.562)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f970c1f2-248c-4190-99f7-0c6dfd6fd7b9")
+	)
+	(wire
+		(pts
+			(xy 108.712 52.832) (xy 108.712 51.562)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f97f4751-64b8-4479-93d4-08c7bfda881f")
+	)
+	(wire
+		(pts
 			(xy 94.742 57.912) (xy 96.266 57.912)
 		)
 		(stroke
@@ -7963,6 +8461,16 @@
 			(type default)
 		)
 		(uuid "fa958d84-6c4c-4a27-8007-0651d54450ab")
+	)
+	(wire
+		(pts
+			(xy 88.646 52.832) (xy 88.646 51.562)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb90cc95-d833-4b7b-8834-b0ac0e695dac")
 	)
 	(wire
 		(pts
@@ -8014,45 +8522,6 @@
 		)
 		(uuid "ffde695f-1073-4b81-9f8e-827f5006bcfd")
 	)
-	(text "OK"
-		(exclude_from_sim no)
-		(at 184.658 61.722 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(thickness 0.508)
-				(bold yes)
-				(color 255 14 25 1)
-			)
-		)
-		(uuid "0f91716d-4a9f-4567-93c1-093471afcf82")
-	)
-	(text "OK"
-		(exclude_from_sim no)
-		(at 185.928 231.14 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(thickness 0.508)
-				(bold yes)
-				(color 255 14 25 1)
-			)
-		)
-		(uuid "2ca45bca-88d9-40a1-a71b-43712b0e1aec")
-	)
-	(text "OK"
-		(exclude_from_sim no)
-		(at 185.674 89.916 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(thickness 0.508)
-				(bold yes)
-				(color 255 14 25 1)
-			)
-		)
-		(uuid "30d77701-ff9a-4ad9-a47f-4d1c396712a0")
-	)
 	(text "Zolotarev 600W low pass filter"
 		(exclude_from_sim no)
 		(at 132.842 276.606 0)
@@ -8065,71 +8534,6 @@
 			)
 		)
 		(uuid "37fb328b-fd8f-4c9e-9f21-37d79d4521c1")
-	)
-	(text "OK"
-		(exclude_from_sim no)
-		(at 185.674 134.112 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(thickness 0.508)
-				(bold yes)
-				(color 255 14 25 1)
-			)
-		)
-		(uuid "45ec6de7-5bdb-4399-ae3e-d029ffc9424f")
-	)
-	(text "OK"
-		(exclude_from_sim no)
-		(at 185.166 28.956 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(thickness 0.508)
-				(bold yes)
-				(color 255 14 25 1)
-			)
-		)
-		(uuid "46c945ca-64f9-4544-ac5c-8debe374f37a")
-	)
-	(text "Manque ferrites filtrage DC\n"
-		(exclude_from_sim no)
-		(at 51.054 252.984 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(thickness 0.508)
-				(bold yes)
-				(color 255 22 81 1)
-			)
-		)
-		(uuid "47e57562-25df-410b-a737-0897a507eaad")
-	)
-	(text "OK"
-		(exclude_from_sim no)
-		(at 185.674 165.354 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(thickness 0.508)
-				(bold yes)
-				(color 255 14 25 1)
-			)
-		)
-		(uuid "6a16d74b-587f-4d2a-a0ee-ef8d671d9bef")
-	)
-	(text "OK"
-		(exclude_from_sim no)
-		(at 185.42 195.072 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(thickness 0.508)
-				(bold yes)
-				(color 255 14 25 1)
-			)
-		)
-		(uuid "7d21513c-c7b3-401f-b649-315d8323a64f")
 	)
 	(global_label "80m"
 		(shape input)
@@ -8155,7 +8559,7 @@
 	)
 	(global_label "60+40m"
 		(shape input)
-		(at 100.076 108.712 90)
+		(at 145.034 99.314 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8165,7 +8569,7 @@
 		)
 		(uuid "022fb9b6-1e1d-4db2-ad9f-f51d4aeffe69")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 100.076 97.6231 90)
+			(at 145.034 88.2251 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8177,7 +8581,7 @@
 	)
 	(global_label "6m"
 		(shape input)
-		(at 100.33 243.84 90)
+		(at 145.288 235.712 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8187,7 +8591,7 @@
 		)
 		(uuid "1e8b9484-63e6-4ea2-b91b-c2b850d72d92")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 100.33 237.952 90)
+			(at 145.288 229.824 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8221,7 +8625,7 @@
 	)
 	(global_label "160m"
 		(shape input)
-		(at 99.822 40.64 90)
+		(at 144.78 31.496 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8231,7 +8635,7 @@
 		)
 		(uuid "3783ed93-159a-42a9-8cd4-dd6b8a491c44")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 99.822 32.333 90)
+			(at 144.78 23.189 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8309,7 +8713,7 @@
 	)
 	(global_label "12+10m"
 		(shape input)
-		(at 100.076 211.328 90)
+		(at 145.034 203.2 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8319,7 +8723,7 @@
 		)
 		(uuid "5a6d668c-976d-43f1-ba65-af395aebfe61")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 100.076 200.2391 90)
+			(at 145.034 192.1111 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8331,7 +8735,7 @@
 	)
 	(global_label "17+15m"
 		(shape input)
-		(at 100.076 175.768 90)
+		(at 145.034 165.862 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8341,7 +8745,7 @@
 		)
 		(uuid "69a6f0f2-b466-47f7-b3b8-8ce63013476b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 100.076 164.6791 90)
+			(at 145.034 154.7731 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8353,7 +8757,7 @@
 	)
 	(global_label "30+20m"
 		(shape input)
-		(at 100.076 144.272 90)
+		(at 145.034 134.62 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8363,7 +8767,7 @@
 		)
 		(uuid "84d0ba57-c1d6-4f67-a0da-6ff72f6b9f21")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 100.076 133.1831 90)
+			(at 145.034 123.5311 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8441,7 +8845,7 @@
 	)
 	(global_label "80m"
 		(shape input)
-		(at 99.822 76.2 90)
+		(at 144.78 67.056 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8451,7 +8855,7 @@
 		)
 		(uuid "d2f381e5-3164-4f2f-8fb2-f62046ee2259")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 99.822 69.1025 90)
+			(at 144.78 59.9585 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8692,10 +9096,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0554261b-ae3c-4579-9657-0e6558d1cf16")
 		(property "Reference" "FB2"
-			(at 36.0299 257.5517 90)
+			(at 39.624 263.398 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8703,11 +9106,12 @@
 			)
 		)
 		(property "Value" "FB"
-			(at 36.0299 259.976 90)
+			(at 16.51 256.54 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
@@ -8882,6 +9286,138 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "#PWR021")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 106.934 119.634 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "060b9b46-6680-40cf-ad52-72eecb196bf1")
+		(property "Reference" "#PWR0110"
+			(at 106.934 113.284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 106.934 115.5009 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 106.934 119.634 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 106.934 119.634 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 106.934 119.634 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9c7f3c7d-c42e-4041-8b6e-dab98e7b7a79")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR0110")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 20.066 61.722 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0858f308-0e42-43c5-b3a2-2316132d38bb")
+		(property "Reference" "#PWR0107"
+			(at 20.066 68.072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 20.066 65.8551 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 20.066 61.722 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 20.066 61.722 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 20.066 61.722 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8fdd87b3-057a-49d7-be92-a4e578db0c4c")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR0107")
 					(unit 1)
 				)
 			)
@@ -9178,6 +9714,138 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 108.712 51.562 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0cb7572e-c41a-431d-b12b-19d61bfa5e40")
+		(property "Reference" "#PWR0103"
+			(at 108.712 45.212 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 108.712 47.4289 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 108.712 51.562 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 108.712 51.562 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 108.712 51.562 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1fc66877-7975-4575-91e6-3b3492ad11fc")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR0103")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 88.646 51.562 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0d1b03c6-3e2b-4aa6-a9bb-f83e70b9586f")
+		(property "Reference" "#PWR0102"
+			(at 88.646 45.212 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 88.646 47.4289 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.646 51.562 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.646 51.562 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 88.646 51.562 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7b570991-8986-4e27-a005-0064efce047f")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR0102")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 71.628 24.892 0)
 		(unit 1)
@@ -9247,6 +9915,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 86.614 19.812 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0e9ab91e-c2bc-4422-a6b9-9d580eca9db4")
+		(property "Reference" "C6b1"
+			(at 86.868 16.002 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Adj"
+			(at 87.884 18.288 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
+			(at 86.614 19.812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 86.614 19.812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 86.614 19.812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2ba6e248-6b6d-4ad5-b11c-3385c4dd0c60")
+		)
+		(pin "2"
+			(uuid "2b086f2c-2979-47c3-a4fc-e4fff86ae0a0")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "C6b1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:FerriteBead_Small")
 		(at 56.896 265.938 90)
 		(unit 1)
@@ -9254,10 +9991,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0ed725bb-56fd-4e86-98cb-5c4dfd573576")
 		(property "Reference" "FB8"
-			(at 56.8579 260.0917 90)
+			(at 53.594 265.938 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9265,11 +10001,12 @@
 			)
 		)
 		(property "Value" "FB"
-			(at 56.8579 262.516 90)
+			(at 57.404 267.208 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
@@ -9524,10 +10261,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "108cf79e-9153-418f-bec5-9e8cb1971f39")
 		(property "Reference" "FB3"
-			(at 36.0299 260.0917 90)
+			(at 39.116 265.938 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9540,6 +10276,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
@@ -9654,6 +10391,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 90.678 55.372 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "10dde1fc-ec49-47ec-b465-e8132268f5c2")
+		(property "Reference" "C24b1"
+			(at 89.408 51.562 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Adj"
+			(at 89.408 53.848 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
+			(at 90.678 55.372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 90.678 55.372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 90.678 55.372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "71f3ccbc-2c4f-48c9-80c4-972ba143c382")
+		)
+		(pin "2"
+			(uuid "96dcca6f-ef3d-41be-aefc-098dd163d5d8")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "C24b1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D_Small")
 		(at 49.022 74.676 0)
 		(mirror x)
@@ -9749,10 +10556,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "11f67b57-be0d-4172-936f-fb14b607a6aa")
 		(property "Reference" "FB6"
-			(at 36.0299 267.7117 90)
+			(at 39.116 273.558 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9765,6 +10571,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
@@ -10209,6 +11016,76 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 110.998 154.94 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "17a53929-69fd-4742-80ad-55d8ab4485ec")
+		(property "Reference" "C69b1"
+			(at 111.252 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Adj"
+			(at 109.728 153.416 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
+			(at 110.998 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 110.998 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 110.998 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2e4ed2e4-e346-40e7-9770-7595121482af")
+		)
+		(pin "2"
+			(uuid "e6ff0c8d-cd10-4d80-a4e0-2a759270def9")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "C69b1")
 					(unit 1)
 				)
 			)
@@ -10758,6 +11635,75 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
+		(at 114.808 55.372 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1cb48483-3308-49d1-91d1-5a2af4ae5e93")
+		(property "Reference" "C27b1"
+			(at 117.094 49.022 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Adj"
+			(at 116.078 53.848 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
+			(at 114.808 55.372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 114.808 55.372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 114.808 55.372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4ca55f37-cc18-4773-b5d3-bdcee8d56ab7")
+		)
+		(pin "2"
+			(uuid "855441c9-2344-44da-884e-b70fdbe5d93b")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "C27b1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
 		(at 86.614 24.892 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10821,6 +11767,72 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 88.9 84.074 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "201e363b-c17a-44f4-b434-20ffe6a4a472")
+		(property "Reference" "#PWR0105"
+			(at 88.9 77.724 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 88.9 79.9409 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 84.074 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 84.074 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 88.9 84.074 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dcc0eac9-c5cc-443b-bb4c-7ab86b4c3804")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -10956,6 +11968,72 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "#PWR043")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 129.794 84.074 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "21f6a107-c4c9-4c25-bd56-8ae3bb56b848")
+		(property "Reference" "#PWR0108"
+			(at 129.794 77.724 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 129.794 79.9409 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 129.794 84.074 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 129.794 84.074 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 129.794 84.074 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6b0a569e-a1dd-4b3d-a1b5-2a583457cba8")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR0108")
 					(unit 1)
 				)
 			)
@@ -11306,10 +12384,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "28d4db8c-0905-4b61-85ee-a8a1c1a6a618")
 		(property "Reference" "FB24"
-			(at 38.5699 26.6657 90)
+			(at 36.322 35.306 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11631,6 +12708,72 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "#PWR014")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 14.986 70.866 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "2a8123b0-f05d-48fe-8fcf-6b3e1d0d9a39")
+		(property "Reference" "H6"
+			(at 13.716 72.898 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "M3"
+			(at 13.462 67.564 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad_Via"
+			(at 14.986 70.866 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 14.986 70.866 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 14.986 70.866 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7857fcbd-9164-4901-b956-14e50cdc28d9")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "H6")
 					(unit 1)
 				)
 			)
@@ -12389,10 +13532,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "363c7688-f6ec-4b84-8475-957dbf2b4c15")
 		(property "Reference" "FB5"
-			(at 36.0299 265.1717 90)
+			(at 38.862 271.018 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12405,6 +13547,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
@@ -12514,6 +13657,76 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 110.744 55.372 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3854158c-10aa-4045-babe-182e16eb8d08")
+		(property "Reference" "C26c1"
+			(at 109.22 51.562 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Adj"
+			(at 109.474 53.848 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
+			(at 110.744 55.372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 110.744 55.372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 110.744 55.372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5816398a-3af6-42cf-8c2a-d5d80a3b555e")
+		)
+		(pin "2"
+			(uuid "87a8e93d-d155-4e15-8f22-ceff32277efe")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "C26c1")
 					(unit 1)
 				)
 			)
@@ -12729,10 +13942,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "39b234bd-0533-419b-b8c7-2a01ab58414f")
 		(property "Reference" "FB7"
-			(at 56.8579 267.7117 90)
+			(at 54.102 273.812 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12740,11 +13952,12 @@
 			)
 		)
 		(property "Value" "FB"
-			(at 56.8579 270.136 90)
+			(at 57.658 275.082 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
@@ -13197,17 +14410,34 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+12V")
-		(at -36.576 24.13 270)
+		(lib_id "Device:C_Small")
+		(at 106.934 87.884 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "42be90c8-be1e-4b5b-8cc3-1c2c39f96445")
-		(property "Reference" "#PWR074"
-			(at -40.386 24.13 0)
+		(uuid "44068dc1-7132-4466-9bef-507e7f8970f8")
+		(property "Reference" "C46b1"
+			(at 107.188 84.074 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Adj"
+			(at 108.204 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
+			(at 106.934 87.884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13215,16 +14445,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+12V"
-			(at -32.4429 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at -36.576 24.13 0)
+		(property "Datasheet" "~"
+			(at 106.934 87.884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13232,17 +14454,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at -36.576 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at -36.576 24.13 0)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 106.934 87.884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13251,12 +14464,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "d6d91840-f6da-401e-9ba6-8145c25106c8")
+			(uuid "bb720dda-83ef-47c6-889e-3005aa626d0e")
+		)
+		(pin "2"
+			(uuid "08e7ec25-9f5c-45d8-abf9-7b3007157050")
 		)
 		(instances
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "#PWR074")
+					(reference "C46b1")
 					(unit 1)
 				)
 			)
@@ -13323,6 +14539,72 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "#PWR037")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 108.966 84.074 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "44f68541-7baa-4cc4-b0bd-f680c678248b")
+		(property "Reference" "#PWR0106"
+			(at 108.966 77.724 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 108.966 79.9409 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 108.966 84.074 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 108.966 84.074 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 108.966 84.074 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cd1b790d-e042-494d-87c9-6a3c444a0296")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR0106")
 					(unit 1)
 				)
 			)
@@ -14495,7 +15777,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5044fa5a-b256-41d2-a113-713ccbf90a3e")
 		(property "Reference" "#PWR066"
 			(at 60.706 271.018 0)
@@ -14507,7 +15788,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 58.4891 271.018 0)
+			(at 58.166 270.002 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15491,6 +16772,72 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 65.532 16.002 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5667e95c-f82f-46e6-8364-a5f2c0d48a33")
+		(property "Reference" "#PWR093"
+			(at 65.532 9.652 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 65.532 11.8689 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 65.532 16.002 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 65.532 16.002 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 65.532 16.002 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6e5a4cf8-486d-4d4a-a7bd-ed052d2f9aa8")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR093")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 41.402 108.458 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15835,6 +17182,75 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 76.454 11.176 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5b296d66-9613-4707-a3b2-8fc10ae222a9")
+		(property "Reference" "C19b1"
+			(at 74.676 10.668 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Adj"
+			(at 77.978 12.446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
+			(at 76.454 11.176 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 76.454 11.176 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 76.454 11.176 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bedc94fc-3d09-4eb0-985d-80cc534240d5")
+		)
+		(pin "2"
+			(uuid "9b735b35-5333-4208-8463-2139b98b6499")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "C19b1")
 					(unit 1)
 				)
 			)
@@ -16974,6 +18390,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 86.868 123.444 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "63a579ae-963b-4f2f-8cc0-e8e277668d2a")
+		(property "Reference" "C56b1"
+			(at 87.122 119.634 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Adj"
+			(at 85.598 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
+			(at 86.868 123.444 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 86.868 123.444 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 86.868 123.444 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dbac360e-31ee-4fcd-9a0f-edcc63c84ecc")
+		)
+		(pin "2"
+			(uuid "c40aabc9-e2a8-46a2-86cf-4e6ac710e99d")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "C56b1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+12V")
 		(at 34.29 167.64 90)
 		(unit 1)
@@ -17399,6 +18885,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 129.794 87.884 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6703408a-b4ca-42af-888b-5c0bd160ba0d")
+		(property "Reference" "C50b1"
+			(at 130.048 84.074 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Adj"
+			(at 128.524 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
+			(at 129.794 87.884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 129.794 87.884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 129.794 87.884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4dd2a736-e065-459e-aca6-2a73a3bb9cec")
+		)
+		(pin "2"
+			(uuid "6235920e-eed8-438c-8b84-bcd06540dbfa")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "C50b1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:L")
 		(at 77.216 157.48 90)
 		(unit 1)
@@ -17669,6 +19225,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 131.826 16.002 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "69785c31-bc77-4664-b365-9f64d597cd00")
+		(property "Reference" "#PWR098"
+			(at 131.826 9.652 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 131.826 11.8689 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 131.826 16.002 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 131.826 16.002 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 131.826 16.002 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "19f45490-0436-471b-89f5-185e795f55a7")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR098")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 41.402 140.208 0)
 		(unit 1)
@@ -17732,6 +19354,76 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C206")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 133.604 19.812 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6ad3741a-3086-469c-b231-032d23e31a53")
+		(property "Reference" "C15c1"
+			(at 133.858 16.002 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Adj"
+			(at 132.334 18.288 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
+			(at 133.604 19.812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 133.604 19.812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 133.604 19.812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cf601fe7-ecac-4ef4-a9b1-cf2085026410")
+		)
+		(pin "2"
+			(uuid "d5d96c19-fd40-4a09-b56d-7d8ac80c8c96")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "C15c1")
 					(unit 1)
 				)
 			)
@@ -18020,7 +19712,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6c53986e-411e-489c-9426-1c7ef0ee14e4")
 		(property "Reference" "#PWR070"
 			(at 60.706 268.478 0)
@@ -18032,7 +19723,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 58.4891 268.478 0)
+			(at 58.166 270.002 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18499,6 +20190,76 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
+		(at 67.564 19.812 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "74baf41e-2cf4-4d97-8347-c33f2c431a3e")
+		(property "Reference" "C12c1"
+			(at 66.294 16.256 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Adj"
+			(at 66.294 18.288 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
+			(at 67.564 19.812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 67.564 19.812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 67.564 19.812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "df3a94d2-a5ed-4555-915c-730a21312f91")
+		)
+		(pin "2"
+			(uuid "80f191cc-6008-4629-915a-59f7304ca1d2")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "C12c1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
 		(at 63.5 24.892 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -18506,8 +20267,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "75c1bb4b-9336-4098-86e6-a7e19939dc05")
-		(property "Reference" "C1"
-			(at 60.706 23.114 0)
+		(property "Reference" "C12"
+			(at 58.928 23.368 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18516,10 +20277,11 @@
 			)
 		)
 		(property "Value" "2.2n"
-			(at 59.436 26.162 0)
+			(at 58.928 26.924 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(color 255 1 72 1)
 				)
 				(justify left)
 			)
@@ -18560,7 +20322,7 @@
 		(instances
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "C1")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -18976,10 +20738,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "78f0ca20-6d72-47dc-9900-97140e96fd41")
 		(property "Reference" "FB9"
-			(at 56.8579 257.5517 90)
+			(at 53.594 263.398 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18987,11 +20748,12 @@
 			)
 		)
 		(property "Value" "FB"
-			(at 56.8579 259.976 90)
+			(at 58.42 262.89 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
@@ -19172,6 +20934,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 106.934 123.444 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7d19fd0b-e0a9-4f5c-81e2-315c3133c0d1")
+		(property "Reference" "C60b1"
+			(at 107.188 119.634 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Adj"
+			(at 105.664 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
+			(at 106.934 123.444 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 106.934 123.444 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 106.934 123.444 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2d047ef1-4e59-4bd9-98f7-af427732505e")
+		)
+		(pin "2"
+			(uuid "675f2593-8bf6-409d-9cac-798959f5477e")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "C60b1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 40.132 195.58 270)
 		(unit 1)
@@ -19317,6 +21149,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 116.84 51.562 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7f1013f3-5fd9-4ef7-84d0-f49ab668d098")
+		(property "Reference" "#PWR0104"
+			(at 116.84 45.212 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 116.84 47.4289 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 116.84 51.562 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 116.84 51.562 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 116.84 51.562 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f74ec4a6-3e44-4be8-9196-acd49c3a361e")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR0104")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 133.858 128.524 0)
 		(mirror y)
@@ -19394,10 +21292,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8126d78a-23cf-4b77-957e-2afb5765cca4")
 		(property "Reference" "FB4"
-			(at 36.0299 262.6317 90)
+			(at 39.116 268.478 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19410,6 +21307,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
@@ -19680,6 +21578,76 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
+		(at 118.872 55.372 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "82ea97f9-2b16-4852-b36b-0878f4a3286f")
+		(property "Reference" "C28b1"
+			(at 117.348 51.816 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Adj"
+			(at 117.602 53.848 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
+			(at 118.872 55.372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 118.872 55.372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 118.872 55.372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8de2aab9-5cfe-4434-b00c-44032574288d")
+		)
+		(pin "2"
+			(uuid "6e743d4c-132a-48a1-98ca-c52039f591af")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "C28b1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
 		(at 76.708 86.868 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -19815,6 +21783,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 86.614 55.372 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "868ac3c4-d7d8-40a0-ad54-b5af1ecf9ed2")
+		(property "Reference" "C23b1"
+			(at 88.138 51.562 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Adj"
+			(at 87.884 53.848 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
+			(at 86.614 55.372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 86.614 55.372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 86.614 55.372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8ec722d7-cf7e-4a40-b963-7ed358dfb02e")
+		)
+		(pin "2"
+			(uuid "6e94c447-a5ae-496c-8452-75e97b9d1a3d")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "C23b1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
 		(at 14.478 28.956 0)
 		(unit 1)
@@ -19941,6 +21978,72 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "#PWR077")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 88.646 16.002 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8ae33c63-6437-4550-936b-a8867dfc41d5")
+		(property "Reference" "#PWR095"
+			(at 88.646 9.652 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 88.646 11.8689 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.646 16.002 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.646 16.002 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 88.646 16.002 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cf9d0ee2-aa97-4335-bfeb-ee061646efbf")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR095")
 					(unit 1)
 				)
 			)
@@ -21695,6 +23798,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 20.066 74.676 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9e24e0c5-2924-4865-bbc2-5add49eabede")
+		(property "Reference" "#PWR0112"
+			(at 20.066 81.026 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 20.066 78.8091 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 20.066 74.676 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 20.066 74.676 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 20.066 74.676 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f048fc1e-3fe0-4084-bfda-7b732434867b")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR0112")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:L")
 		(at 77.216 90.424 90)
 		(unit 1)
@@ -22392,6 +24561,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 110.744 19.812 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a8a2584a-6537-4693-86e6-4e3f96b103d3")
+		(property "Reference" "C11b1"
+			(at 110.998 16.002 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Adj"
+			(at 109.474 18.288 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
+			(at 110.744 19.812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 110.744 19.812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 110.744 19.812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2cf93e92-f6cc-47dd-9d42-daa69d0d614f")
+		)
+		(pin "2"
+			(uuid "3a597b84-f5aa-4841-afbf-80b6bbc7692b")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "C11b1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 160.02 75.946 0)
 		(mirror y)
@@ -22933,6 +25172,75 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "#PWR084")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 106.68 19.812 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ab8de5e0-56bd-4959-b4e6-1029ab6658fc")
+		(property "Reference" "C10b1"
+			(at 106.934 16.002 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Adj"
+			(at 107.95 18.288 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
+			(at 106.68 19.812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 106.68 19.812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 106.68 19.812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1c5cfd52-be3f-4f99-ac3a-2395ce971ac3")
+		)
+		(pin "2"
+			(uuid "09a8732c-b216-48e6-b394-0e4a65497446")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "C10b1")
 					(unit 1)
 				)
 			)
@@ -23565,6 +25873,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 108.966 16.002 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b4eef9ea-f13b-449d-a5bb-1881e09b262f")
+		(property "Reference" "#PWR074"
+			(at 108.966 9.652 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 108.966 11.8689 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 108.966 16.002 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 108.966 16.002 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 108.966 16.002 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b6d3256e-6c73-4592-8b6b-21c4b9d68107")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR074")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 76.454 54.356 90)
 		(unit 1)
@@ -24103,6 +26477,76 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C75")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 90.932 87.884 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ba0a25f3-ecf8-46b7-8f3d-28d317fa1665")
+		(property "Reference" "C43b1"
+			(at 89.662 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Adj"
+			(at 89.662 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
+			(at 90.932 87.884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 90.932 87.884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 90.932 87.884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d6da9b5d-afc1-4295-93e1-b76c42b7cb23")
+		)
+		(pin "2"
+			(uuid "9f91cfc1-8993-4d4f-b321-81fef62ee1d3")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "C43b1")
 					(unit 1)
 				)
 			)
@@ -25277,6 +27721,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 110.998 151.13 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c82f0bf8-3bb8-41db-a1b2-97667f3e65fe")
+		(property "Reference" "#PWR0111"
+			(at 110.998 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 110.998 146.9969 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 110.998 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 110.998 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 110.998 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a3d80c73-7330-4446-83d1-8b80573682b8")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR0111")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:L")
 		(at 124.206 57.912 270)
 		(mirror x)
@@ -25644,6 +28154,75 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
+		(at 129.54 19.812 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cb90b01d-921a-44bc-bfc2-9d34efdce415")
+		(property "Reference" "C15b1"
+			(at 129.794 16.002 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Adj"
+			(at 130.81 18.288 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
+			(at 129.54 19.812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 129.54 19.812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 129.54 19.812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6e74c3f4-ebc2-42af-b5ad-797a7e6a6976")
+		)
+		(pin "2"
+			(uuid "e19c1b25-7d3d-486e-90c7-3d978a820845")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "C15b1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
 		(at 82.55 24.892 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -25665,6 +28244,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(color 255 1 72 1)
 				)
 				(justify left)
 			)
@@ -26797,6 +29377,72 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 14.986 57.912 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "d3f189fd-9700-449f-b67c-8491d47ca5ab")
+		(property "Reference" "H5"
+			(at 13.716 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "M3"
+			(at 13.208 53.848 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad_Via"
+			(at 14.986 57.912 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 14.986 57.912 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 14.986 57.912 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e58a06b2-f038-4d91-930a-c751600c3da9")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "H5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic:Conn_02x05_Odd_Even")
 		(at 45.212 268.478 0)
 		(unit 1)
@@ -26804,7 +29450,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d5edb2e7-9581-48d1-a351-18514f75e33a")
 		(property "Reference" "J3"
 			(at 46.482 257.9835 0)
@@ -26815,7 +29460,7 @@
 			)
 		)
 		(property "Value" "Conn_02x05_Odd_Even"
-			(at 46.482 260.4078 0)
+			(at 46.482 277.114 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28095,6 +30740,75 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
+		(at 86.868 87.884 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e6c9a479-2541-42ca-8286-a1d52ccb1350")
+		(property "Reference" "C42b1"
+			(at 88.392 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Adj"
+			(at 88.138 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
+			(at 86.868 87.884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 86.868 87.884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 86.868 87.884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "92cccb46-7e8e-430f-88c1-72ce97ca4f24")
+		)
+		(pin "2"
+			(uuid "1b556db0-73d2-4aa8-b52e-db2deefe8dd7")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "C42b1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
 		(at 67.818 160.02 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -28642,6 +31356,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 86.868 119.634 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ee0c3b1c-3571-440f-a83f-4bf226a0d73f")
+		(property "Reference" "#PWR0109"
+			(at 86.868 113.284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 86.868 115.5009 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 86.868 119.634 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 86.868 119.634 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 86.868 119.634 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "606fc93e-c122-4b2b-9429-fae40388bea4")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR0109")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 76.962 218.186 90)
 		(unit 1)
@@ -28982,6 +31762,138 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 20.066 70.866 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "f27873f5-e912-47af-a30e-d86d732d41a1")
+		(property "Reference" "H8"
+			(at 18.796 72.898 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "M3"
+			(at 18.542 67.564 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad_Via"
+			(at 20.066 70.866 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 20.066 70.866 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 20.066 70.866 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2506cea8-13d2-4277-9f38-50c585358465")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "H8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 20.066 57.912 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "f2f43e59-0125-470f-8dc3-63df9fac8a28")
+		(property "Reference" "H7"
+			(at 19.05 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "M3"
+			(at 18.796 53.848 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad_Via"
+			(at 20.066 57.912 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 20.066 57.912 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 20.066 57.912 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "04d61ff3-4e63-405b-8e20-65f3086f5f18")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "H7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 41.148 40.386 0)
 		(unit 1)
@@ -29118,6 +32030,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 69.342 92.964 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f51001b4-9940-4684-95ca-2dea7cb06c45")
+		(property "Reference" "C40b1"
+			(at 66.802 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Adj"
+			(at 69.596 94.488 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
+			(at 69.342 92.964 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 69.342 92.964 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 69.342 92.964 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bbbe2a22-7b99-4335-81b9-bb7907d89a95")
+		)
+		(pin "2"
+			(uuid "18ee18c3-758f-405c-95f8-ab32bfd947c7")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "C40b1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 161.544 160.02 90)
 		(mirror x)
@@ -29185,33 +32166,34 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:FerriteBead_Small")
-		(at -41.148 24.13 270)
+		(lib_id "Device:C_Small")
+		(at 63.5 19.812 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f61c80d9-dd12-41f1-b7c1-824c7b5fec5b")
-		(property "Reference" "FB25"
-			(at -41.1099 29.9763 90)
+		(uuid "f6819dce-8f2c-4020-9b4d-5923762e799b")
+		(property "Reference" "C12b1"
+			(at 63.754 16.256 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "FB"
-			(at -41.1099 27.552 90)
+		(property "Value" "Adj"
+			(at 64.77 18.288 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
-			(at -41.148 22.352 90)
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
+			(at 63.5 19.812 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29220,7 +32202,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at -41.148 24.13 0)
+			(at 63.5 19.812 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29228,25 +32210,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Ferrite bead, small symbol"
-			(at -41.148 24.13 0)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 63.5 19.812 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(pin "2"
-			(uuid "0b69a147-429b-478b-b854-dddae486e05e")
 		)
 		(pin "1"
-			(uuid "25231b79-06f0-49c3-af25-cb9190c5eb3e")
+			(uuid "cf457b24-7397-47ea-a084-cd9a1f205094")
+		)
+		(pin "2"
+			(uuid "254063b5-df23-4ad6-bbea-72184e693feb")
 		)
 		(instances
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
-					(reference "FB25")
+					(reference "C12b1")
 					(unit 1)
 				)
 			)
@@ -29317,6 +32299,76 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C226")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 90.678 19.812 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f9c650dd-2fa1-4304-8ed5-57ae090768d8")
+		(property "Reference" "C2b1"
+			(at 90.932 16.002 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Adj"
+			(at 89.408 18.288 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
+			(at 90.678 19.812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 90.678 19.812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 90.678 19.812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "14cc6757-bc92-4558-b2db-036eefe2ed7f")
+		)
+		(pin "2"
+			(uuid "bbea3a1a-4897-4c27-a6bd-b2f7f5a3d78f")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "C2b1")
 					(unit 1)
 				)
 			)
@@ -29597,6 +32649,76 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
+		(at 110.998 87.884 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fcd0a0c1-02da-42df-a60e-7d0e90d3ec7b")
+		(property "Reference" "C46c1"
+			(at 111.252 84.074 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Adj"
+			(at 109.728 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
+			(at 110.998 87.884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 110.998 87.884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 110.998 87.884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e962cd1f-803c-40f7-8f5a-3c43061c1d3f")
+		)
+		(pin "2"
+			(uuid "3ca108c6-f742-4a79-992c-3e40a0e2b031")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "C46c1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
 		(at 41.402 104.648 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -29732,6 +32854,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 14.986 61.722 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fe2d8374-87f0-488f-917f-7d6af247f801")
+		(property "Reference" "#PWR091"
+			(at 14.986 68.072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 14.986 65.8551 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 14.986 61.722 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 14.986 61.722 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 14.986 61.722 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "89389af9-45c0-4c33-9574-098ba084a293")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR091")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 110.998 92.964 0)
 		(unit 1)
@@ -29795,6 +32983,141 @@
 			(project "Zolotarev"
 				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
 					(reference "C49")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 106.68 55.372 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ff158cb0-9d20-406f-8089-9633ec8036f4")
+		(property "Reference" "C26b1"
+			(at 107.95 49.276 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Adj"
+			(at 107.95 53.848 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ATC_B:ATC_500_HandSoldering"
+			(at 106.68 55.372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 106.68 55.372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 106.68 55.372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "84cfaf73-6ea2-4cfb-9c80-938bf805a2c9")
+		)
+		(pin "2"
+			(uuid "c754d97b-8b95-4a09-bf1f-cd58b969b711")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "C26b1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 14.986 74.676 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ff2e3106-84f2-4d27-b768-cbbfcfc8aa24")
+		(property "Reference" "#PWR097"
+			(at 14.986 81.026 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 14.986 78.8091 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 14.986 74.676 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 14.986 74.676 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 14.986 74.676 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8cc6c191-a81b-42d7-94c8-8f1ae3b1ada9")
+		)
+		(instances
+			(project "Zolotarev"
+				(path "/22e54617-b67e-4ebb-8b22-92e0113dad35"
+					(reference "#PWR097")
 					(unit 1)
 				)
 			)
